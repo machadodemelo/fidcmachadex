@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "portfolios": [
+    {
+      "id": "7681d350f2994945ada0590b0e3703c2",
+      "name": "Cloudwalk",
+      "funds": [
+        {
+          "cnpj": "42085816000105",
+          "display_name": "CLOUDWALK KICK ASS I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "42085830000109",
+          "display_name": "CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "42102603000144",
+          "display_name": "CLOUDWALK KICK ASS II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "44124617000194",
+          "display_name": "CLOUDWALK AKIRA II FIDC SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "54218673000141",
+          "display_name": "CLOUDWALK BIG PICTURE I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "54218941000125",
+          "display_name": "CLOUDWALK BIG PICTURE II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "54219179000100",
+          "display_name": "CLOUDWALK BIG PICTURE III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "54248022000102",
+          "display_name": "CLOUDWALK BIG PICTURE IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "57609282000146",
+          "display_name": "CLOUDWALK A.I. FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "60356171000180",
+          "display_name": "CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "62393679000183",
+          "display_name": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        }
+      ],
+      "created_at": "2026-04-24T20:08:19Z",
+      "updated_at": "2026-05-05T19:35:15Z",
+      "notes": ""
+    },
+    {
+      "id": "73645b2112b04ba280bb1b3437a43fc2",
+      "name": "Crédito IFs - Mar26",
+      "funds": [
+        {
+          "cnpj": "08692888000182",
+          "display_name": "CARTÃO DE COMPRA SUPPLIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "50473039000102",
+          "display_name": "SELLER FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "62838025000116",
+          "display_name": "ENDURANCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "55070804000159",
+          "display_name": "ESTRATÉGIA VINCULADA II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "28169275000172",
+          "display_name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS PAGSEGURO I"
+        },
+        {
+          "cnpj": "35868110000154",
+          "display_name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS BV - CRÉDITO DE VEÍCULOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "54559035000194",
+          "display_name": "ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "50988212000105",
+          "display_name": "CARTÃO DE COMPRA SUPPLIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS II-RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "62626887000185",
+          "display_name": "SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "45598747000121",
+          "display_name": "SUMUP SOLO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILI"
+        },
+        {
+          "cnpj": "62588266000154",
+          "display_name": "VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "63546406000194",
+          "display_name": "PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "42085830000109",
+          "display_name": "CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "42085816000105",
+          "display_name": "CLOUDWALK KICK ASS I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO"
+        },
+        {
+          "cnpj": "51957370000152",
+          "display_name": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ANGÁ FGTS I - RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "55401645000128",
+          "display_name": "QUATÁ FDC FGTS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS"
+        },
+        {
+          "cnpj": "26749095000134",
+          "display_name": "PRAVALER CRÉDITO UNIVERSITÁRIO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADAL"
+        },
+        {
+          "cnpj": "54810968000102",
+          "display_name": "ANGÁ FGTS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS"
+        }
+      ],
+      "created_at": "2026-04-23T19:58:33Z",
+      "updated_at": "2026-05-04T17:12:04Z",
+      "notes": ""
+    },
+    {
+      "id": "47b0eb1b7bea42ef85233f9b1186129c",
+      "name": "FIDC Sellers (Soma)",
+      "funds": [
+        {
+          "cnpj": "50473039000102",
+          "display_name": "SELLER FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "55471753000177",
+          "display_name": "SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO RESP LTDA"
+        },
+        {
+          "cnpj": "63572282000111",
+          "display_name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA"
+        }
+      ],
+      "created_at": "2026-04-22T18:32:37Z",
+      "updated_at": "2026-04-22T18:39:41Z",
+      "notes": ""
+    },
+    {
+      "id": "57f3418c1e9341e79edeef6086b8c25d",
+      "name": "Mercado Credito Soma",
+      "funds": [
+        {
+          "cnpj": "33254370000104",
+          "display_name": "MERCADO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "37511828000114",
+          "display_name": "MERCADO CRÉDITO I BRASIL FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "41970012000126",
+          "display_name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA"
+        }
+      ],
+      "created_at": "2026-04-22T16:49:23Z",
+      "updated_at": "2026-05-07T13:06:58Z",
+      "notes": ""
+    },
+    {
+      "id": "eef455671b8e4f7faa0cd247992e3bf7",
+      "name": "Mercado Livre",
+      "funds": [
+        {
+          "cnpj": "50473039000102",
+          "display_name": "SELLER FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "55471753000177",
+          "display_name": "SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO RESP LTDA"
+        },
+        {
+          "cnpj": "63572282000111",
+          "display_name": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA"
+        },
+        {
+          "cnpj": "28472333000132",
+          "display_name": "Mercado Crédito Merchant Fundo de Investimento em Direitos Creditórios"
+        },
+        {
+          "cnpj": "33254370000104",
+          "display_name": "MERCADO CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "37511828000114",
+          "display_name": "MERCADO CRÉDITO I BRASIL FIDC SEGMENTO FINANCEIRO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "41970012000126",
+          "display_name": "MERCADO CRÉDITO II BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA"
+        }
+      ],
+      "created_at": "2026-04-14T22:55:37Z",
+      "updated_at": "2026-04-30T18:44:04Z",
+      "notes": ""
+    },
+    {
+      "id": "f2aaacac4a4a424ab52582611f299bb1",
+      "name": "Pravaler",
+      "funds": [
+        {
+          "cnpj": "08417544000165",
+          "display_name": "CRÉDITO UNIVERSITÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA;"
+        },
+        {
+          "cnpj": "26749095000134",
+          "display_name": "PRAVALER CRÉDITO UNIVERSITÁRIO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESP LIMITADAL"
+        },
+        {
+          "cnpj": "55983705000168",
+          "display_name": "CRÉDITO UNIVERSITÁRIO IV FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+          "cnpj": "34408539000104",
+          "display_name": "CREDITO UNIVERSITARIO III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA"
+        }
+      ],
+      "created_at": "2026-05-04T18:39:45Z",
+      "updated_at": "2026-05-11T20:50:35Z",
+      "notes": ""
+    },
+    {
+      "id": "2637f5679d894995ae2bed14512b2966",
+      "name": "Soma",
+      "funds": [
+        {
+          "cnpj": "41970012000126",
+          "display_name": "41.970.012/0001-26"
+        },
+        {
+          "cnpj": "37511828000114",
+          "display_name": "37.511.828/0001-14"
+        },
+        {
+          "cnpj": "33254370000104",
+          "display_name": "33.254.370/0001-04"
+        }
+      ],
+      "created_at": "2026-04-22T17:02:16Z",
+      "updated_at": "2026-04-22T17:02:16Z",
+      "notes": ""
+    }
+  ]
+}

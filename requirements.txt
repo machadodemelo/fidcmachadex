@@ -1,0 +1,8 @@
+altair>=5
+openpyxl
+pandas
+pdfplumber
+pypdf
+python-pptx
+reportlab
+streamlit
