@@ -1,0 +1,144 @@
+{
+  "sources": [
+    {
+      "source_id": "rcvm_175_page",
+      "title": "Resolução CVM 175 - página oficial",
+      "source_type": "norma_oficial",
+      "location": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html",
+      "notes": "Ponto de entrada oficial com a Parte Geral e o Anexo Normativo II de FIDC."
+    },
+    {
+      "source_id": "rcvm_175_parte_geral",
+      "title": "Resolução CVM 175 - Parte Geral consolidada",
+      "source_type": "norma_oficial",
+      "location": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_ParteGeral.pdf",
+      "notes": "Base para classe, subclasse, deveres do administrador e governança geral do fundo."
+    },
+    {
+      "source_id": "rcvm_175_anexo_ii",
+      "title": "Resolução CVM 175 - Anexo Normativo II (FIDC)",
+      "source_type": "norma_oficial",
+      "location": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_Anexo02.pdf",
+      "notes": "Norma estrutural específica do FIDC."
+    },
+    {
+      "source_id": "rcvm_160",
+      "title": "Resolução CVM 160 consolidada",
+      "source_type": "norma_oficial",
+      "location": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol160consolid.pdf",
+      "notes": "Oferta pública, rito de registro e documentos de distribuição."
+    },
+    {
+      "source_id": "rcvm_30",
+      "title": "Resolução CVM 30 consolidada",
+      "source_type": "norma_oficial",
+      "location": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol030consolid.pdf",
+      "notes": "Categorias de investidores e suitability."
+    },
+    {
+      "source_id": "xml_576_page",
+      "title": "Padrão XML mensal FIDC - CVMWeb",
+      "source_type": "padrao_oficial_reporte",
+      "location": "https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/PadroesXML/PadraoXMLMensalFIDC576.asp",
+      "notes": "Útil para ingestão e semântica de campos do Informe Mensal; não substitui a norma estrutural do fundo."
+    },
+    {
+      "source_id": "oficio_sse_08_2023",
+      "title": "Ofício-Circular CVM/SSE 8/2023",
+      "source_type": "orientacao_oficial",
+      "location": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0823.pdf",
+      "notes": "Orientações operacionais sobre lastro, registro e custódia em FIDC."
+    },
+    {
+      "source_id": "seller_regulamento",
+      "title": "Seller FIDC - regulamento",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/1672581-43161-20230523111704.pdf",
+      "notes": "Exemplo forte de FIDC de meios de pagamento com Mercado Pago e métricas de subordinação/alocação."
+    },
+    {
+      "source_id": "seller_relatorio_mensal",
+      "title": "Seller FIDC - relatório mensal fevereiro/2026",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2159283-43161-20260309175427.pdf",
+      "notes": "Principal referência local de formato de monitoramento."
+    },
+    {
+      "source_id": "facta_regulamento",
+      "title": "Facta INSS CB FIDC - regulamento",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/1599001-38501-20221212113215.pdf",
+      "notes": "Exemplo de consignado benefício com CCB e forte camada de cessão/elegibilidade."
+    },
+    {
+      "source_id": "geru_regulamento",
+      "title": "GERU FIDC I - regulamento",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/1337461-15981-20200901100422.pdf",
+      "notes": "Exemplo com relação mínima, alocação mínima, índice de cobertura e FPD."
+    },
+    {
+      "source_id": "stone_regulamento",
+      "title": "Stone IV - regulamento consolidado",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/1476881-27101-20211224104441.pdf",
+      "notes": "Exemplo de cartão/bancos emissores com cessão sem regresso."
+    },
+    {
+      "source_id": "supplier_regulamento",
+      "title": "Cartão de Compra Supplier FIDC - regulamento",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/1385961-759-20210301165301.pdf",
+      "notes": "Exemplo rico em excesso de spread, reservas, DCV e índice de refinanciamento."
+    },
+    {
+      "source_id": "vw_regulamento",
+      "title": "Volkswagen Tera Recebíveis Comerciais FIDC - regulamento",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2076171-63381-20250204121014.pdf",
+      "notes": "Exemplo útil para resolução de cessão, recompra e erros operacionais."
+    },
+    {
+      "source_id": "agibank_monitoramento",
+      "title": "Agibank I FIDC RL - relatório mensal dezembro/2025",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2156614-81031-20260126104025.pdf",
+      "notes": "Consignado INSS com Banco Agibank como endossante."
+    },
+    {
+      "source_id": "icred_monitoramento",
+      "title": "iCred FGTS FIDC RL - relatório mensal fevereiro/2026",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2159394-59901-20260310142833.pdf",
+      "notes": "Exemplo com originação por fintech em consignado INSS e FGTS."
+    },
+    {
+      "source_id": "cielo_monitoramento",
+      "title": "FIDC Cielo - relatório mensal maio/2025",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2142726-12001-20250623152914.pdf",
+      "notes": "Exemplo de arranjo de pagamentos/adquirência com Cielo como devedor."
+    },
+    {
+      "source_id": "bv_monitoramento",
+      "title": "BV Crédito de Veículos FIDC RL - relatório mensal agosto/2025",
+      "source_type": "documento_oficial_fundo",
+      "location": "estudo/2148594-19371-20250917103827.pdf",
+      "notes": "Exemplo de financiamento de veículos via CCB."
+    },
+    {
+      "source_id": "supplier_oferta_publica",
+      "title": "Supplier FIDC - anúncio de início da oferta pública",
+      "source_type": "documento_oficial_oferta",
+      "location": "estudo/1723661-45441-20231002100653.pdf",
+      "notes": "Exemplo explícito de rito de registro automático e dispensa de prospecto/lâmina."
+    },
+    {
+      "source_id": "seller_oferta_publica",
+      "title": "Seller FIDC - anúncio de início da oferta pública",
+      "source_type": "documento_oficial_oferta",
+      "location": "estudo/1673201-43161-20230525100350.pdf",
+      "notes": "Exemplo de oferta pública primária de cotas seniores sob RCVM 160."
+    }
+  ]
+}

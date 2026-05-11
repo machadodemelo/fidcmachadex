@@ -1,0 +1,121 @@
+{
+  "documents": [
+    {
+      "document_id": "seller_regulamento",
+      "title": "Seller FIDC - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/1672581-43161-20230523111704.pdf",
+      "themes": ["meios de pagamento", "cessão", "elegibilidade", "lastro", "subordinação", "eventos de avaliação"],
+      "page_ids": ["o-que-e-fidc", "participantes", "cessao-e-resolucao", "eventos-avaliacao-liquidacao", "lastro-rating-reporting"],
+      "notes": "Âncora principal para meios de pagamento e para verificação de lastro."
+    },
+    {
+      "document_id": "seller_relatorio",
+      "title": "Seller FIDC - relatório mensal fev/2026",
+      "doc_type": "relatorio_mensal",
+      "path": "estudo/2159283-43161-20260309175427.pdf",
+      "themes": ["monitoramento", "cobertura", "subordinação", "alocação mínima", "prazo médio", "taxa média"],
+      "page_ids": ["overview", "metricas-estruturais", "fundos-de-referencia", "fidcs-originacao-if"],
+      "notes": "Melhor referência local de relatório mensal rico em métricas estruturais."
+    },
+    {
+      "document_id": "facta_regulamento",
+      "title": "Facta INSS CB - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/1599001-38501-20221212113215.pdf",
+      "themes": ["consignado", "ccb", "cessão", "elegibilidade", "liquidação antecipada"],
+      "page_ids": ["o-que-e-fidc", "cessao-e-resolucao", "eventos-avaliacao-liquidacao", "provisao-perdas-e-inadimplencia"],
+      "notes": "Base importante para consignado benefício e documentação da cessão."
+    },
+    {
+      "document_id": "geru_regulamento",
+      "title": "GERU FIDC I - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/1337461-15981-20200901100422.pdf",
+      "themes": ["crédito pessoal", "relação mínima", "alocação mínima", "índice de cobertura", "fpd"],
+      "page_ids": ["metricas-estruturais", "provisao-perdas-e-inadimplencia", "fidcs-originacao-if"],
+      "notes": "Âncora principal para covenants de originação financeira."
+    },
+    {
+      "document_id": "supplier_regulamento",
+      "title": "Supplier - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/1385961-759-20210301165301.pdf",
+      "themes": ["cartão", "excesso de spread", "reservas", "dcv", "refinanciamento"],
+      "page_ids": ["recebiveis-financeiros", "metricas-estruturais", "fundos-de-referencia"],
+      "notes": "Principal âncora local para spread, reservas e refinanciamento."
+    },
+    {
+      "document_id": "stone_regulamento",
+      "title": "Stone IV - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/1476881-27101-20211224104441.pdf",
+      "themes": ["cartão", "sem regresso", "coobrigação", "devedor", "cessão"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "fundos-de-referencia"],
+      "notes": "Exemplo útil para cartão e cessão sem regresso."
+    },
+    {
+      "document_id": "vw_regulamento",
+      "title": "Volkswagen Tera - regulamento",
+      "doc_type": "regulamento",
+      "path": "estudo/2076171-63381-20250204121014.pdf",
+      "themes": ["recompra", "resolução", "pagamentos incorretos", "elegibilidade", "concentração"],
+      "page_ids": ["cessao-e-resolucao", "metricas-estruturais", "lastro-rating-reporting"],
+      "notes": "Âncora local para covenants operacionais e resolução/recompra."
+    },
+    {
+      "document_id": "agibank_relatorio",
+      "title": "Agibank I - relatório mensal dez/2025",
+      "doc_type": "relatorio_mensal",
+      "path": "estudo/2156614-81031-20260126104025.pdf",
+      "themes": ["consignado", "endossante", "ccb", "coobrigação"],
+      "page_ids": ["participantes", "fidcs-originacao-if", "fundos-de-referencia"],
+      "notes": "Exemplo de banco como endossante em carteira consignada."
+    },
+    {
+      "document_id": "icred_relatorio",
+      "title": "iCred FGTS - relatório mensal fev/2026",
+      "doc_type": "relatorio_mensal",
+      "path": "estudo/2159394-59901-20260310142833.pdf",
+      "themes": ["originação fintech", "consignado", "fgts", "tranches"],
+      "page_ids": ["classes-cotas-waterfall", "fidcs-originacao-if", "fundos-de-referencia"],
+      "notes": "Bom caso para múltiplas séries e público-alvo profissional."
+    },
+    {
+      "document_id": "cielo_relatorio",
+      "title": "FIDC Cielo - relatório mensal mai/2025",
+      "doc_type": "relatorio_mensal",
+      "path": "estudo/2142726-12001-20250623152914.pdf",
+      "themes": ["arranjo de pagamentos", "devedor", "credenciados", "rating"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "fundos-de-referencia"],
+      "notes": "Útil para diferenciar cedente, devedor e arranjo."
+    },
+    {
+      "document_id": "bv_relatorio",
+      "title": "BV Veículos - relatório mensal ago/2025",
+      "doc_type": "relatorio_mensal",
+      "path": "estudo/2148594-19371-20250917103827.pdf",
+      "themes": ["veículos", "ccb", "cedente if", "qualificados"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "fundos-de-referencia"],
+      "notes": "Âncora para financiamento de veículos via CCB."
+    },
+    {
+      "document_id": "supplier_oferta",
+      "title": "Supplier - anúncio de início da oferta",
+      "doc_type": "oferta_publica",
+      "path": "estudo/1723661-45441-20231002100653.pdf",
+      "themes": ["oferta pública", "registro automático", "dispensa de prospecto", "cotas seniores"],
+      "page_ids": ["oferta-rating-investidores", "lastro-rating-reporting"],
+      "notes": "Exemplo direto de rito automático sob RCVM 160."
+    },
+    {
+      "document_id": "seller_oferta",
+      "title": "Seller - anúncio de início da oferta",
+      "doc_type": "oferta_publica",
+      "path": "estudo/1673201-43161-20230525100350.pdf",
+      "themes": ["oferta pública", "registro automático", "séries seniores", "coordenador líder"],
+      "page_ids": ["oferta-rating-investidores"],
+      "notes": "Exemplo adicional de oferta pública de cotas seniores."
+    }
+  ]
+}

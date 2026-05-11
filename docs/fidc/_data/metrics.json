@@ -1,0 +1,104 @@
+{
+  "metrics": [
+    {
+      "metric_id": "pl",
+      "title": "Patrimônio líquido",
+      "summary": "Base de escala do fundo e referência para diversas razões e percentuais.",
+      "metric_type": "base",
+      "classification": "quase_universal",
+      "aliases": ["pl", "patrimônio líquido"],
+      "page_ids": ["metricas-estruturais"],
+      "source_ids": ["xml_576_page", "seller_relatorio_mensal"]
+    },
+    {
+      "metric_id": "alocacao_minima",
+      "title": "Alocação mínima",
+      "summary": "Percentual ou condição mínima de alocação em direitos creditórios ou ativos definidos no regulamento.",
+      "metric_type": "estrutural",
+      "classification": "regulamento_dependente",
+      "aliases": ["alocação mínima", "mínimo de alocação"],
+      "page_ids": ["metricas-estruturais", "eventos-avaliacao-liquidacao"],
+      "source_ids": ["seller_relatorio_mensal", "geru_regulamento", "supplier_regulamento"]
+    },
+    {
+      "metric_id": "indice_cobertura",
+      "title": "Índice de cobertura",
+      "summary": "Razão estrutural que tenta aferir a proteção de determinada classe ou tranche.",
+      "metric_type": "estrutural",
+      "classification": "regulamento_dependente",
+      "aliases": ["índice de cobertura", "cobertura"],
+      "page_ids": ["metricas-estruturais", "fidcs-originacao-if"],
+      "source_ids": ["seller_relatorio_mensal", "geru_regulamento"]
+    },
+    {
+      "metric_id": "subordinacao",
+      "title": "Índice de subordinação",
+      "summary": "Mede o colchão estrutural de proteção para classes mais seniores, conforme definição do fundo.",
+      "metric_type": "estrutural",
+      "classification": "quase_universal",
+      "aliases": ["subordinação", "índice de subordinação"],
+      "page_ids": ["classes-cotas-waterfall", "metricas-estruturais"],
+      "source_ids": ["seller_relatorio_mensal", "vw_regulamento"]
+    },
+    {
+      "metric_id": "inadimplencia",
+      "title": "Inadimplência / atraso",
+      "summary": "Indicador de atraso ou crédito vencido, cuja definição exata varia conforme fonte e regulamento.",
+      "metric_type": "performance",
+      "classification": "quase_universal",
+      "aliases": ["inadimplência", "atraso", "vencido"],
+      "page_ids": ["metricas-estruturais", "provisao-perdas-e-inadimplencia"],
+      "source_ids": ["xml_576_page", "seller_relatorio_mensal", "facta_regulamento"]
+    },
+    {
+      "metric_id": "provisao",
+      "title": "Provisão / perda esperada",
+      "summary": "Camada contábil e econômica de absorção de perdas, dependente do regulamento, da política contábil e do tipo de carteira.",
+      "metric_type": "performance",
+      "classification": "regulamento_dependente",
+      "aliases": ["provisão", "perda esperada", "pdd"],
+      "page_ids": ["provisao-perdas-e-inadimplencia"],
+      "source_ids": ["geru_regulamento", "facta_regulamento"]
+    },
+    {
+      "metric_id": "excesso_spread",
+      "title": "Excesso de spread",
+      "summary": "Métrica estrutural relevante em carteiras de cartão e supplier para capturar folga econômica da carteira após custos e remunerações.",
+      "metric_type": "estrutural",
+      "classification": "fundo_especifico_recorrente",
+      "aliases": ["excesso de spread", "spread"],
+      "page_ids": ["metricas-estruturais", "recebiveis-financeiros"],
+      "source_ids": ["supplier_regulamento"]
+    },
+    {
+      "metric_id": "fpd",
+      "title": "First payment default",
+      "summary": "Indicador de inadimplência de primeiro pagamento, muito sensível à qualidade da originação.",
+      "metric_type": "performance",
+      "classification": "fundo_especifico_recorrente",
+      "aliases": ["first payment default", "fpd", "inadimplência de primeiro pagamento"],
+      "page_ids": ["metricas-estruturais", "fidcs-originacao-if"],
+      "source_ids": ["geru_regulamento"]
+    },
+    {
+      "metric_id": "reserva_liquidez",
+      "title": "Reserva de liquidez / caixa / despesas",
+      "summary": "Camada de liquidez e proteção operacional que pode aparecer em formas distintas conforme o fundo.",
+      "metric_type": "estrutural",
+      "classification": "regulamento_dependente",
+      "aliases": ["reserva de liquidez", "reserva de caixa", "reserva de despesas"],
+      "page_ids": ["metricas-estruturais", "eventos-avaliacao-liquidacao"],
+      "source_ids": ["supplier_regulamento", "geru_regulamento", "vw_regulamento"]
+    },
+    {
+      "metric_id": "recompra_resolucao",
+      "title": "Índices de recompra / resolução / erros",
+      "summary": "Indicadores operacionais relevantes em certas estruturas para medir problemas do ativo cedido ou do processo de cessão.",
+      "metric_type": "operacional",
+      "classification": "fundo_especifico_recorrente",
+      "aliases": ["recompra", "resolução", "erros", "pagamentos incorretos"],
+      "page_ids": ["cessao-e-resolucao", "metricas-estruturais"],
+      "source_ids": ["vw_regulamento"]
+    }
+  ]
+}

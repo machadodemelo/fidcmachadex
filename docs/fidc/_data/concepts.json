@@ -1,0 +1,100 @@
+{
+  "concepts": [
+    {
+      "concept_id": "fidc",
+      "title": "FIDC",
+      "summary": "Veículo de investimento em direitos creditórios regido principalmente pela Resolução CVM 175 e pelo Anexo Normativo II.",
+      "aliases": ["fidc", "fundo de investimento em direitos creditórios"],
+      "page_ids": ["overview", "o-que-e-fidc"],
+      "source_ids": ["rcvm_175_page", "rcvm_175_anexo_ii"]
+    },
+    {
+      "concept_id": "direitos_creditorios",
+      "title": "Direitos creditórios",
+      "summary": "Créditos elegíveis ao fundo conforme política de investimento, cessão e regulamento do veículo.",
+      "aliases": ["direitos creditórios", "recebíveis", "créditos elegíveis"],
+      "page_ids": ["o-que-e-fidc", "recebiveis-financeiros"],
+      "source_ids": ["rcvm_175_anexo_ii", "seller_regulamento", "facta_regulamento"]
+    },
+    {
+      "concept_id": "cedente",
+      "title": "Cedente",
+      "summary": "Parte que transfere o crédito ao fundo, podendo ou não coincidir com o originador.",
+      "aliases": ["cedente", "endossante"],
+      "page_ids": ["participantes", "fidcs-originacao-if"],
+      "source_ids": ["seller_regulamento", "agibank_monitoramento", "bv_monitoramento"]
+    },
+    {
+      "concept_id": "originador",
+      "title": "Originador",
+      "summary": "Quem gera economicamente o crédito na origem, ainda que não seja o cedente formal.",
+      "aliases": ["originador", "originação"],
+      "page_ids": ["participantes", "fidcs-originacao-if"],
+      "source_ids": ["icred_monitoramento", "geru_regulamento"]
+    },
+    {
+      "concept_id": "contrato_cessao",
+      "title": "Contrato de cessão",
+      "summary": "Instrumento que conecta a origem do crédito à carteira do fundo e disciplina transferência, elegibilidade e documentação.",
+      "aliases": ["cessão", "contrato de cessão", "termo de transferência"],
+      "page_ids": ["cessao-e-resolucao"],
+      "source_ids": ["facta_regulamento", "seller_regulamento", "vw_regulamento"]
+    },
+    {
+      "concept_id": "classes_cotas",
+      "title": "Classes, subclasses e cotas",
+      "summary": "Estruturação do fundo por classes ou subclasses, convivendo com a linguagem de cotas sênior, mezanino e subordinada.",
+      "aliases": ["classe", "subclasse", "cotas", "sênior", "mezanino", "subordinada"],
+      "page_ids": ["classes-cotas-waterfall"],
+      "source_ids": ["rcvm_175_parte_geral", "rcvm_175_anexo_ii"]
+    },
+    {
+      "concept_id": "waterfall",
+      "title": "Waterfall",
+      "summary": "Ordem econômica de alocação do caixa do fundo entre despesas, remuneração, amortização e absorção de perdas.",
+      "aliases": ["waterfall", "cascata", "ordem de alocação"],
+      "page_ids": ["classes-cotas-waterfall"],
+      "source_ids": ["geru_regulamento", "seller_regulamento"]
+    },
+    {
+      "concept_id": "subordinacao",
+      "title": "Subordinação",
+      "summary": "Colchão estrutural que protege as classes mais seniores, mas que depende da definição do regulamento e da dinâmica de perdas.",
+      "aliases": ["subordinação", "colchão", "subordination"],
+      "page_ids": ["classes-cotas-waterfall", "metricas-estruturais"],
+      "source_ids": ["seller_relatorio_mensal", "geru_regulamento"]
+    },
+    {
+      "concept_id": "evento_avaliacao",
+      "title": "Evento de avaliação",
+      "summary": "Gatilho contratual que leva a estrutura para reavaliação formal, sem equivaler automaticamente à liquidação antecipada.",
+      "aliases": ["evento de avaliação", "gatilho de avaliação"],
+      "page_ids": ["eventos-avaliacao-liquidacao"],
+      "source_ids": ["seller_regulamento", "facta_regulamento", "geru_regulamento"]
+    },
+    {
+      "concept_id": "liquidacao_antecipada",
+      "title": "Liquidação antecipada",
+      "summary": "Estágio mais grave de deterioração ou evento contratual, podendo acelerar amortização ou levar à liquidação da estrutura.",
+      "aliases": ["liquidação antecipada", "evento de liquidação"],
+      "page_ids": ["eventos-avaliacao-liquidacao"],
+      "source_ids": ["facta_regulamento", "geru_regulamento"]
+    },
+    {
+      "concept_id": "rating",
+      "title": "Rating",
+      "summary": "Mecanismo recorrente de mercado e de oferta que não deve ser tratado como universal para todo FIDC sem leitura do contexto normativo e documental.",
+      "aliases": ["rating", "classificação de risco", "agência classificadora"],
+      "page_ids": ["oferta-rating-investidores", "eventos-avaliacao-liquidacao"],
+      "source_ids": ["rcvm_175_anexo_ii", "supplier_oferta_publica", "seller_relatorio_mensal"]
+    },
+    {
+      "concept_id": "lastro",
+      "title": "Verificação de lastro",
+      "summary": "Rotina crítica de validação documental e operacional dos créditos, distinta da simples auditoria das demonstrações financeiras.",
+      "aliases": ["lastro", "verificação de lastro", "auditoria de lastro"],
+      "page_ids": ["eventos-avaliacao-liquidacao"],
+      "source_ids": ["oficio_sse_08_2023", "seller_regulamento", "vw_regulamento"]
+    }
+  ]
+}

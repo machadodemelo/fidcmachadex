@@ -1,0 +1,186 @@
+{
+  "sections": [
+    {
+      "section_id": "comece-aqui",
+      "title": "Comece Aqui",
+      "description": "Trilha de leitura e o que o Informe Mensal cobre e não cobre.",
+      "pages": [
+        {
+          "page_id": "overview",
+          "title": "Guia de uso deste glossário",
+          "summary": "Trilha de leitura sugerida para analistas de crédito que estão começando com FIDCs. Explica o que o Informe Mensal entrega e onde ele tem limites.",
+          "path": "overview.md",
+          "level": "base",
+          "keywords": ["metodologia", "fontes", "trilha", "visão geral"],
+          "source_ids": ["rcvm_175_page", "xml_576_page", "seller_relatorio_mensal"]
+        }
+      ]
+    },
+    {
+      "section_id": "glossario",
+      "title": "Fundamentos",
+      "description": "O que é um FIDC, como os créditos entram na carteira e quem tem qual papel na estrutura.",
+      "pages": [
+        {
+          "page_id": "o-que-e-fidc",
+          "title": "O que é FIDC e o que são direitos creditórios",
+          "summary": "O que é um FIDC, o que são direitos creditórios e por que a natureza do crédito define o perfil de risco da carteira.",
+          "path": "glossario/o-que-e-fidc.md",
+          "level": "base",
+          "keywords": ["fidc", "direitos creditórios", "patrimônio separado", "cvm 175"],
+          "source_ids": ["rcvm_175_anexo_ii", "seller_regulamento", "facta_regulamento"]
+        },
+        {
+          "page_id": "participantes",
+          "title": "Participantes da estrutura e papéis operacionais",
+          "summary": "Quem tem qual papel na estrutura — administrador, gestor, custodiante, cedente, originador e agente de cobrança — e por que confundir essas funções gera leituras erradas de risco.",
+          "path": "participantes/participantes.md",
+          "level": "base",
+          "keywords": ["administrador", "gestor", "custodiante", "cedente", "originador", "devedor"],
+          "source_ids": ["rcvm_175_parte_geral", "rcvm_175_anexo_ii", "seller_regulamento", "agibank_monitoramento"]
+        },
+        {
+          "page_id": "cessao-e-resolucao",
+          "title": "Contrato de cessão, elegibilidade e resolução",
+          "summary": "Como um crédito entra no fundo, o que torna a cessão válida e o que acontece quando um crédito se mostra inelegível — recompra, resolução ou substituição.",
+          "path": "glossario/cessao-e-resolucao.md",
+          "level": "intermediario",
+          "keywords": ["cessão", "elegibilidade", "resolução", "recompra", "substituição"],
+          "source_ids": ["facta_regulamento", "seller_regulamento", "vw_regulamento"]
+        }
+      ]
+    },
+    {
+      "section_id": "regulacao",
+      "title": "Marco regulatório",
+      "description": "CVM 175, 160 e 30: o que cada norma regula e quando cada uma é relevante para quem analisa FIDCs.",
+      "pages": [
+        {
+          "page_id": "hierarquia-regulatoria",
+          "title": "Hierarquia regulatória: 175, 160, 30 e o padrão XML",
+          "summary": "CVM 175, CVM 160, CVM 30 e padrão XML do Informe Mensal: o que cada norma regula e quando cada uma é relevante para a análise.",
+          "path": "regulacao/hierarquia-regulatoria.md",
+          "level": "base",
+          "keywords": ["175", "160", "30", "576", "oferta", "investidor profissional", "investidor qualificado"],
+          "source_ids": ["rcvm_175_page", "rcvm_175_parte_geral", "rcvm_175_anexo_ii", "rcvm_160", "rcvm_30", "xml_576_page"]
+        },
+        {
+          "page_id": "oferta-rating-investidores",
+          "title": "Oferta pública, rating e categorias de investidor",
+          "summary": "Quem pode investir, como as cotas foram distribuídas e o que o rating significa (e não significa) para a análise de risco.",
+          "path": "regulacao/oferta-rating-e-investidores.md",
+          "level": "intermediario",
+          "keywords": ["oferta pública", "registro automático", "rating", "investidor profissional", "investidor qualificado"],
+          "source_ids": ["rcvm_160", "rcvm_30", "rcvm_175_anexo_ii", "supplier_oferta_publica", "seller_oferta_publica"]
+        }
+      ]
+    },
+    {
+      "section_id": "estrutura",
+      "title": "Como o fundo divide risco",
+      "description": "Como o fundo divide o risco entre cotistas sênior e subordinado, e como o caixa flui em cada cenário.",
+      "pages": [
+        {
+          "page_id": "classes-cotas-waterfall",
+          "title": "Classes, subclasses, cotas e waterfall",
+          "summary": "Como as classes de cotas dividem o risco entre investidores, o que é o waterfall e o que o índice de subordinação de fato informa — e o que ele não informa.",
+          "path": "estruturas/classes-cotas-waterfall.md",
+          "level": "intermediario",
+          "keywords": ["classes", "subclasses", "cotas", "waterfall", "subordinação"],
+          "source_ids": ["rcvm_175_parte_geral", "rcvm_175_anexo_ii", "seller_regulamento", "icred_monitoramento"]
+        }
+      ]
+    },
+    {
+      "section_id": "recebiveis",
+      "title": "Famílias de recebíveis",
+      "description": "Consignado, crédito pessoal, cartão, meios de pagamento e veículos: o que muda no risco de cada família.",
+      "pages": [
+        {
+          "page_id": "recebiveis-financeiros",
+          "title": "Recebíveis financeiros: principais famílias e o que muda no risco",
+          "summary": "Consignado, crédito pessoal, cartão, meios de pagamento e veículos: por que cada família tem risco diferente e o que observar em cada uma no Informe Mensal.",
+          "path": "recebiveis/recebiveis-financeiros.md",
+          "level": "intermediario",
+          "keywords": ["consignado", "ccb", "cartão", "meios de pagamento", "veículos", "fgts"],
+          "source_ids": ["seller_regulamento", "facta_regulamento", "geru_regulamento", "stone_regulamento", "cielo_monitoramento", "bv_monitoramento"]
+        },
+        {
+          "page_id": "fidcs-originacao-if",
+          "title": "FIDCs com cedentes IFs ou carteiras originadas por IFs: análise comparativa",
+          "summary": "Quando o cedente é um banco ou fintech, o risco de originação entra na análise. Comparativo por família de crédito e o que observar além da inadimplência direta.",
+          "path": "tipos-de-fundos/fidcs-com-originacao-if.md",
+          "level": "intermediario",
+          "keywords": ["instituição financeira", "originação", "cedente", "comparativo", "agibank", "facta", "geru", "seller", "cielo", "bv", "icred"],
+          "source_ids": ["agibank_monitoramento", "icred_monitoramento", "seller_relatorio_mensal", "cielo_monitoramento", "bv_monitoramento", "geru_regulamento", "facta_regulamento"]
+        }
+      ]
+    },
+    {
+      "section_id": "monitoramento",
+      "title": "Como ler os indicadores",
+      "description": "Quais indicadores monitorar, como interpretar inadimplência, provisão e perda, e o que o Informe Mensal cobre ou não cobre.",
+      "pages": [
+        {
+          "page_id": "metricas-estruturais",
+          "title": "Métricas estruturais, inadimplência e guardrails",
+          "summary": "Quais indicadores monitorar em qualquer FIDC, quais dependem do regulamento específico e como ler subordinação, cobertura, excesso de spread e FPD na prática.",
+          "path": "metricas/metricas-estruturais.md",
+          "level": "intermediario",
+          "keywords": ["subordinação", "cobertura", "alocação mínima", "inadimplência", "spread", "reserva", "concentração"],
+          "source_ids": ["seller_relatorio_mensal", "supplier_regulamento", "geru_regulamento", "facta_regulamento", "vw_regulamento", "oficio_sse_08_2023"]
+        },
+        {
+          "page_id": "provisao-perdas-e-inadimplencia",
+          "title": "Provisionamento, perdas e inadimplência",
+          "summary": "As três camadas que o mercado costuma confundir: atraso (comportamento do crédito), provisão (decisão contábil) e perda realizada (absorção econômica). Como ler o aging do Informe Mensal.",
+          "path": "metricas/provisao-perdas-e-inadimplencia.md",
+          "level": "intermediario",
+          "keywords": ["provisão", "perda esperada", "inadimplência", "atraso", "pdd"],
+          "source_ids": ["facta_regulamento", "geru_regulamento", "seller_relatorio_mensal"]
+        }
+      ]
+    },
+    {
+      "section_id": "eventos",
+      "title": "O que aciona uma intervenção",
+      "description": "Quando uma estrutura aciona evento de avaliação ou liquidação, e como verificação de lastro, relatórios e assembleias funcionam.",
+      "pages": [
+        {
+          "page_id": "eventos-avaliacao-liquidacao",
+          "title": "Eventos de avaliação, liquidação antecipada e controles",
+          "summary": "O que aciona um evento de avaliação, o que aciona liquidação antecipada e como o Informe Mensal ajuda (e não ajuda) a identificar esses sinais.",
+          "path": "eventos/eventos-de-avaliacao-e-liquidacao.md",
+          "level": "intermediario",
+          "keywords": ["evento de avaliação", "liquidação antecipada", "lastro", "rating", "assembleia", "gatilho"],
+          "source_ids": ["rcvm_175_anexo_ii", "seller_regulamento", "facta_regulamento", "geru_regulamento", "supplier_regulamento", "oficio_sse_08_2023"]
+        },
+        {
+          "page_id": "lastro-rating-reporting",
+          "title": "Lastro, rating, relatórios e assembleias",
+          "summary": "Verificação de lastro, relatórios mensais, assembleias e rating: o que cada mecanismo faz e como usá-los juntos na análise.",
+          "path": "eventos/lastro-rating-e-reporting.md",
+          "level": "intermediario",
+          "keywords": ["lastro", "rating", "relatório mensal", "assembleia", "informe trimestral", "controle"],
+          "source_ids": ["oficio_sse_08_2023", "seller_regulamento", "seller_relatorio_mensal", "supplier_oferta_publica"]
+        }
+      ]
+    },
+    {
+      "section_id": "fundos-referencia",
+      "title": "Casos usados no glossário",
+      "description": "Fundos reais usados como exemplos ao longo do glossário, por família de crédito.",
+      "pages": [
+        {
+          "page_id": "fundos-de-referencia",
+          "title": "Fundos usados como referência neste glossário",
+          "summary": "Por que cada fundo foi escolhido e em que tema ele ilustra melhor os conceitos discutidos nas demais páginas.",
+          "path": "tipos-de-fundos/fundos-de-referencia.md",
+          "level": "base",
+          "keywords": ["fundos de referência", "seller", "facta", "geru", "agibank", "icred", "cielo", "bv", "stone"],
+          "source_ids": ["seller_relatorio_mensal", "facta_regulamento", "geru_regulamento", "agibank_monitoramento", "icred_monitoramento", "cielo_monitoramento", "bv_monitoramento", "stone_regulamento"]
+        }
+      ]
+    }
+  ]
+}

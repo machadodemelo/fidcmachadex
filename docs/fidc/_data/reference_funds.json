@@ -1,0 +1,76 @@
+{
+  "funds": [
+    {
+      "fund_id": "seller",
+      "title": "Seller FIDC",
+      "receivable_family": "Meios de pagamento / arranjo de pagamentos",
+      "origin_profile": "Ecossistema Mercado Pago / Mercado Crédito",
+      "risk_focus": "Cobertura, subordinação, subordinação para amortização, alocação mínima e risco operacional do arranjo.",
+      "source_ids": ["seller_regulamento", "seller_relatorio_mensal"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "metricas-estruturais"]
+    },
+    {
+      "fund_id": "facta_inss_cb",
+      "title": "Facta INSS CB FIDC",
+      "receivable_family": "Consignado INSS / benefício via CCB",
+      "origin_profile": "Financeira com foco em consignado",
+      "risk_focus": "Elegibilidade, cessão, documentação, governança de inconsistências e eventos de liquidação.",
+      "source_ids": ["facta_regulamento"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "cessao-e-resolucao"]
+    },
+    {
+      "fund_id": "geru",
+      "title": "GERU FIDC I",
+      "receivable_family": "Crédito pessoal / fintech",
+      "origin_profile": "Originação digital",
+      "risk_focus": "Relação mínima, alocação mínima, índice de cobertura e FPD.",
+      "source_ids": ["geru_regulamento"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if", "metricas-estruturais"]
+    },
+    {
+      "fund_id": "agibank",
+      "title": "Agibank I FIDC RL",
+      "receivable_family": "Consignado INSS via CCB",
+      "origin_profile": "Banco Agibank como endossante",
+      "risk_focus": "Consignação, endosso, elegibilidade da carteira e pré-pagamento.",
+      "source_ids": ["agibank_monitoramento"],
+      "page_ids": ["fidcs-originacao-if", "participantes"]
+    },
+    {
+      "fund_id": "icred_fgts",
+      "title": "iCred FGTS FIDC RL",
+      "receivable_family": "Consignado INSS / FGTS",
+      "origin_profile": "Fintech originadora",
+      "risk_focus": "Múltiplas séries e classes econômicas, benchmark por tranche e risco de canal de originação.",
+      "source_ids": ["icred_monitoramento"],
+      "page_ids": ["fidcs-originacao-if", "classes-cotas-waterfall"]
+    },
+    {
+      "fund_id": "cielo",
+      "title": "FIDC Cielo",
+      "receivable_family": "Arranjo de pagamentos / adquirência",
+      "origin_profile": "Estabelecimentos credenciados com Cielo como devedor na estrutura monitorada",
+      "risk_focus": "Risco operacional do arranjo e leitura correta do devedor econômico.",
+      "source_ids": ["cielo_monitoramento"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if"]
+    },
+    {
+      "fund_id": "bv_veiculos",
+      "title": "BV Crédito de Veículos FIDC RL",
+      "receivable_family": "Financiamento de veículos via CCB",
+      "origin_profile": "Banco Votorantim como cedente",
+      "risk_focus": "Safra, prazo, inadimplência e concentração.",
+      "source_ids": ["bv_monitoramento"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if"]
+    },
+    {
+      "fund_id": "stone_iv",
+      "title": "Stone IV",
+      "receivable_family": "Cartão / bancos emissores",
+      "origin_profile": "Ecossistema de emissão de cartão",
+      "risk_focus": "Sem regresso/coobrigação, concentração e dinâmica operacional dos créditos de cartão.",
+      "source_ids": ["stone_regulamento"],
+      "page_ids": ["recebiveis-financeiros", "fidcs-originacao-if"]
+    }
+  ]
+}
