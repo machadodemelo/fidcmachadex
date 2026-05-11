@@ -1,0 +1,9 @@
+{
+  "incluir_merges": false,
+  "incluir_prs": true,
+  "limiar_sessao_min": 90,
+  "overhead_sessao_min": 20,
+  "repositorios": [
+    "abalroar/fidc"
+  ]
+}

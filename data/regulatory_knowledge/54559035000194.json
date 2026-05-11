@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "fund_name": "ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "54.559.035/0001-94",
+  "generated_at": "2026-05-10T03:15:14Z",
+  "documents": [
+    {
+      "id": 634435,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "01/04/2024",
+      "data_entrega": "05/04/2024 11:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/634435_assembleia_assembleia_634435_2024-04-01.pdf"
+    },
+    {
+      "id": 634437,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/04/2024",
+      "data_entrega": "05/04/2024 11:27",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/634437_regulamento_regulamento_634437_2024-04-05.pdf"
+    },
+    {
+      "id": 634463,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/04/2024",
+      "data_entrega": "05/04/2024 11:30",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/634463_regulamento_regulamento_634463_2024-04-05.pdf"
+    },
+    {
+      "id": 634466,
+      "categoria": "Outras Informações",
+      "tipo": "Outros Documentos",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "05/04/2024",
+      "data_entrega": "05/04/2024 11:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 634469,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "05/04/2024",
+      "data_entrega": "05/04/2024 11:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/634469_emissao_emissao_634469_2024-04-05.pdf"
+    },
+    {
+      "id": 664160,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "23/04/2024",
+      "data_entrega": "16/05/2024 11:46",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/664160_emissao_emissao_664160_2024-04-23.pdf"
+    },
+    {
+      "id": 672167,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "08/05/2024 10:00",
+      "data_entrega": "29/05/2024 19:14",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/672167_assembleia_assembleia_672167_2024-05-08.pdf"
+    },
+    {
+      "id": 727013,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/05/2024",
+      "data_entrega": "27/08/2024 16:36",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 720821,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2024",
+      "data_entrega": "15/08/2024 18:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 780816,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2024",
+      "data_entrega": "14/11/2024 19:09",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 840412,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2024",
+      "data_entrega": "14/02/2025 14:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 903905,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2025",
+      "data_entrega": "15/05/2025 10:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 968565,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/05/2025",
+      "data_entrega": "13/08/2025 18:44",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 970673,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2025",
+      "data_entrega": "14/08/2025 17:52",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1037412,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "13/11/2025 19:27",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1027103,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "28/10/2025 11:00",
+      "data_entrega": "04/11/2025 09:47",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/54559035000194/1027103_assembleia_assembleia_1027103_2025-10-28.pdf"
+    },
+    {
+      "id": 1111924,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "12/02/2026 19:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50 %",
+      "comparison": ">=",
+      "formula_text": "iciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. “Acordo Operacional” Significa o “ Acordo Operacional e Outras Avenças ”, celebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação M…",
+      "source_excerpt": "iciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. “Acordo Operacional” Significa o “ Acordo Operacional e Outras Avenças ”, celebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634435_assembleia_assembleia_634435_2024-04-01.pdf",
+      "source_document_id": 634435,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50 %",
+      "comparison": ">=",
+      "formula_text": "o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação Mínima de Investimento” Significa a alocação de, pelo menos, 50 % (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. “Alocação M…",
+      "source_excerpt": "o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação Mínima de Investimento” Significa a alocação de, pelo menos, 50 % (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. “Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634435_assembleia_assembleia_634435_2024-04-01.pdf",
+      "source_document_id": 634435,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50 %",
+      "comparison": ">=",
+      "formula_text": "iciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. “Acordo Operacional” Significa o “ Acordo Operacional e Outras Avenças ”, celebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação M…",
+      "source_excerpt": "iciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. “Acordo Operacional” Significa o “ Acordo Operacional e Outras Avenças ”, celebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634437_regulamento_regulamento_634437_2024-04-05.pdf",
+      "source_document_id": 634437,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50 %",
+      "comparison": ">=",
+      "formula_text": "o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação Mínima de Investimento” Significa a alocação de, pelo menos, 50 % (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. “Alocação M…",
+      "source_excerpt": "o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. “Administrador” Tem o seu significado atribuído no Regulamento; “Alocação Mínima de Investimento” Significa a alocação de, pelo menos, 50 % (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. “Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634437_regulamento_regulamento_634437_2024-04-05.pdf",
+      "source_document_id": 634437,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "seus anexos, os termos e expressões iniciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. Acordo Operacional Acordo Operacional e Outras Avençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulame…",
+      "source_excerpt": "seus anexos, os termos e expressões iniciados em letra maiúscula terão os significados a eles atribuídos abaixo e/ou no Regulamento, conforme o caso. Acordo Operacional Acordo Operacional e Outras Avençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulame…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634463_regulamento_regulamento_634463_2024-04-05.pdf",
+      "source_document_id": 634463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "vençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativ…",
+      "source_excerpt": "vençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativ…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "634463_regulamento_regulamento_634463_2024-04-05.pdf",
+      "source_document_id": 634463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. “Despesas da Classe” Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente , considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. “Direitos Creditórios Adquirid…",
+      "source_excerpt": "os como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. “Despesas da Classe” Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente , considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. “Direitos Creditórios Adquirid…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o Patrimônio Líquido da Classe está negativo, ou tenha ciência do pedido de declaração judicial de insolvência da Classe ou da declaração judicial de insolvência da Classe, deverá adotar as medidas aplicáveis previstas na Resolução CVM 175/22. DocuSign Envelope ID: 68DDCE53-3185-4627-BC74-590E3795E0B5 JUR_SP - 51164895v4 - 1040068.529761 2.2. Objeto. A Classe Única é uma comunhão de recursos destinados, preponderant…",
+      "source_excerpt": "o Patrimônio Líquido da Classe está negativo, ou tenha ciência do pedido de declaração judicial de insolvência da Classe ou da declaração judicial de insolvência da Classe, deverá adotar as medidas aplicáveis previstas na Resolução CVM 175/22. DocuSign Envelope ID: 68DDCE53-3185-4627-BC74-590E3795E0B5 JUR_SP - 51164895v4 - 1040068.529761 2.2. Objeto. A Classe Única é uma comunhão de recursos destinados, preponderant…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "omente poderá adquirir Direitos Creditórios que atendam à Política de Investimento e aos respectivos Critérios de Elegibilidade, verificados em cada respectiva Data de Aquisição. 3.2.3. Os Direitos Creditórios serão adquiridos pela Classe, por intermédio do Fundo, por meio da celebração do Contrato CDB entre o Fundo, em benefício da Classe, e o Banco IBM. 3.3. Formalização da Aquisição dos Direitos Creditórios. 3.3.…",
+      "source_excerpt": "omente poderá adquirir Direitos Creditórios que atendam à Política de Investimento e aos respectivos Critérios de Elegibilidade, verificados em cada respectiva Data de Aquisição. 3.2.3. Os Direitos Creditórios serão adquiridos pela Classe, por intermédio do Fundo, por meio da celebração do Contrato CDB entre o Fundo, em benefício da Classe, e o Banco IBM. 3.3. Formalização da Aquisição dos Direitos Creditórios. 3.3.…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dição à verificação integral dos Documentos Comprobatórios conforme a metodologia disposta acima, o Custodiante verificará, de maneira integral, os Direitos Creditórios Inadimplidos e os Direitos Creditórios Adquiridos substituídos no respectivo trimestre. 5. POLÍTICA DE INVESTIMENTO, COMPOSIÇÃO E DIVERSIFICAÇÃO DA CARTEIRA 5.1. O objetivo da Classe é proporcionar aos seus Cotistas a valorização de suas Cotas, por m…",
+      "source_excerpt": "dição à verificação integral dos Documentos Comprobatórios conforme a metodologia disposta acima, o Custodiante verificará, de maneira integral, os Direitos Creditórios Inadimplidos e os Direitos Creditórios Adquiridos substituídos no respectivo trimestre. 5. POLÍTICA DE INVESTIMENTO, COMPOSIÇÃO E DIVERSIFICAÇÃO DA CARTEIRA 5.1. O objetivo da Classe é proporcionar aos seus Cotistas a valorização de suas Cotas, por m…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o manual de precificação do Administrador dispon ível em “http://www.oliveiratrust.com.br/portal/docs/ManualdePrecificacaodeAtivos_MTM.pdf”; e (ii) os Direitos Creditórios Adquiridos serão contabilizados e re gistrados com base em seu Preço de Aquisição, com apropriação de seus respectivos rendimentos, conforme a taxa interna de retorno (TIR) calculada na Data de Aquisição pelo prazo a decorrer até a respectiva Data…",
+      "source_excerpt": "o manual de precificação do Administrador dispon ível em “http://www.oliveiratrust.com.br/portal/docs/ManualdePrecificacaodeAtivos_MTM.pdf”; e (ii) os Direitos Creditórios Adquiridos serão contabilizados e re gistrados com base em seu Preço de Aquisição, com apropriação de seus respectivos rendimentos, conforme a taxa interna de retorno (TIR) calculada na Data de Aquisição pelo prazo a decorrer até a respectiva Data…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. “Despesas da Classe” Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente , considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. “Direitos Creditórios Adquirid…",
+      "source_excerpt": "os como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. “Despesas da Classe” Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente , considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. “Direitos Creditórios Adquirid…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ilidade do Cotista está limitada ao valor por ele subscrito. Caso o Administrador verifique que o Patrimônio Líquido da Classe está negativo, ou tenha ciência do pedido de declaração judicial de insolvência da Classe ou da declaração judicial de insolvência da Classe, deverá adotar as medidas aplicáveis previstas na Resolução CVM 175/22. 2.2. Objeto. A Classe Única é uma comunhão de recursos destinados, preponderant…",
+      "source_excerpt": "ilidade do Cotista está limitada ao valor por ele subscrito. Caso o Administrador verifique que o Patrimônio Líquido da Classe está negativo, ou tenha ciência do pedido de declaração judicial de insolvência da Classe ou da declaração judicial de insolvência da Classe, deverá adotar as medidas aplicáveis previstas na Resolução CVM 175/22. 2.2. Objeto. A Classe Única é uma comunhão de recursos destinados, preponderant…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "omente poderá adquirir Direitos Creditórios que atendam à Política de Investimento e aos respectivos Critérios de Elegibilidade, verificados em cada respectiva Data de Aquisição. 3.2.3. Os Direitos Creditórios serão adquiridos pela Classe, por intermédio do Fundo, por meio da celebração do Contrato CDB entre o Fundo, em benefício da Classe, e o Banco IBM. 3.3. Formalização da Aquisição dos Direitos Creditórios. 3.3.…",
+      "source_excerpt": "omente poderá adquirir Direitos Creditórios que atendam à Política de Investimento e aos respectivos Critérios de Elegibilidade, verificados em cada respectiva Data de Aquisição. 3.2.3. Os Direitos Creditórios serão adquiridos pela Classe, por intermédio do Fundo, por meio da celebração do Contrato CDB entre o Fundo, em benefício da Classe, e o Banco IBM. 3.3. Formalização da Aquisição dos Direitos Creditórios. 3.3.…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dição à verificação integral dos Documentos Comprobatórios conforme a metodologia disposta acima, o Custodiante verificará, de maneira integral, os Direitos Creditórios Inadimplidos e os Direitos Creditórios Adquiridos substituídos no respectivo trimestre. 5. POLÍTICA DE INVESTIMENTO, COMPOSIÇÃO E DIVERSIFICAÇÃO DA CARTEIRA 5.1. O objetivo da Classe é proporcionar aos seus Cotistas a valorização de suas Cotas, por m…",
+      "source_excerpt": "dição à verificação integral dos Documentos Comprobatórios conforme a metodologia disposta acima, o Custodiante verificará, de maneira integral, os Direitos Creditórios Inadimplidos e os Direitos Creditórios Adquiridos substituídos no respectivo trimestre. 5. POLÍTICA DE INVESTIMENTO, COMPOSIÇÃO E DIVERSIFICAÇÃO DA CARTEIRA 5.1. O objetivo da Classe é proporcionar aos seus Cotistas a valorização de suas Cotas, por m…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "no manual de precificação do Administrador disponível em “http://www.oliveiratrust.com.br/portal/docs/ManualdePrecificacaodeAtivos_MTM.pdf”; e (ii) os Direitos Creditórios Adquiridos ser ão contabilizados e registrados com base em seu Preço de Aquisição, com apropriação de seus respectivos rendimentos, conforme a taxa interna de retorno (TIR) calculada na Data de Aquisição pelo prazo a decorrer até a respectiva Data…",
+      "source_excerpt": "no manual de precificação do Administrador disponível em “http://www.oliveiratrust.com.br/portal/docs/ManualdePrecificacaodeAtivos_MTM.pdf”; e (ii) os Direitos Creditórios Adquiridos ser ão contabilizados e registrados com base em seu Preço de Aquisição, com apropriação de seus respectivos rendimentos, conforme a taxa interna de retorno (TIR) calculada na Data de Aquisição pelo prazo a decorrer até a respectiva Data…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dades e provisões do Fundo. Política de Investimento Significa a política de investimento da Classe Única, conforme descrita no Anexo Descritivo. Prazo de Duração Significa o prazo de duração de cada Subclasse de Cotas, compreendido entre a respectiva 1ª Data de Integralização de tais Subclasse de Cotas e a respectiva Data de Resgate (conforme definida no respectivo Anexo Descritivo). Preço de Aquisição Significa o…",
+      "source_excerpt": "dades e provisões do Fundo. Política de Investimento Significa a política de investimento da Classe Única, conforme descrita no Anexo Descritivo. Prazo de Duração Significa o prazo de duração de cada Subclasse de Cotas, compreendido entre a respectiva 1ª Data de Integralização de tais Subclasse de Cotas e a respectiva Data de Resgate (conforme definida no respectivo Anexo Descritivo). Preço de Aquisição Significa o…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "atribuídos abaixo e/ou no Regulamento, conforme o caso. Acordo Operacional Acordo Operacional e Outras Avençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por c…",
+      "source_excerpt": "atribuídos abaixo e/ou no Regulamento, conforme o caso. Acordo Operacional Acordo Operacional e Outras Avençascelebrado entre o Administrador e o Gestor, por meio do qual são reguladas as atribuições de cada um dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por c…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. Alocação Mínima de Investimento Tributária Significa a alocação de, pelo menos, 67% (cinquenta por ce…",
+      "source_excerpt": "dos respectivos prestadores de serviços dentro do Fundo. Administrador Tem o seu significado atribuído no Regulamento; Alocação Mínima de Investimento Significa a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido em Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II. Alocação Mínima de Investimento Tributária Significa a alocação de, pelo menos, 67% (cinquenta por ce…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "otas, conforme especificada no respectivo Apêndice, ou, na hipótese de resgate antecipado, a data em que as Cotas sejam integralmente amortizadas e, consequentemente, resgatadas. Datas de Verificação Significa cada data de verificação dos Índices de Monitoramento, qual seja, o 5º (quinto) Dia Útil de cada mês vigente. DocuSign Envelope ID: C949A6B1-3356-4709-8E70-CFFB77A64DDA JUR_SP - 51210590v2 - 1040068.529761 Dat…",
+      "source_excerpt": "otas, conforme especificada no respectivo Apêndice, ou, na hipótese de resgate antecipado, a data em que as Cotas sejam integralmente amortizadas e, consequentemente, resgatadas. Datas de Verificação Significa cada data de verificação dos Índices de Monitoramento, qual seja, o 5º (quinto) Dia Útil de cada mês vigente. DocuSign Envelope ID: C949A6B1-3356-4709-8E70-CFFB77A64DDA JUR_SP - 51210590v2 - 1040068.529761 Dat…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "l, serão considerados como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. Despesas da Classe Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente, considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. Direitos Credi…",
+      "source_excerpt": "l, serão considerados como tendo sido realizados na data de vencimento os pagamentos realizados no Dia Útil subsequente. Despesas da Classe Significa o somatório em reais de todos os custos, encargos e despesas exclusivos da Classe Única estimados pelo Administrador a serem incorridos periodicamente, considerando os custos referentes às despesas fixas da Classe Única para um período de 3 (três) meses. Direitos Credi…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "2015, conforme alterada e/ou qualquer normativo que venha a substitui-la. “Cotas” Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas c aracterísticas e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no respecti…",
+      "amortization_schedule": "alterada e/ou qualquer normativo que venha a substitui-la. “Cotas” Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas c aracterísticas e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no respectivo Apêndice das…",
+      "maturity": "s referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; e (f) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento. “1ª Data de Integralização de Cotas” Significa a data da primeira integralização de Co…",
+      "source_excerpt": "e também pela prestação de informações relativas a esse ; 8. Designar, como diretor do Gestor responsável pela gestão do Fundo, o Sr. ALEXANDRE LODI DE OLIVEIRA, brasileiro, casado, bacharel em direito, portador de Cédula de Identidade RG nº 10.964.131-6 expedida pelo IFP em 13 de maio de 1994, inscrito no CPF/MF sob o nº 076.922.737 -66, com endereço comercial na Avenida das Américas, nº 3.434, bloco 07, 2° andar,…",
+      "source_document": "634435_assembleia_assembleia_634435_2024-04-01.pdf",
+      "source_document_id": 634435
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª série",
+      "amount": 1.0,
+      "amount_display": "R$ 1,00",
+      "currency": "R$",
+      "remuneration": "2015, conforme alterada e/ou qualquer normativo que venha a substitui-la. “Cotas” Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas c aracterísticas e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no respecti…",
+      "amortization_schedule": "alterada e/ou qualquer normativo que venha a substitui-la. “Cotas” Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas c aracterísticas e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no respectivo Apêndice das…",
+      "maturity": "s referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; e (f) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento. “1ª Data de Integralização de Cotas” Significa a data da primeira integralização de Co…",
+      "source_excerpt": "9.035/0001 -94 (“Fundo”), constituído sob a forma de condomínio fechado, de classe única, considerando que o Fundo desde a sua constituição, não foi operacionalizado, encontrando -se inativo e não possuindo quaisquer cotistas na presente data, de forma que não lhe é aplicável o disposto no inciso V do artigo 70 da Resolução CVM nº 175, de 23 de dezembro de 2022 (“Resolução CVM 175”), RESOLVE o Administrador: (i) alt…",
+      "source_document": "634437_regulamento_regulamento_634437_2024-04-05.pdf",
+      "source_document_id": 634437
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "março de 2015, conforme alterada e/ou qualquer normativo que venha a substitui-la. Cotas Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas características e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no re…",
+      "amortization_schedule": "5, conforme alterada e/ou qualquer normativo que venha a substitui-la. Cotas Significam, em conjunto, as Subclasses de cotas da Classe Única do Fundo, representativas de frações ideais do patrimônio da Classe Única, cujas características e direitos, bem como as condições de emissão, subscrição, integralização, remuneração, amortização e resgate estarão descritas no Anexo Descritivo da Classe Única, no respectivo Apê…",
+      "maturity": "odas as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; e (f) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo-se o dia do começo e incluindo-se o dia do vencimento. 1ª Data de Integralização de Cotas Significa a data da primeira integralização de…",
+      "source_excerpt": "0068.529761 REGULAMENTO DO ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF nº 54.559.035/0001-94 São Paulo, 05 de abril de 2024. DocuSign Envelope ID: C949A6B1-3356-4709-8E70-CFFB77A64DDA JUR_SP - 51210590v2 - 1040068.529761 ÍNDICE 1. DEFINIÇÕES _______________________________________________________ 4 2. DENOMINAÇÃO, FORMA, PRAZO DE DURAÇÃO E COMPOSIÇÃO DO PATR…",
+      "source_document": "634463_regulamento_regulamento_634463_2024-04-05.pdf",
+      "source_document_id": 634463
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "Cotas Seniores do Fundo",
+      "amount": 253213991.0,
+      "amount_display": "R$ 253.213.991,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "JUR_SP - 51164960v5 - 1040068.529761 ANÚNCIO DE INÍCIO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS DA SUBCLASSE SÊNIOR E DA SUBCLASSE SUBORDINADA JÚNIOR DO ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS– RESPONSABILIDADE LIMITADA, DE CLASSE ÚNICA CNPJ/MF nº 54.559.035/0001-94 No valor total de R$ 253.213.991,00 (duzentos e cinquenta e três milhões, duzentos e treze mil,…",
+      "source_document": "634469_emissao_emissao_634469_2024-04-05.pdf",
+      "source_document_id": 634469
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "",
+      "amount": 253213991.0,
+      "amount_display": "R$ 253.213.991,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "ANÚNCIO DE INÍCIO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS DA SUBCLASSE SÊNIOR E DA SUBCLASSE SUBORDINADA JÚNIOR DO ESTRATÉGIA VINCULADA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, DE CLASSE ÚNICA CNPJ/MF nº 54.559.035/0001-94 O REGISTRO DA OFERTA DAS COTAS DA SUBCLASSE SÊNIOR E DAS COTAS DA SUBCLASSE SUBORDINADA JÚNIOR FOI CONCEDIDO AUTOMATICAMENTE PELA CVM…",
+      "source_document": "664160_emissao_emissao_664160_2024-04-23.pdf",
+      "source_document_id": 664160
+    }
+  ],
+  "extraction_count": 7,
+  "extraction_errors": []
+}

@@ -1,0 +1,1614 @@
+{
+  "schema_version": 1,
+  "fund_name": "VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "62.588.266/0001-54",
+  "generated_at": "2026-05-10T03:20:41Z",
+  "documents": [
+    {
+      "id": 1039148,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "14/11/2025 14:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 987462,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "05/09/2025",
+      "data_entrega": "10/09/2025 10:09",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/987462_assembleia_assembleia_987462_2025-09-05.pdf"
+    },
+    {
+      "id": 987463,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/09/2025",
+      "data_entrega": "10/09/2025 10:10",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/987463_regulamento_regulamento_987463_2025-09-05.pdf"
+    },
+    {
+      "id": 987469,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Aviso ao Mercado",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "09/09/2025",
+      "data_entrega": "10/09/2025 10:18",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/987469_emissao_emissao_987469_2025-09-09.pdf"
+    },
+    {
+      "id": 992652,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "15/09/2025",
+      "data_entrega": "16/09/2025 01:20",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/992652_emissao_emissao_992652_2025-09-15.pdf"
+    },
+    {
+      "id": 992656,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "15/09/2025",
+      "data_entrega": "16/09/2025 02:08",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/992656_regulamento_regulamento_992656_2025-09-15.pdf"
+    },
+    {
+      "id": 993682,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "17/09/2025",
+      "data_entrega": "17/09/2025 18:56",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/993682_assembleia_assembleia_993682_2025-09-17.pdf"
+    },
+    {
+      "id": 995150,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "18/09/2025",
+      "data_entrega": "22/09/2025 14:22",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/995150_regulamento_regulamento_995150_2025-09-18.pdf"
+    },
+    {
+      "id": 1002575,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "29/09/2025 10:00",
+      "data_entrega": "30/09/2025 16:33",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/1002575_assembleia_assembleia_1002575_2025-09-29.pdf"
+    },
+    {
+      "id": 1002580,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "29/09/2025",
+      "data_entrega": "30/09/2025 16:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/1002580_regulamento_regulamento_1002580_2025-09-29.pdf"
+    },
+    {
+      "id": 1115916,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "13/02/2026 18:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1130591,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "06/03/2026 19:38",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1126575,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "27/02/2026",
+      "data_entrega": "03/03/2026 12:41",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62588266000154/1126575_emissao_emissao_1126575_2026-02-27.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.85,
+      "threshold_unit": "ratio",
+      "threshold_display": "85%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o Regime de Caixa Fator de Ponderação de Direitos Creditórios Sênior. 85% (oitenta e cinco inteiros por cento) São Paulo - SP, 05 de setembro de 2025. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora OLIVEIRA TRUST SERVICER S.A. Gestora ANEXO I.B APÊNDICE DA 1ª (PRIMEIRA) SÉRIE DE COTAS SUBORDINADAS MEZANINO DA CLASSE ÚNICA DO VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONS…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987462_assembleia_assembleia_987462_2025-09-05.pdf",
+      "source_document_id": 987462,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ima) Data de Referência, observado o Regime de Caixa Fator de Ponderação de Direitos Creditórios Mezanino: 10% São Paulo - SP, 05 de setembro de 2025. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora OLIVEIRA TRUST SERVICER S.A. Gestora ANEXO I.C APÊNDICE DA 1ª (PRIMEIRA) EMISSÃO DA SUBCLASSE DE COTAS JUNIORES DA CLASSE ÚNICA DO VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPO…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987462_assembleia_assembleia_987462_2025-09-05.pdf",
+      "source_document_id": 987462,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "servadas diariamente pela Gestora e pela Administradora, conforme o caso, com base no Patrimônio Líquido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "is índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subordinação Sênior Ajustado mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subor…",
+      "source_excerpt": "is índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subordinação Sênior Ajustado mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "source_excerpt": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Atraso/Inadimplência - evento de avaliação",
+      "canonical_key": "default_rate_evaluation_event",
+      "event_type": "avaliação",
+      "threshold_value": 0.035,
+      "threshold_unit": "ratio",
+      "threshold_display": "3,5%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "nto) das CCB representativas dos Direitos Creditórios Adquiridos; (xxvii) desenquadramento do Fundo como entidade de investimento, nos termos da legislação aplicável; e/ou (xxviii) caso o Índice de Perdas Over90 esteja acima de 3,5% (três inteiros e cinco centésimos por cento) (a) por 2 (dois) meses consecutivos; e/ou (ii) por 4 (quatro) meses alternados em um período de 12 (doze) meses; 16.1.2 Caso ocorra o Evento…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Vencidos Over 30/60/90/180/360 d / Crédito",
+        "rationale": "Os buckets de atraso do Informe Mensal permitem recompor NPL Over acumulado por faixa."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "e haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a concentração da carteira por idade (neste item, não serão considerados para o cálculo da média contratos que possuírem cober…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "gulamento. 8.4.3 O Índice de Subordinação Mezanino e Índice de Subordinação Mezanino Ajustado deverão ser equivalentes a, no mínimo, 5% (cinco por cento). 8.5 Cotas Subordinadas Júnior. 8.5.1 As Cotas Subordinadas Júnior são aquelas que se subordinam às Cotas Seniores e às Cotas Subordinadas Mezanino para efeito de amortização, resgate e distribuição dos rendimentos da carteira, da Amortização por Excesso de Cobertu…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": "<=",
+      "formula_text": "ituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for re…",
+      "source_excerpt": "ituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "nos, ressalvado os casos com Seguro Prestamista que cubra a integralidade da exposição do crédito, para os quais não deve haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a conc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "II - Política de Originação e Concessão de Crédito 131 Anexo IV - Política de Cobrança 133 Anexo V - Procedimentos de Verificação de Lastro nas Transferências de Créditos 135 Anexo VI - Modelo de Suplemento das Cotas Seniores 139 Anexo VII - Modelo de Suplemento das Cotas Subordinadas Mezanino 141 Anexo VIII - Códigos de Benefícios da Previdência Social 143 Anexo IX - Códigos INSS Vedados 145 Anexo X - Política de H…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "dores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de derivativos, com o exclusivo objetivo de proteção, conforme Política de Hedg…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.7,
+      "threshold_unit": "ratio",
+      "threshold_display": "70%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "são esp. aos dep. de vítimas fatais p/ contam. na hemodiálise 90 Simples Assist. médica por acidente de trabalho 91 Auxílio-doença por acidente do trabalho 94 Auxílio-acidente por acidente do trabalho 95 Auxílio-suplementar por acidente do trabalho (*) 97 Pecúlio por morte acidente de trabalho 98 Abono anual de acidente de trabalho 99 Afastamento até 15 dias por acidente de trabalho ANEXO X - POLÍTICA DE HEDGE AO RE…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "pagamento dos Direitos Creditórios Adquiridos ou pela solvência dos Devedores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de deri…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "servadas diariamente pela Gestora e pela Administradora, conforme o caso, com base no Patrimônio Líquido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "source_excerpt": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "source_excerpt": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "source_excerpt": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Atraso/Inadimplência - evento de avaliação",
+      "canonical_key": "default_rate_evaluation_event",
+      "event_type": "avaliação",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20,00%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "entidade de investimento, nos termos da legislação aplicável; (xxviii) caso o Índice de Pré -Pagamento seja maior a 20,00% (vinte por cento) em qualquer Data de Verificação; (xxix) caso o Índice de Perdas Over90 esteja acima de 3,5% (três inteiros e cinco centésimos por cento) (a) por 2 (dois) meses consecutivos; e/ou (ii) por 4 (quatro) meses alternados em um período de 12 (doze) meses; 16.1.2 Caso ocorra o Evento…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Vencidos Over 30/60/90/180/360 d / Crédito",
+        "rationale": "Os buckets de atraso do Informe Mensal permitem recompor NPL Over acumulado por faixa."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "e haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a concentração da carteira por idade (neste item, não serão considerados para o cálculo da média contratos que possuírem cober…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "tos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subordinação Mezanino deverá ser equivalente a, no mínimo, 5% (cinco por cento). 8.5 Cotas Subordinadas Júnior. 8.5.1 As Cotas Subordinadas Júnior são aquelas que se subordinam às Cotas Seniores e às Cotas Subordinadas Mezanino para efeito de amortização, resgate e distribuição dos rendimentos da carteira, da Amortização por Excesso de Cobertur…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.85,
+      "threshold_unit": "ratio",
+      "threshold_display": "85%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "13 do Regulamento. Fator de Ponderação de Direitos Creditórios Sênior. 85% (oitenta e cinco inteiros por cento) São Paulo - SP, 15 de setembro de 2025. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora OLIVEIRA TRUST SERVICER S.A. Gestora ANEXO I.B APÊNDICE DA 1ª (PRIMEIRA) SÉRIE DE COTAS SUBORDINADAS MEZANINO DA CLASSE ÚNICA DO VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPON…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "e Caixa e o previsto no CAPÍTULO 13 do Regulamento. Fator de Ponderação de Direitos Creditórios Mezanino: 10% São Paulo - SP, 15 de setembro de 2025. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora OLIVEIRA TRUST SERVICER S.A. Gestora ANEXO I.C APÊNDICE DA 1ª (PRIMEIRA) EMISSÃO DA SUBCLASSE DE COTAS JUNIORES DA CLASSE ÚNICA DO VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPON…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": "<=",
+      "formula_text": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "source_excerpt": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "nos, ressalvado os casos com Seguro Prestamista que cubra a integralidade da exposição do crédito, para os quais não deve haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a conc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "II - Política de Originação e Concessão de Crédito 130 Anexo IV - Política de Cobrança 132 Anexo V - Procedimentos de Verificação de Lastro nas Transferências de Créditos 134 Anexo VI - Modelo de Suplemento das Cotas Seniores 138 Anexo VII - Modelo de Suplemento das Cotas Subordinadas Mezanino 140 Anexo VIII - Códigos de Benefícios da Previdência Social 142 Anexo IX - Códigos INSS Vedados 143 Anexo X - Política de H…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "dores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de derivativos, com o exclusivo objetivo de proteção, conforme Política de Hedg…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.7,
+      "threshold_unit": "ratio",
+      "threshold_display": "70%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "são esp. aos dep. de vítimas fatais p/ contam. na hemodiálise 90 Simples Assist. médica por acidente de trabalho 91 Auxílio-doença por acidente do trabalho 94 Auxílio-acidente por acidente do trabalho 95 Auxílio-suplementar por acidente do trabalho (*) 97 Pecúlio por morte acidente de trabalho 98 Abono anual de acidente de trabalho 99 Afastamento até 15 dias por acidente de trabalho ANEXO X - POLÍTICA DE HEDGE AO RE…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "pagamento dos Direitos Creditórios Adquiridos ou pela solvência dos Devedores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de deri…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "servadas diariamente pela Gestora e pela Administradora, conforme o caso, com base no Patrimônio Líquido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "source_excerpt": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "source_excerpt": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "source_excerpt": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Atraso/Inadimplência - evento de avaliação",
+      "canonical_key": "default_rate_evaluation_event",
+      "event_type": "avaliação",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20,00%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "entidade de investimento, nos termos da legislação aplicável; (xxviii) caso o Índice de Pré -Pagamento seja maior a 20,00% (vinte por cento) em qualquer Data de Verificação; (xxix) caso o Índice de Perdas Over90 esteja acima de 3,5% (três inteiros e cinco centésimos por cento) (a) por 2 (dois) meses consecutivos; e/ou (ii) por 4 (quatro) meses alternados em um período de 12 (doze) meses; 16.1.2 Caso ocorra o Evento…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Vencidos Over 30/60/90/180/360 d / Crédito",
+        "rationale": "Os buckets de atraso do Informe Mensal permitem recompor NPL Over acumulado por faixa."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "e haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a concentração da carteira por idade (neste item, não serão considerados para o cálculo da média contratos que possuírem cober…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "tos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subordinação Mezanino deverá ser equivalente a, no mínimo, 5% (cinco por cento). 8.5 Cotas Subordinadas Júnior. 8.5.1 As Cotas Subordinadas Júnior são aquelas que se subordinam às Cotas Seniores e às Cotas Subordinadas Mezanino para efeito de amortização, resgate e distribuição dos rendimentos da carteira, da Amortização por Excesso de Cobertur…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": "<=",
+      "formula_text": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "source_excerpt": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "nos, ressalvado os casos com Seguro Prestamista que cubra a integralidade da exposição do crédito, para os quais não deve haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a conc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "II - Política de Originação e Concessão de Crédito 124 Anexo IV - Política de Cobrança 126 Anexo V - Procedimentos de Verificação de Lastro nas Transferências de Créditos 128 Anexo VI - Modelo de Suplemento das Cotas Seniores 132 Anexo VII - Modelo de Suplemento das Cotas Subordinadas Mezanino 134 Anexo VIII - Códigos de Benefícios da Previdência Social 136 Anexo IX - Códigos INSS Vedados 137 Anexo X - Política de H…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "dores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de derivativos, com o exclusivo objetivo de proteção, conforme Política de Hedg…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.7,
+      "threshold_unit": "ratio",
+      "threshold_display": "70%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "são esp. aos dep. de vítimas fatais p/ contam. na hemodiálise 90 Simples Assist. médica por acidente de trabalho 91 Auxílio-doença por acidente do trabalho 94 Auxílio-acidente por acidente do trabalho 95 Auxílio-suplementar por acidente do trabalho (*) 97 Pecúlio por morte acidente de trabalho 98 Abono anual de acidente de trabalho 99 Afastamento até 15 dias por acidente de trabalho ANEXO X - POLÍTICA DE HEDGE AO RE…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "pagamento dos Direitos Creditórios Adquiridos ou pela solvência dos Devedores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de deri…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "servadas diariamente pela Gestora e pela Administradora, conforme o caso, com base no Patrimônio Líquido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ido do Dia Útil imediatamente anterior. 3.20 Durante o prazo de duração do Fundo, a Gestora deverá fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "source_excerpt": "fazer com que os índices e parâmetros abaixo sejam observados, sem prejuízo da realização do cálculo dos demais índices e parâmetros previstos no Relatório de Monitoramento: Índice de Monitoramento Valor Índice de Subordinação Sênior mínimo 15% (quinze por cento), conforme previsto no item 8.3.4 abaixo Índice de Subordinação Mezanino mínimo 5% (cinco por cento), conforme previsto no item 8.4.3 abaixo Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "source_excerpt": "integralizadas no prazo estabelecido no respectivo Suplemento. 8.3.3 As Cotas Seniores, independentemente das datas de emissão de cada uma delas, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento, excetuando-se os prazos e valores para amortização, resgate e remuneração, que serão estabelecidos para cada uma das séries no respectivo Suplemento. 8.3.4 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "source_excerpt": "Cotas Seniores para efeito de amortização, resgate e distribuição dos rendimentos da carteira, nos termos deste Regulamento e possuem prioridade em relação às Cotas Subordinadas Júnior para os mesmos fins. 8.4.2 As Cotas Subordinadas Mezanino, independentemente das respectivas datas de emissão, conferirão aos seus Cotistas os mesmos direitos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "e haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a concentração da carteira por idade (neste item, não serão considerados para o cálculo da média contratos que possuírem cober…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "tos e obrigações, conforme descrito neste Regulamento. 8.4.3 O Índice de Subordinação Mezanino deverá ser equivalente a, no mínimo, 5% (cinco por cento). 8.5 Cotas Subordinadas Júnior. 8.5.1 As Cotas Subordinadas Júnior são aquelas que se subordinam às Cotas Seniores e às Cotas Subordinadas Mezanino para efeito de amortização, resgate e distribuição dos rendimentos da carteira, da Amortização por Excesso de Cobertur…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": "<=",
+      "formula_text": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "source_excerpt": "tituição Autorizada não seja realizada dentro dos prazos referidos no item 3.18 deste Anexo Descritivo; (xxvi) caso haja decisão judicial transitada em julgado, após questionamento formulado por terceiros, confirmando a existência de vícios em relação à validade, eficácia ou exequibilidade de qualquer CCB, exceto se (a) a transferência e endosso de referida CCB não for resolvida e paga; ou (b) referida CCB não for r…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "nos, ressalvado os casos com Seguro Prestamista que cubra a integralidade da exposição do crédito, para os quais não deve haver limite de idade ao final do contrato; (vii) a carteira do Fundo deve ser composta por, no máximo, 60% (sessenta por cento) dos Devedores do sexo masculino , conforme indicado pela Cedente no Arquivo CNAB/Requisição de Oferta; (viii) cuja transferência, considerada pro-forma, mantenha a conc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "II - Política de Originação e Concessão de Crédito 123 Anexo IV - Política de Cobrança 125 Anexo V - Procedimentos de Verificação de Lastro nas Transferências de Créditos 127 Anexo VI - Modelo de Suplemento das Cotas Seniores 131 Anexo VII - Modelo de Suplemento das Cotas Subordinadas Mezanino 133 Anexo VIII - Códigos de Benefícios da Previdência Social 135 Anexo IX - Códigos INSS Vedados 136 Anexo X - Política de H…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "dores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de derivativos, com o exclusivo objetivo de proteção, conforme Política de Hedg…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.7,
+      "threshold_unit": "ratio",
+      "threshold_display": "70%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "ise 90 Simples Assist. médica por acidente de trabalho 91 Auxílio-doença por acidente do trabalho 94 Auxílio-acidente por acidente do trabalho 95 Auxílio-suplementar por acidente do trabalho (*) 97 Pecúlio por morte acidente de trabalho 98 Abono anual de acidente de trabalho 99 Afastamento até 15 dias por acidente de trabalho Docusign Envelope ID: 58AA139E-7296-46DE-97B7-ADC2E6D91C5B ANEXO X - POLÍTICA DE HEDGE AO R…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "pagamento dos Direitos Creditórios Adquiridos ou pela solvência dos Devedores. 3.16 Não existe, por parte do Fundo, da Administradora , da Gestora, de quaisquer prestadores de serviços do Fundo ou de terceiros qualquer promessa ou garantia acerca da rentabilidade das aplicações dos recursos da Classe ou relativa à rentabilidade das Cotas. 3.17 O Fundo poderá alocar recursos da Classe em operações em mercados de deri…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Líquido do Fundo. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido com…",
+      "source_excerpt": "Líquido do Fundo. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido com…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…",
+      "source_excerpt": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…",
+      "source_excerpt": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…",
+      "source_excerpt": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…",
+      "source_excerpt": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "uisição de Oferta. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido co…",
+      "source_excerpt": "uisição de Oferta. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido co…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…",
+      "source_excerpt": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…",
+      "source_excerpt": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…",
+      "source_excerpt": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…",
+      "source_excerpt": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "uisição de Oferta. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido co…",
+      "source_excerpt": "uisição de Oferta. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido co…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "do deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CM N 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…",
+      "source_excerpt": "do deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CM N 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…",
+      "source_excerpt": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…",
+      "source_excerpt": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…",
+      "source_excerpt": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": ", CEP 22640 -102, inscrita no CNPJ/MF sob o nº 02.150.453/0001-20, autorizada à prestação dos serviços de administraçã o de carteiras de valores mobiliários de acordo com o Ato Declaratório nº 7.446, de 13 de outubro de 2003 , na qualidade de gestora do Fundo (“Gestora”). 2. COMPOSIÇÃO DA MESA: Presidente: Renan Dutra; e Secretário: Thiago de Gusmão Delfino dos Santos. 3. ORDEM DO DIA: Deliberar acerca da: (i) (a) i…",
+      "source_excerpt": ", CEP 22640 -102, inscrita no CNPJ/MF sob o nº 02.150.453/0001-20, autorizada à prestação dos serviços de administraçã o de carteiras de valores mobiliários de acordo com o Ato Declaratório nº 7.446, de 13 de outubro de 2003 , na qualidade de gestora do Fundo (“Gestora”). 2. COMPOSIÇÃO DA MESA: Presidente: Renan Dutra; e Secretário: Thiago de Gusmão Delfino dos Santos. 3. ORDEM DO DIA: Deliberar acerca da: (i) (a) i…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os ajustes indicados no item (i) acima, bem como alterar a fórmula do Preço de Aquisição, sendo que o Contrato de Endosso passará a viger na forma do Anexo IV a esta ata. Docusign Envelope ID: 58AA139E-7296-46DE-97B7-ADC2E6D91C5B 4. DELIBERAÇÕES: Após análise e discussão da matéria constante da Ordem do Dia, os Cotistas representando a totalidade das cotas do Fundo aprovaram, por unanimidade e sem ressalvas: (i) (a)…",
+      "source_excerpt": "os ajustes indicados no item (i) acima, bem como alterar a fórmula do Preço de Aquisição, sendo que o Contrato de Endosso passará a viger na forma do Anexo IV a esta ata. Docusign Envelope ID: 58AA139E-7296-46DE-97B7-ADC2E6D91C5B 4. DELIBERAÇÕES: Após análise e discussão da matéria constante da Ordem do Dia, os Cotistas representando a totalidade das cotas do Fundo aprovaram, por unanimidade e sem ressalvas: (i) (a)…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os – Cartão INSS. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido com…",
+      "source_excerpt": "os – Cartão INSS. 7.3 Observados os termos e as condições deste Anexo Descritivo, a verificação pela Gestora do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 7.4 Desde que os Direitos Creditórios tenham atendido plena mente aos Critérios de Elegibilidade e às Condições de Aquisição na respectiva data em que forem verificados, o desenquadramento de qualquer Direito Creditório Cedido com…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…",
+      "source_excerpt": "ndo deve investir em ativos de acordo com os critérios previstos no artigo 19 da Lei 14.754 e Resolução CMN 5.111. O não atendimento de quaisquer desses requisitos (dentre os quais é o enquadramento da Alocação Mínima) pode resultar em alteração significativa do tratamento tributário dos Cotistas, incluindo a perda do tratamento tributário diferenciado definido no artigo 24 da Lei 14.754. Risco de originação – dimin…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…",
+      "source_excerpt": "disponibilidade de Direitos Creditórios para aquisição pelo Fundo, impactando o fluxo de pagamentos por ele percebidos no âmbito do Regulamento e, consequentemente, a sua capacidade de cumprir as obrigações aqui previstas. A não aquisição de Direitos Creditórios Adquiridos e a validade de sua formalização poderá prejudicar as atividades do Fundo . A existência do Fundo está condicionada diretamente à condição da Fac…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…",
+      "source_excerpt": "forma, o sucesso na aquisição de Direitos Creditórios Adquiridos depende não só da quantidade de créditos originados, mas também das especificidades dos créditos originados pela Facta no âmbito do Convênio. Portanto, o Fundo pode não ser capaz de adquirir Direitos Creditórios elegíveis, ou de efetuar os investimentos desejados, o que prejudicará as atividades do Fundo. Não há garantia de que a Facta conseguirá e/ou…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…",
+      "source_excerpt": "tividades da Facta que resultam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades da Facta, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade, inclusive em r…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores”)",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "tegralização até sua amortização integral, nos termos do Capítulo 11 do Regulamento. A Meta de Rentabilidade será determinada por meio da apropriação diária, sob forma de capitalização composta, com base em um ano de 252 (duzentos e cinquenta e dois) Dias Úteis, da Taxa DI, acrescida da Sobretaxa Sênior. Pagamento da Remuneração Sênior: Toda Data de Pagamento. Amortização do Principal Sênior: A parcela do valor de p…",
+      "amortization_schedule": "ital a serem realizadas pela Administradora, conforme orientação da Gestora, na forma prevista no boletim de subscrição. Data de Resgate: Data de Referência do 102º (centésimo segundo) mês após a 1ª Data de Integralização. Datas de Pagamento: Toda Data de Referência, observado o Período de Carência aplicável para Amortização do Principal Sênior , a contar do 1º (primeiro) mês após a 1ª Data de Integralização, até a…",
+      "maturity": "ferta : a Oferta Pública será distribuída pelo ITAÚ BBA ASSESSORIA FINANCEIRA S.A., sociedade por ações, com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, 3.500, 1º, 2º, 3º (parte), 4º e 5º andares, Itaim Bibi, CEP 04.538-132, inscrita no CNPJ/MF sob o nº 04.845.753/0001-59. (f) Prazos: a subscrição ou aquisição das Cotas, objeto da Oferta, deverão ser realizadas no prazo máximo…",
+      "source_excerpt": "casado, advogado, portador da carteira de identidade nº 78657 expedida pela OAB/RJ em 24 de junho de 2009, inscrito no CPF/MF sob o nº 008.991.207-17, com endereço profissional na Cidade do Rio de Janeiro, E stado do Rio de Janeiro, na Avenida das Américas, nº 3434, Bloco 07, sala 201, condomínio Mário Henrique Simonsen, Barra da Tijuca como diretor da Gestora responsável pelas operações do Fundo, para responder civ…",
+      "source_document": "987462_assembleia_assembleia_987462_2025-09-05.pdf",
+      "source_document_id": 987462
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "7 – CONDIÇÕES DE AQUISIÇÃO E CRITÉRIOS DE ELEGIBILIDADE ....................... 38 CAPÍTULO 8 – DAS COTAS ................................................................................................ 43 CAPÍTULO 9 – DOS PRESTADORES DE SERVIÇOS DA CLASSE .............................................. 48 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 55 CAPÍTULO 11 – V…",
+      "amortization_schedule": "SERVIÇOS DA CLASSE .............................................. 48 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 55 CAPÍTULO 11 – VALORAÇÃO DAS COTAS ............................................................................. 58 CAPÍTULO 12 – PAGAMENTO DE REMUNERAÇÃO, AMORTIZAÇÃO E RESGATE DE COTAS ........ 60 CAPÍTULO 13 – ORDEM DE ALOCAÇÃO DOS RECURSOS ..........…",
+      "maturity": "rmações julgadas, pela Administradora, como indispensáveis para a interpretação das demonstrações financeiras. 7.2.2 O exercício social do Fundo tem duração de 1 (um) ano e encerra-se em 31 de dezembro de cada ano. 7.3 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "sse ou aos Cotistas; (ii) contratação de formador de mercado e o término da prestação desse serviço; (iii) contratação ou substituição da Agência Classificadora de Risco, se houver; (iv) redução da classificação de risco de qualquer Subclasse da Classe, se houver; (v) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vi) fusão, incorporação, cisão ou transformação da Classe; (vii) altera…",
+      "source_document": "987463_regulamento_regulamento_987463_2025-09-05.pdf",
+      "source_document_id": 987463
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "Cotas Seniores e das Cotas Subordinadas Mezanino da 1ª (primeira",
+      "amount": 2850000000.0,
+      "amount_display": "R$2.850.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "AVISO AO MERCADO Oferta Pública sob o Rito Automático de Distribuição das Cotas Seniores e das Cotas Subordinadas Mezanino da 1ª (primeira) Emissão do VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF nº 62.588.266/0001-54 No montante total de R$2.850.000.000,00 (dois bilhões e oitocentos e cinquenta milhões de reais) Tipo ANBIMA: “Financeiro” Segmento ANBIMA “Crédito Consignado” O…",
+      "source_document": "987469_emissao_emissao_987469_2025-09-09.pdf",
+      "source_document_id": 987469
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "Cotas Seniores e das Cotas Subordinadas Mezanino da 1ª (Primeira",
+      "amount": 2850000000.0,
+      "amount_display": "R$ 2.850.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "Anúncio de Início Oferta Pública sob o Rito Automático de Distribuição das Cotas Seniores e das Cotas Subordinadas Mezanino da 1ª (Primeira) Emissão da Classe Única do VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF nº 62.588.266/0001-54 No montante de R$ 2.850.000.000,00 (dois bilhões e oitocentos e cinquenta milhões de reais) Registro da Oferta das Cotas Seniores na CVM nº CVM/S…",
+      "source_document": "992652_emissao_emissao_992652_2025-09-15.pdf",
+      "source_document_id": 992652
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "COTAS JUNIORES DA",
+      "amount": 150000000.0,
+      "amount_display": "R$150.000.000",
+      "currency": "R$",
+      "remuneration": "tegralização até sua amortização integral, nos termos do CAPÍTULO 11 do Regulamento. A Meta de Rentabilidade será determinada por meio da apropriação diária, sob forma de capitalização composta, com base em um ano de 252 (duzentos e cinquenta e dois) Dias Úteis, da Taxa DI, acrescida da Sobretaxa Sênior. Pagamento da Remuneração Sênior: Toda Data de Pagamento. Amortização do Principal Sênior: A parcela do valor de p…",
+      "amortization_schedule": "sentad a nos termos do seu estatuto social (“Gestora” e quando em conjunto com a Administradora, “Prestadores de Serviços Essenciais”), RESOLVEM: (a) alterar o Regulamento do Fundo para contemplar, dentre outras: (a) alteração do Período de Investimento, (b) inclusão d a previsão de Índice de Subordinação Mezanino – Amortização; (c) alteração d o prazo de duração das Cotas Seniores e das Cotas Subordinadas Mezanino;…",
+      "maturity": "rmações julgadas, pela Administradora, como indispensáveis para a interpretação das demonstrações financeiras. 7.2.2 O exercício social do Fundo tem duração de 1 (um) ano e encerra-se em 31 de dezembro de cada ano. 7.3 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "ue se inicia na 1ª Data de Integralização (inclusive) e termina no 12º mês após a 1ª Data de Integralização, de forma que o primeiro pagamento de Amortização do Principal Mezanino seja realizado no 13º (décimo terceiro) Data de Referência, observado o Regime de Caixa e o previsto no CAPÍTULO 13 do Regulamento. Fator de Ponderação de Direitos Creditórios Mezanino: 10% São Paulo - SP, 15 de setembro de 2025. OLIVEIRA…",
+      "source_document": "992656_regulamento_regulamento_992656_2025-09-15.pdf",
+      "source_document_id": 992656
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores”)",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "ciais”) na qualidade de Prestadores de Serviços do VTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, inscrito no CNPJ/MF sob o nº 62.588.266/0001-54 (“Fundo”) considerando a existência de erro material, vem RETIFICAR e RATIFICAR o “Instrumento Particular de Deliberação Conjunta de Constituição do VTK Fundo de Investimento em Direitos Creditórios Responsabilidade Limitada” divulgado ao merc…",
+      "source_document": "993682_assembleia_assembleia_993682_2025-09-17.pdf",
+      "source_document_id": 993682
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "7 – CONDIÇÕES DE AQUISIÇÃO E CRITÉRIOS DE ELEGIBILIDADE ....................... 30 CAPÍTULO 8 – DAS COTAS ................................................................................................ 35 CAPÍTULO 9 – DOS PRESTADORES DE SERVIÇOS DA CLASSE .............................................. 41 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 47 CAPÍTULO 11 – V…",
+      "amortization_schedule": "SERVIÇOS DA CLASSE .............................................. 41 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 47 CAPÍTULO 11 – VALORAÇÃO DAS COTAS ............................................................................. 50 CAPÍTULO 12 – PAGAMENTO DE REMUNERAÇÃO, AMORTIZAÇÃO E RESGATE DE COTAS ........ 52 CAPÍTULO 13 – ORDEM DE ALOCAÇÃO DOS RECURSOS ..........…",
+      "maturity": "rmações julgadas, pela Administradora, como indispensáveis para a interpretação das demonstrações financeiras. 7.2.2 O exercício social do Fundo tem duração de 1 (um) ano e encerra-se em 31 de dezembro de cada ano. 7.3 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "asse ou aos Cotistas; (ii) contratação de formador de mercado e o término da prestação desse serviço; (iii) contratação ou substituição da Agência Classificadora de Risco, se houver; (iv) redução da classificação de risco de qualquer Subclasse da Classe, se houver; (v) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vi) fusão, incorporação, cisão ou transformação da Classe; (vii) alter…",
+      "source_document": "995150_regulamento_regulamento_995150_2025-09-18.pdf",
+      "source_document_id": 995150
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "7 – CONDIÇÕES DE AQUISIÇÃO E CRITÉRIOS DE ELEGIBILIDADE ....................... 28 CAPÍTULO 8 – DAS COTAS ................................................................................................ 33 CAPÍTULO 9 – DOS PRESTADORES DE SERVIÇOS DA CLASSE .............................................. 39 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 46 CAPÍTULO 11 – V…",
+      "amortization_schedule": "SERVIÇOS DA CLASSE .............................................. 39 CAPÍTULO 10 – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ....................................... 46 CAPÍTULO 11 – VALORAÇÃO DAS COTAS ............................................................................. 48 CAPÍTULO 12 – PAGAMENTO DE REMUNERAÇÃO, AMORTIZAÇÃO E RESGATE DE COTAS ........ 50 CAPÍTULO 13 – ORDEM DE ALOCAÇÃO DOS RECURSOS ..........…",
+      "maturity": "ope ID: 58AA139E-7296-46DE-97B7-ADC2E6D91C5B indispensáveis para a interpretação das demonstrações financeiras. 7.2.2 O exercício social do Fundo tem duração de 1 (um) ano e encerra-se em 31 de dezembro de cada ano. 7.3 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, nã…",
+      "source_excerpt": "46DE-97B7-ADC2E6D91C5B (ii) contratação de formador de mercado e o término da prestação desse serviço; (iii) contratação ou substituição da Agência Classificadora de Risco, se houver; (iv) redução da classificação de risco de qualquer Subclasse da Classe, se houver; (v) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vi) fusão, incorporação, cisão ou transformação da Classe; (vii) alte…",
+      "source_document": "1002580_regulamento_regulamento_1002580_2025-09-29.pdf",
+      "source_document_id": 1002580
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES E DAS COTAS SUBORDINADAS MEZANINO DA 1ª (PRIMEIRA",
+      "amount": 2850000000.0,
+      "amount_display": "R$ 2.850.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "Página 1de 4 Corporativo | Interno ANÚNCIO DE ENCERRAMENTODA OFERTA PÚBLICA SOB O RITO AUTOMÁTICODE DISTRIBUIÇÃO DAS COTAS SENIORES E DAS COTAS SUBORDINADAS MEZANINO DA 1ª (PRIMEIRA) EMISSÃO DA CLASSE ÚNICA DOVTK FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF Nº 62.588.266/0001-54No montante deR$ 2.850.000.000,00(dois bilhões e oitocentos e cinquenta milhões de reais) Registro da Ofe…",
+      "source_document": "1126575_emissao_emissao_1126575_2026-02-27.pdf",
+      "source_document_id": 1126575
+    }
+  ],
+  "extraction_count": 10,
+  "extraction_errors": []
+}

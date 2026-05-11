@@ -1,0 +1,1619 @@
+{
+  "schema_version": 1,
+  "fund_name": "SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "62.626.887/0001-85",
+  "generated_at": "2026-05-10T03:20:14Z",
+  "documents": [
+    {
+      "id": 995526,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "09/09/2025",
+      "data_entrega": "23/09/2025 08:58",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/995526_assembleia_assembleia_995526_2025-09-09.pdf"
+    },
+    {
+      "id": 995528,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "09/09/2025",
+      "data_entrega": "23/09/2025 08:59",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/995528_regulamento_regulamento_995528_2025-09-09.pdf"
+    },
+    {
+      "id": 1005989,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "01/10/2025",
+      "data_entrega": "03/10/2025 17:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1005989_regulamento_regulamento_1005989_2025-10-01.pdf"
+    },
+    {
+      "id": 1005991,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "01/10/2025",
+      "data_entrega": "03/10/2025 17:36",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1005991_regulamento_regulamento_1005991_2025-10-01.pdf"
+    },
+    {
+      "id": 1007124,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "02/10/2025 10:00",
+      "data_entrega": "06/10/2025 15:40",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1007124_assembleia_assembleia_1007124_2025-10-02.pdf"
+    },
+    {
+      "id": 1051107,
+      "categoria": "Outras Demonstrações Financeiras ",
+      "tipo": "Demonstrações Financeiras - Substituição de administrador",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/10/2025",
+      "data_entrega": "01/12/2025 10:30",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1018871,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "06/10/2025",
+      "data_entrega": "23/10/2025 14:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1018871_regulamento_regulamento_1018871_2025-10-06.pdf"
+    },
+    {
+      "id": 1037252,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "13/11/2025",
+      "data_entrega": "13/11/2025 18:47",
+      "nome_arquivo": null,
+      "status": "CC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1037252_regulamento_regulamento_1037252_2025-11-13.pdf"
+    },
+    {
+      "id": 1037253,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "13/11/2025",
+      "data_entrega": "13/11/2025 18:48",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1037253_regulamento_regulamento_1037253_2025-11-13.pdf"
+    },
+    {
+      "id": 1037266,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "13/11/2025 15:00",
+      "data_entrega": "13/11/2025 18:52",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1037266_assembleia_assembleia_1037266_2025-11-13.pdf"
+    },
+    {
+      "id": 1047491,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "18/11/2025 15:00",
+      "data_entrega": "27/11/2025 10:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1047491_assembleia_assembleia_1047491_2025-11-18.pdf"
+    },
+    {
+      "id": 1115628,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "13/02/2026 18:26",
+      "nome_arquivo": null,
+      "status": "IC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1119159,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "20/02/2026 21:34",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1115913,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "13/02/2026 18:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1116046,
+      "categoria": "Relatórios",
+      "tipo": "Outros Relatórios",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "13/02/2026 19:19",
+      "nome_arquivo": null,
+      "status": "IC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1116080,
+      "categoria": "Relatórios",
+      "tipo": "Outros Relatórios",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "13/02/2026 19:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1125002,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "27/02/2026 22:39",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1104099,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "06/02/2026",
+      "data_entrega": "06/02/2026 17:07",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1104099_regulamento_regulamento_1104099_2026-02-06.pdf"
+    },
+    {
+      "id": 1104103,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "06/02/2026 00:00",
+      "data_entrega": "06/02/2026 17:09",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1104103_assembleia_assembleia_1104103_2026-02-06.pdf"
+    },
+    {
+      "id": 1140787,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Carta Consulta",
+      "classification": "assembleia",
+      "data_referencia": "30/03/2026 10:00",
+      "data_entrega": "19/03/2026 15:47",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1140787_assembleia_assembleia_1140787_2026-03-30.pdf"
+    },
+    {
+      "id": 1140788,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Outros Documentos",
+      "classification": "assembleia",
+      "data_referencia": "30/03/2026 10:00",
+      "data_entrega": "19/03/2026 15:50",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1140788_assembleia_assembleia_1140788_2026-03-30.pdf"
+    },
+    {
+      "id": 1148973,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "30/03/2026 10:00",
+      "data_entrega": "30/03/2026 19:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1148973_assembleia_assembleia_1148973_2026-03-30.pdf"
+    },
+    {
+      "id": 1148975,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Sumário das Decisões",
+      "classification": "assembleia",
+      "data_referencia": "30/03/2026 10:00",
+      "data_entrega": "30/03/2026 19:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1148975_assembleia_assembleia_1148975_2026-03-30.pdf"
+    },
+    {
+      "id": 1152823,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "31/03/2026",
+      "data_entrega": "01/04/2026 17:26",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62626887000185/1152823_regulamento_regulamento_1152823_2026-03-31.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "astro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "source_excerpt": "astro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "ia Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "source_excerpt": "ia Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "source_excerpt": "fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "referidos neste item em virtude da execução de garantias, o Gestor deverá tomar as medida s necessárias para alienar tais ativos dentro do prazo que julgar mais adequado para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "o para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de derivativos, exceto para fins de proteção da carteira; 5.13.1. Para fins do previsto no inciso “II” do item 5.14 acima, o Fundo poderá realizar operações em mercados de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "mentos para registro e avaliação de títulos, valores mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "s mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "r variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "source_excerpt": "r variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "Corporativo | Externo 1 REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA Datado de 01 de outubro de 2025. Corporativo | Externo 2 REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA PARTE GERAL 1. Definições 1ª Data de Emissão de Cotas é a data em que os recursos decorrentes da primeira integralização de Cotas, em moeda co…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "r é a INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., sociedade empresária limitada com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório Agente de Cobrança Extraord…",
+      "source_excerpt": "r é a INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., sociedade empresária limitada com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório Agente de Cobrança Extraord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "a Brigadeiro Faria Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório Agente de Cobrança ExtraordináriaDireitos Creditórios vencidos e não pagos. : é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser aloca…",
+      "source_excerpt": "a Brigadeiro Faria Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório Agente de Cobrança ExtraordináriaDireitos Creditórios vencidos e não pagos. : é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "ativos referidos neste item em virtude da execução de garantias, o Gestor deverá tomar as medidas necessárias para alienar tais ativos dentro do prazo que julgar mais adequado para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercad…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "o Gestor deverá tomar as medidas necessárias para alienar tais ativos dentro do prazo que julgar mais adequado para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de derivativos, exceto para fins de proteção da carteira; 5.13.…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "procedimentos para registro e avaliação de títulos, valores mobiliários e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado (mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do U…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "valores mobiliários e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado (mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrume…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "sionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrument…",
+      "source_excerpt": "sionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrantes da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrument…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "tro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 00.066.670/0001-00, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "source_excerpt": "tro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 00.066.670/0001-00, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": ", 4º Andar, CEP: 06029-900, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 00.066.670/0001-00, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "source_excerpt": ", 4º Andar, CEP: 06029-900, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 00.066.670/0001-00, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "dos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "source_excerpt": "dos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 3.067, de 06 de setembro de 1994. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "referidos neste item em virtude da execução de garantias, o Gestor deverá tomar as medida s necessárias para alienar tais ativos dentro do prazo que julgar mais adequado para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "o para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de derivativos, exceto para fins de proteção da carteira; 5.13.1. Para fins do previsto no inciso “II” do item 5.14 acima, o Fundo poderá realizar operações em mercados de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "entos para registro e avaliação de títulos, valores mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "source_excerpt": "variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "source_excerpt": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "onados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocaç…",
+      "source_excerpt": "onados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocaç…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "órios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a redução na quantidade de Direitos Creditórios elegíveis para aquisição pelo Fundo poderão impactar negativamente na rentabilidade das Cotas em função da impossibilidade d e aquisição de Ativos Financeiros com a mesma rentabilidade proporcionada pelos Direitos Creditórios. (ii) Risco de concentr…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "source_excerpt": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": ", ceder ou originar, direta ou indiretamente, Direitos Creditórios ao Fundo , nos termo s do artigo 42 do Anexo Normativo II da Resolução CVM nº 175. 11.1.11. É vedado ao Fundo realizar operações (i) de day trade, assim consideradas aquelas iniciadas e encerradas no mesmo dia, independentemente de o Fundo possuir estoque ou posição anterior do mesmo Ativo Financeiro; (ii) de renda variável; ou (iii) em mercados de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "source_excerpt": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "onados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocaç…",
+      "source_excerpt": "onados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocaç…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "órios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a redução na quantidade de Direitos Creditórios elegíveis para aquisição pelo Fundo poderão impactar negativamente na rentabilidade das Cotas em função da impossibilidade d e aquisição de Ativos Financeiros com a mesma rentabilidade proporcionada pelos Direitos Creditórios. (ii) Risco de concentr…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "source_excerpt": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": ", ceder ou originar, direta ou indiretamente, Direitos Creditórios ao Fundo , nos termo s do artigo 42 do Anexo Normativo II da Resolução CVM nº 175. 11.1.11. É vedado ao Fundo realizar operações (i) de day trade, assim consideradas aquelas iniciadas e encerradas no mesmo dia, independentemente de o Fundo possuir estoque ou posição anterior do mesmo Ativo Financeiro; (ii) de renda variável; ou (iii) em mercados de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "source_excerpt": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "mas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à…",
+      "source_excerpt": "mas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "itos Creditórios suficientes para que o Fundo se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a redução na quantidade de Direitos Creditórios elegíveis para aquisição pelo Fundo poderão impactar negativamente na rentabilidade das Cotas em função da impossibilidade de aquisição de Ativos Financeiros com a mesma rentabilidade proporcionada pelos Direitos Creditórios. (ii) Risco de c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": ", ceder ou originar, direta ou indiretamente, Direitos Creditórios ao Fundo , nos termo s do artigo 42 do Anexo Normativo II da Resolução CVM nº 175. 11.1.11. É vedado ao Fundo realizar operações (i) de day trade, assim consideradas aquelas iniciadas e encerradas no mesmo dia, independentemente de o Fundo possuir estoque ou posição anterior do mesmo Ativo Financeiro; (ii) de renda variável; ou (iii) em mercados de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "source_excerpt": "ido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "mas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à…",
+      "source_excerpt": "mas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "Creditórios elegíveis para aquisição pelo Fundo poderão impactar negativamente na rentabilidade das Cotas em função da impossibilidade de aquisição de Ativos Financeiros com a mesma rentabilidade proporcionada pelos Direitos Creditórios. REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE 31 DE MARÇO DE 2026 39 (ii) Risco de concentração…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "source_excerpt": "o Líquido em Direitos Creditórios devidos exclusivamente pelos Devedores, nos termos da regulamentação aplicável em vigor. Desse modo, na hipótese de aumento do risco de crédito ou de outros riscos relacionados aos Devedores, o Fundo poderá sofrer impactos substanciais em seus resultados, afetando negativamente o patrimônio do Fundo e os investimentos dos Cotistas, podendo gerar perdas aos Cotistas. (iii) Risco de c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE 31 DE MARÇO DE 2026 47 11.1.11. É vedado ao Fundo realizar operações (i) de day trade, assim consideradas aquelas iniciadas e encerradas no mesmo dia, independentemente de o Fundo possuir estoque ou posição anterior do mesmo Ativo Financeiro; (ii) de renda variável; ou (iii) em mercados de derivativ…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "e nos Critérios de Elegibilidade. O Fundo poderá não dispor de ofertas de Direitos Creditórios suficientes ou em condições aceitáveis, a critério do Gestor, que atendam à política de investimento e aos Critérios de Elegibilidade estabelecidos neste Regulamento, de modo que o Fundo poderá enfrentar dificuldades para atender a Alocação Mínima, bem como de empregar suas disponibilidades de caixa para aquisição de Direi…",
+      "source_excerpt": "e nos Critérios de Elegibilidade. O Fundo poderá não dispor de ofertas de Direitos Creditórios suficientes ou em condições aceitáveis, a critério do Gestor, que atendam à política de investimento e aos Critérios de Elegibilidade estabelecidos neste Regulamento, de modo que o Fundo poderá enfrentar dificuldades para atender a Alocação Mínima, bem como de empregar suas disponibilidades de caixa para aquisição de Direi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…",
+      "source_excerpt": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…",
+      "source_excerpt": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…",
+      "source_excerpt": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…",
+      "source_excerpt": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a reduçã…",
+      "source_excerpt": "reditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a reduçã…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…",
+      "source_excerpt": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "hamados Chargebacks. A existência de Cancelamentos e de Chargebacks nas operações relacionadas aos Direitos Creditórios Cedidos, ou a eventual insolvência do Cedente nas hipóteses acima, poderão afetar negativamente e resultar em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Crité…",
+      "source_excerpt": "hamados Chargebacks. A existência de Cancelamentos e de Chargebacks nas operações relacionadas aos Direitos Creditórios Cedidos, ou a eventual insolvência do Cedente nas hipóteses acima, poderão afetar negativamente e resultar em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Crité…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…",
+      "source_excerpt": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "elo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não co nstitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de El…",
+      "source_excerpt": "elo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não co nstitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de El…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "stitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critérios de El…",
+      "source_excerpt": "stitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critérios de El…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…",
+      "source_excerpt": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…",
+      "source_excerpt": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…",
+      "source_excerpt": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…",
+      "source_excerpt": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a reduçã…",
+      "source_excerpt": "reditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo 37 se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a reduçã…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…",
+      "source_excerpt": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "hamados Chargebacks. A existência de Cancelamentos e de Chargebacks nas operações relacionadas aos Direitos Creditórios Cedidos, ou a eventual insolvência do Cedente nas hipóteses acima, poderão afetar negativamente e resultar em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Crité…",
+      "source_excerpt": "hamados Chargebacks. A existência de Cancelamentos e de Chargebacks nas operações relacionadas aos Direitos Creditórios Cedidos, ou a eventual insolvência do Cedente nas hipóteses acima, poderão afetar negativamente e resultar em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Crité…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…",
+      "source_excerpt": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "elo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não co nstitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de El…",
+      "source_excerpt": "elo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não co nstitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de El…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "stitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critérios de El…",
+      "source_excerpt": "stitui garantia de 23 adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critérios de El…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…",
+      "source_excerpt": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "conômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 37 em razão de não…",
+      "source_excerpt": "conômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 37 em razão de não…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 38 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em orig…",
+      "source_excerpt": "DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 38 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em orig…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…",
+      "source_excerpt": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a…",
+      "source_excerpt": "Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…",
+      "source_excerpt": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "nte nas hipóteses acima, poderão afetar negativamente e resultar REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 26 em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Critérios de Ele…",
+      "source_excerpt": "nte nas hipóteses acima, poderão afetar negativamente e resultar REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE XX DE XX DE 2026 26 em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Critérios de Ele…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…",
+      "source_excerpt": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "itórios pelo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios…",
+      "source_excerpt": "itórios pelo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critério…",
+      "source_excerpt": "o não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critério…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…",
+      "source_excerpt": "os Cedidos e dos Ativos Financeiros a terceiros, sendo que o preço praticado poderia causar perda aos Cotistas. (ii) Observância da Alocação Mínima . Não há garantia de que o Fundo conseguirá adquirir Direitos Creditórios elegíveis suficientes, que atendam aos Critérios de Elegibilidade e às Condições de Cessão, para fazer frente à Alocação Mínima. A existência do Fundo, no tempo, depende da manutenção dos fluxos de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…",
+      "source_excerpt": "ltam na originação dos Direitos Creditórios podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do Governo Federal e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o Fundo não consiga adquirir Direitos Creditórios que atendam aos Critérios de Elegibilidade e às Condições de Cessão, inclusive em r…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…",
+      "source_excerpt": "o dos processos operacionais do Cedente. 10.8. Riscos de originação dos Direitos Creditórios 10.8.1. Risco de Maior Materialidade (i) Originação dos Direitos Creditórios. A existência do Fundo está condicionada (1) à sua capacidade de encontrar Direitos Creditórios que sejam elegíveis, nos termos deste Regulamento, em volume e taxa suficientes para possibilitar a remuneração das Cotas; e (2) à condição do Cedente em…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…",
+      "source_excerpt": "reitos Creditórios cedidos pelo Cedente. As atividades do Cedente que resultam na originação dos Direitos Creditórios para atendimento à política de investimento do Fundo podem, devido à sua natureza, ser afetadas por diversos fatores, inclusive condições de mercado, efeitos da política econômica do governo brasileiro e riscos operacionais. Caso, em decorrência de problemas relacionados às atividades do Cedente, o F…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a…",
+      "source_excerpt": "Direitos Creditórios elegíveis que atendam aos Critérios de Elegibilidade e às Condições de Cessão, poderá haver um desenquadramento do Fundo com relação à Alocação Mínima e, consequentemente, a sua liquidação. Não há garantia de que o Cedente conseguirá e/ou irá originar e/ou ceder Direitos Creditórios suficientes para que o Fundo se enquadre à Alocação Mínima e continue em existência. Além disso, a ausência e/ou a…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…",
+      "source_excerpt": "o pagamento da taxa de fiscalização, conforme aplicável, nos termos do artigo 5º, II, “b”, da Lei nº 7.490, de 20 de dezembro de 1989, conforme alterada, e do artigo 27, I, “a”, da Resolução CVM nº 160; (xxxi) pagar a multa cominatória às suas expensas, nos termos da legislação vigente, por cada dia de atraso no cumprimento dos prazos previstos na regulamentação aplicável; (xxxii) verificação do enquadramento dos Di…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "nas hipóteses acima, poderão afetar negativamente e resultar REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE 31 DE MARÇO DE 2026 24 em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Critérios de Eleg…",
+      "source_excerpt": "nas hipóteses acima, poderão afetar negativamente e resultar REGULAMENTO DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, CNPJ/MF 62.626.887/0001-85- DATADO DE 31 DE MARÇO DE 2026 24 em perdas nos resultados do Fundo e aos Cotistas, em especial caso o Cedente não cumpra com a obrigação de pagamento da Resolução da Cessão, conforme determina o Contrato de Cessão. (vi) Critérios de Eleg…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…",
+      "source_excerpt": "i) Critérios de Elegibilidade e Condições de Cessão . Os Critérios de Elegibilidade e as Condições de Cessão têm a finalidade de selecionar e definir o tipo de Direitos Creditórios passíveis de aquisição pelo Fundo. O adimplemento dos Direitos Creditórios depende, dentre outros fatores, da situação econômico-financeira dos Devedores. A observância, na data de aquisição dos Direitos Creditórios pelo Fundo, dos Critér…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "itórios pelo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios…",
+      "source_excerpt": "itórios pelo Fundo, dos Critérios de Elegibilidade e das Condições de Cessão não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critério…",
+      "source_excerpt": "o não cons titui garantia de adimplência dos respectivos devedores dos Direitos Creditórios de titularidade do Fundo. Os recursos para pagamento da Remuneração e da Amortização de Principal provirão exclusivamente da carteira de ativos do Fundo, a qual está sujeita a riscos diversos e cujo desempenho é incerto. (vii) Verificação dos Critérios de Elegibilidade e das Condições de Cessão de forma agregada . Os Critério…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "e local para que seja feita a entrega dos ativos, ou (ii) não tenha sido eleito um administrador para o condomínio, nos termos 32 solicitados pelo Administrador na notificação referida no item 1 8.4.1, o Administrador poderá promover a consignação dos ativos, na forma do Artigo 334 do Código Civil Brasileiro. 19. REMUNERAÇÃO E ENCARGOS DO FUNDO 19.1. Pela administração do Fundo, nela compreendida as atividades do Ad…",
+      "amortization_schedule": "egulamentação aplicável; (vii) elaborar e divulgar as informações periódicas e eventuais do Fundo; (viii) manter atualizada junto à CVM a lista de todos os prestadores de serviços contratados pelo FUNDO, inclusive os prestadores de serviços essenciais, bem como as demais informações cadastrais do Fundo; (ix) efetuar a amortização das Cotas; (x) monitorar, na esfera de sua competência, as hipóteses de liquidação ante…",
+      "maturity": "er; e (b) indicação do caráter definitivo, ou não, da cessão de direitos creditórios; (v) impacto dos eventos de pré -pagamento no valor do patrimônio líquido e na rentabilidade da carteira; (vi) condições de alienação, a qualquer título, de direitos creditórios, incluindo: (a) momento da alienação (antes ou depois do vencimento); e (b) motivação da alienação; 12 Corporativo | Externo (vii) impacto no valor do patri…",
+      "source_excerpt": "1 Corporativo | Externo REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA Datado de 08 de setembro de 2025. 2 Corporativo | Externo REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA PARTE GERAL 1. Definições “1ª Data de Emissão de Cotas ” é a data em que os recursos decorrentes da primeira integralização de Cotas, em moed…",
+      "source_document": "995528_regulamento_regulamento_995528_2025-09-09.pdf",
+      "source_document_id": 995528
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 350000000.0,
+      "amount_display": "R$ 350.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "tos creditórios, constituído nos termos do Anexo Normativo II da Resolução da CVM nº 175, de 23 de dezembro de 2022, conforme alterada (FIDC TOP 2025Resolução CVM 175CNPJ sob o nº 61.052.199/0001-96, a partir de deliberação em assembleia geral de cotistasrealizada em 02 de setembro de 2025e sua rerratificação em 11 de setembro de 2025,aprovou a realizaçãoda cisãoparcialde seu patrimônio líquido Cisão; e(ii)Instrumen…",
+      "source_document": "1005989_regulamento_regulamento_1005989_2025-10-01.pdf",
+      "source_document_id": 1005989
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "de hora e local para que seja feita a entrega dos ativos, ou (ii) não tenha sido eleito um administrador para o condomínio, nos termos 32 solicitados pelo Administrador na notificação referida no item 18.4.1, o Administrador poderá promover a consignação dos ativos, na forma do Artigo 334 do Código Civil Brasileiro. 19. REMUNERAÇÃO E ENCARGOS DO FUNDO 19.1. Pela administração do Fundo, nela compreendida as atividade…",
+      "amortization_schedule": "na regulamentação aplicável; (vii) elaborar e divulgar as informações periódicas e eventuais do Fundo; (viii) manter atualizada junto à CVM a lista de todos os prestadores de serviços contratados pelo FUNDO, inclusive os prestadores de serviços essenciais, bem como as demais informações cadastrais do Fundo; (ix) efetuar a amortização das Cotas; (x) monitorar, na esfera de sua competência, as hipóteses de liquidação…",
+      "maturity": "e houver; e (b) indicação do caráter definitivo, ou não, da cessão de direitos creditórios; (v) impacto dos eventos de pré-pagamento no valor do patrimônio líquido e na rentabilidade da carteira; (vi) condições de alienação, a qualquer título, de direitos creditórios, incluindo: (a) momento da alienação (antes ou depois do vencimento); e (b) motivação da alienação; Corporativo | Externo 12 (vii) impacto no valor do…",
+      "source_excerpt": "Corporativo | Externo 1 REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA Datado de 01 de outubro de 2025. Corporativo | Externo 2 REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA PARTE GERAL 1. Definições 1ª Data de Emissão de Cotas é a data em que os recursos decorrentes da primeira integralização de Cotas, em moeda co…",
+      "source_document": "1005991_regulamento_regulamento_1005991_2025-10-01.pdf",
+      "source_document_id": 1005991
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "ações fiscais decorrentes dos fatos geradores ocorridos a partir do 1º (primeiro) dia útil subsequente à Data de Transferência, inclusive, caberão à Nova Administradora. 4 Corporativo | Interno 6.2.7. A Administradora se responsabiliza perante a Nova Administradora, ainda, pelo que segue: A. Encaminhar, no prazo de até 1 (um) dia útil antes da Data de Transferência, via digital formalizada da presente Ata; B. Efetua…",
+      "source_excerpt": "ndo”)., constituído nos termos do seu regulamento e da Resolução CVM nº 175, de 23 de dezembro de 2022, conforme alterada (“Regulamento” e “RCVM 175”, respectivamente). 2. COMPOSIÇÃO DA MESA: Presidente e Secretário, representantes da Intrag Distribuidora de Títulos e Valo- res Mobiliários Ltda., Administrador do Fundo. 3. CONVOCAÇÃO: Dispensada a convocação tendo em vista a presença do único cotista do Fundo nesta…",
+      "source_document": "1007124_assembleia_assembleia_1007124_2025-10-02.pdf",
+      "source_document_id": 1007124
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "e local para que seja feita a entrega dos ativos, ou (ii) não tenha sido eleito um administrador para o condomínio, nos termos 32 solicitados pelo Administrador na notificação referida no item 1 8.4.1, o Administrador poderá promover a consignação dos ativos, na forma do Artigo 334 do Código Civil Brasileiro. 19. REMUNERAÇÃO E ENCARGOS DO FUNDO 19.1. Pela administração do Fundo, nela compreendida as atividades do Ad…",
+      "amortization_schedule": "egulamentação aplicável; (vii) elaborar e divulgar as informações periódicas e eventuais do Fundo; (viii) manter atualizada junto à CVM a lista de todos os prestadores de serviços contratados pelo FUNDO, inclusive os prestadores de serviços essenciais, bem como as demais informações cadastrais do Fundo; (ix) efetuar a amortização das Cotas; (x) monitorar, na esfera de sua competência, as hipóteses de liquidação ante…",
+      "maturity": "er; e (b) indicação do caráter definitivo, ou não, da cessão de direitos creditórios; (v) impacto dos eventos de pré -pagamento no valor do patrimônio líquido e na rentabilidade da carteira; (vi) condições de alienação, a qualquer título, de direitos creditórios, incluindo: (a) momento da alienação (antes ou depois do vencimento); e 12 Corporativo | Externo (b) motivação da alienação; (vii) impacto no valor do patri…",
+      "source_excerpt": "1 Corporativo | Externo REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA Datado de 06 de outubro de 2025. 2 Corporativo | Externo REGULAMENTO DO TOP 2025 C FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA PARTE GERAL 1. Definições “1ª Data de Emissão de Cotas ” é a data em que os recursos decorrentes da primeira integralização de Cotas, em moeda…",
+      "source_document": "1018871_regulamento_regulamento_1018871_2025-10-06.pdf",
+      "source_document_id": 1018871
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "ário: R$1.000,00 (mil reais) na Data de Contagem (conforme definida abaixo). Data de Amortização Final (vencimento): Data de Pagamento correspondente a 09 de novembro de 2028. Data de Contagem 17 de novembro de 2025. Sobretaxa Sênior: 0,515% (zero vírgula quinhentos e quinze por cento) ao ano. Meta de Remuneração: as Cotas Seniores serão valoradas diariamente, a partir da Data de Contagem até a Data de Amortização F…",
+      "amortization_schedule": "órios e Outras Avenças”, a ser celebrado entre o Fundo, a SumUp e o Gestor, com a interveniência anuência da Administradora (“Contrato de Cessão”); VIII. a definição da data-base para fins de início da incorporação do Benchmark ao valor das cotas da Subclasse Sênior e das cotas Subclasse Subordinada Júnior; e IX. a amortização extraordinária das cotas Subclasse Subordinada Júnior. DELIBERAÇÕES: analisadas as matéria…",
+      "maturity": "339.850.000,00 (trezentos e trinta e nove milhões e oitocentos e cinquenta mil reais). Quantidade total de Cotas Seniores: 339.850 (trezentas e trinta e nove mil e oitocentas e cinquenta). Valor Nominal Unitário: R$1.000,00 (mil reais) na Data de Contagem (conforme definida abaixo). Data de Amortização Final (vencimento): Data de Pagamento correspondente a 09 de novembro de 2028. Data de Contagem 17 de novembro de 2…",
+      "source_excerpt": "ar sobre: 2 I. a alteração da denominação do Fundo, para que passe a ser denominado SUMUP SMART I V FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, e a alteração da denominação da Classe, para que passe a ser denominada CLASSE ÚNICA DO SUMUP SMART I V FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA; II. a substituição integral do Regulamento do Fundo (“Regulamento”); III. a divisão das c…",
+      "source_document": "1037252_regulamento_regulamento_1037252_2025-11-13.pdf",
+      "source_document_id": 1037252
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000000.0,
+      "amount_display": "R$1.000.000,00",
+      "currency": "R$",
+      "remuneration": "1) Valor Principal de Referência; 7 (2) Valor Principal de Referência Anterior; (3) Valor Unitário de Referência; (4) Valor Unitário de Referência Corrigido; (5) Valor Unitário de Referência Corrigido Antes da Amortização; (6) Meta de Amortização; (7) Meta de Amortização de Principal; e (8) Limite Superior de Remuneração; Para fins de apuração do Valor Unitário de Referência Corrigido Antes da Amortização e do respe…",
+      "amortization_schedule": "a do Fundo descrita no presente Regulamento. 2. DA FORMA DE CONSTITUIÇÃO E PÚBLICO -ALVO, DA CLASSE ÚNICA E DA RESPONSABILIDADE LIMITADA 2.1. O Fundo é constituído em uma única Classe de Cotas fechada, nos termos do artigo 5º do Anexo Normativo II à Resolução CVM nº 175, de modo que as Cotas somente serão objeto de amortização final ao término do prazo definido no respectivo Apêndice ou em caso de liquidação antecip…",
+      "maturity": "as referências a quaisquer partes incluem seus representantes, sucessores e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "arcelas não exceda o montante total da Taxa de Gestão acima fixada. 8.2.4. O Gestor pode reduzir unilateralmente a taxa que lhe compete, sem que seja requerida deliberação de Assembleia Geral para que seja promovida alteração do Regulamento. 8.3. Tendo em vista que não há distribuidores das Cotas que prestem serviços de forma contínua ao Fundo, o presente Regulamento não prevê uma taxa máxima de distribuição, nos te…",
+      "source_document": "1037253_regulamento_regulamento_1037253_2025-11-13.pdf",
+      "source_document_id": 1037253
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "ário: R$1.000,00 (mil reais) na Data de Contagem (conforme definida abaixo). Data de Amortização Final (vencimento): Data de Pagamento correspondente a 09 de novembro de 2028. Data de Contagem 17 de novembro de 2025. Sobretaxa Sênior: 0,515% (zero vírgula quinhentos e quinze por cento) ao ano. Meta de Remuneração: as Cotas Seniores serão valoradas diariamente, a partir da Data de Contagem até a Data de Amortização F…",
+      "amortization_schedule": "órios e Outras Avenças”, a ser celebrado entre o Fundo, a SumUp e o Gestor, com a interveniência anuência da Administradora (“Contrato de Cessão”); VIII. a definição da data-base para fins de início da incorporação do Benchmark ao valor das cotas da Subclasse Sênior e das cotas Subclasse Subordinada Júnior; e IX. a amortização extraordinária das cotas Subclasse Subordinada Júnior. DELIBERAÇÕES: analisadas as matéria…",
+      "maturity": "339.850.000,00 (trezentos e trinta e nove milhões e oitocentos e cinquenta mil reais). Quantidade total de Cotas Seniores: 339.850 (trezentas e trinta e nove mil e oitocentas e cinquenta). Valor Nominal Unitário: R$1.000,00 (mil reais) na Data de Contagem (conforme definida abaixo). Data de Amortização Final (vencimento): Data de Pagamento correspondente a 09 de novembro de 2028. Data de Contagem 17 de novembro de 2…",
+      "source_excerpt": "erar sobre: 2 I. a alteração da denominação do Fundo, para que passe a ser denominado SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, e a alteração da denominação da Classe, para que passe a ser denominada CLASSE ÚNICA DO SUMUP SMART IV FIDC SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE LIMITADA; II. a substituição integral do Regulamento do Fundo (“Regulamento”); III. a divisão das c…",
+      "source_document": "1037266_assembleia_assembleia_1037266_2025-11-13.pdf",
+      "source_document_id": 1037266
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000000.0,
+      "amount_display": "R$1.000.000,00",
+      "currency": "R$",
+      "remuneration": "1) Valor Principal de Referência; 7 (2) Valor Principal de Referência Anterior; (3) Valor Unitário de Referência; (4) Valor Unitário de Referência Corrigido; (5) Valor Unitário de Referência Corrigido Antes da Amortização; (6) Meta de Amortização; (7) Meta de Amortização de Principal; e (8) Limite Superior de Remuneração; Para fins de apuração do Valor Unitário de Referência Corrigido Antes da Amortização e do respe…",
+      "amortization_schedule": "a do Fundo descrita no presente Regulamento. 2. DA FORMA DE CONSTITUIÇÃO E PÚBLICO -ALVO, DA CLASSE ÚNICA E DA RESPONSABILIDADE LIMITADA 2.1. O Fundo é constituído em uma única Classe de Cotas fechada, nos termos do artigo 5º do Anexo Normativo II à Resolução CVM nº 175, de modo que as Cotas somente serão objeto de amortização final ao término do prazo definido no respectivo Apêndice ou em caso de liquidação antecip…",
+      "maturity": "as referências a quaisquer partes incluem seus representantes, sucessores e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "arcelas não exceda o montante total da Taxa de Gestão acima fixada. 8.2.4. O Gestor pode reduzir unilateralmente a taxa que lhe compete, sem que seja requerida deliberação de Assembleia Geral para que seja promovida alteração do Regulamento. 8.3. Tendo em vista que não há distribuidores das Cotas que prestem serviços de forma contínua ao Fundo, o presente Regulamento não prevê uma taxa máxima de distribuição, nos te…",
+      "source_document": "1104099_regulamento_regulamento_1104099_2026-02-06.pdf",
+      "source_document_id": 1104099
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "o aplicável à próxima Data de Pagamento, destinando-se tal reserva à distribuição aos Cotistas e devendo ser acumulada com antecedência mínima de: (i) 30 (trinta) dias em relação à próxima Data de Amortização Programada prevista no respectivo Suplemento; e (ii) 15 (quinze) dias em relação à próxima Data de Pagamento de Remuneração, conforme prevista no respectivo Suplemento, podendo ser composta por disponibilidades…",
+      "amortization_schedule": ") (APROVAR/REPROVAR) A Demonstração contábil relativamente ao exercício social findo em 31 de dezembro de 2025. Aprovo Reprovo Abstenho-me 2) (APROVAR/REPROVAR) A alteração do item 22.2.1 do Regulamento do Fundo, de modo a ajustar e esclarecer a metodologia de constituição, acumulação e utilização da Reserva de Amortização, especialmente no regime de Amortização Pro Rata, bem como reforçar a inexistência da Reserva…",
+      "maturity": "30 (trinta) dias em relação à próxima Data de Amortização Programada prevista no respectivo Suplemento; e (ii) 15 (quinze) dias em relação à próxima Data de Pagamento de Remuneração, conforme prevista no respectivo Suplemento, podendo ser composta por disponibilidades da Classe e/ou em Direitos Creditórios Cedidos com vencimento em até 2 (dois) Dias Úteis anteriores à correspondente Data de A mortização Programada o…",
+      "source_excerpt": "ta no Capítulo 15 deste Regulamento, a cada Data de Cálculo será constituída a Reserva de Amortização, formada pelos recursos decorrentes do pagamento dos Direitos Creditórios Cedidos e dos Ativos Financeiros integrantes da carteira do Fundo, os quais deverão ser retidos pelo Gestor até o atingimento do montante correspondente da Meta de Amortização aplicável à próxima Data de Pagamento, destinando-se tal reserva à…",
+      "source_document": "1140787_assembleia_assembleia_1140787_2026-03-30.pdf",
+      "source_document_id": 1140787
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000000.0,
+      "amount_display": "R$1.000.000,00",
+      "currency": "R$",
+      "remuneration": "O 6 4. Erro! Indicador não definido.DOS PRESTADORES DE SERVIÇOS ESSENCIAIS 6 5. Erro! Indicador não definido. DA RESPONSABILIDADE DOS PRESTADORES DE SERVIÇOS 17 6. Erro! Indicador não definido.DO CUSTODIANTE 17 7. Erro! Indicador não definido.DO AGENTE DE COBRANÇA EXTRAORDINÁRIA 18 8. Erro! Indicador não definido. DA REMUNERAÇÃO DOS PRESTADORES DE SERVIÇOS ESSENCIAIS, DO CUSTODIANTE E DOS DEMAIS PRESTADORES DE SERVI…",
+      "amortization_schedule": "não definido.DOS FATORES DE RISCO 21 11. Erro! Indicador não definido. DA POLÍTICA DE INVESTIMENTO, COMPOSIÇÃO E DIVERSIFICAÇÃO DA CARTEIRA 45 12. Erro! Indicador não definido.DAS COTAS DO FUNDO 50 13. Erro! Indicador não definido.DA VALORAÇÃO DAS COTAS 55 14. Erro! Indicador não definido.DO PAGAMENTO DE REMUNERAÇÃO E AMORTIZAÇÃO DE COTAS 56 15. Erro! Indicador não definido.DA ORDEM DE ALOCAÇÃO DOS RECURSOS 58 16. E…",
+      "maturity": "as referências a quaisquer partes incluem seus representantes, sucessores e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "io dessas parcelas não exceda o montante total da Taxa de Gestão acima fixada. 8.2.4. O Gestor pode reduzir unilateralmente a taxa que lhe compete, sem que seja requerida deliberação de Assembleia Geral para que seja promovida alteração do Regulamento. 8.3. Tendo em vista que não há distribuidores das Cotas que prestem serviços de forma contínua ao Fundo, o presente Regulamento não prevê uma taxa máxima de distribui…",
+      "source_document": "1140788_assembleia_assembleia_1140788_2026-03-30.pdf",
+      "source_document_id": 1140788
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "aplicável à próxima Data de Pagam ento, destinando-se tal reserva à distribuição aos Cotistas e devendo ser acumulada com antecedência mínima de: (i) 30 (trinta) dias em relação à próxima Data de Amortização Programada prevista no respectivo Suplemento; e (ii) 15 (quinze) dias em relação à próxima Data de Pagamento de Remuneração, conforme prevista no respectivo Suplemento, podendo ser composta por disponibilidades…",
+      "amortization_schedule": "eliberação. Ordem do dia: 1) (APROVAR/REPROVAR) A Demonstração contábil relativamente ao exercício social findo em 31 de dezembro de 2025. 2) (APROVAR/REPROVAR) A alteração do item 22.2.1 do Regulamento do Fundo, de modo a ajustar e esclarecer a metodologia de constituição, acumulação e utilização da Reserva de Amortização, especialmente no regime de Amortização Pro Rata, bem como reforçar a inexistência da Reserva…",
+      "maturity": "30 (trinta) dias em relação à próxima Data de Amortização Programada prevista no respectivo Suplemento; e (ii) 15 (quinze) dias em relação à próxima Data de Pagamento de Remuneração, conforme prevista no respectivo Suplemento, podendo ser composta por disponibilidades da Classe e/ou em Direitos Creditórios Cedidos com vencimento em até 2 (dois) Dias Úteis anteriores à correspondente Data de A mortização Programada o…",
+      "source_excerpt": "no Capítulo 15 deste Regulamento, a cada Data de Cálculo será constituída a Reserva de Amortização, formada pelos recursos decorrentes do pagamento dos Direitos Creditórios Cedidos e dos Ativos Financeiros integrantes da carteira do Fundo, os quais deverão ser retidos pelo Gestor até o atingimento do montante correspondente da Meta de Amortização aplicável à próxima Data de Pagam ento, destinando-se tal reserva à di…",
+      "source_document": "1148973_assembleia_assembleia_1148973_2026-03-30.pdf",
+      "source_document_id": 1148973
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000000.0,
+      "amount_display": "R$1.000.000,00",
+      "currency": "R$",
+      "remuneration": "nte: (1) Valor Principal de Referência; (2) Valor Principal de Referência Anterior; (3) Valor Unitário de Referência; (4) Valor Unitário de Referência Corrigido; (5) Valor Unitário de Referência Corrigido Antes da Amortização; (6) Meta de Amortização; (7) Meta de Amortização de Principal; e (8) Limite Superior de Remuneração; Para fins de apuração do Valor Unitário de Referência Corrigido Antes da Amortização e do r…",
+      "amortization_schedule": "01-85- DATADO DE 31 DE MARÇO DE 2026 4 2. DA FORMA DE CONSTITUIÇÃO E PÚBLICO -ALVO, DA CLASSE ÚNICA E DA RESPONSABILIDADE LIMITADA 2.1. O Fundo é constituído em uma única Classe de Cotas fechada, nos termos do artigo 5º do Anexo Normativo II à Resolução CVM nº 175, de modo que as Cotas somente serão objeto de amortização final ao término do prazo definido no respectivo Apêndice ou em caso de liquidação antecipada da…",
+      "maturity": "as referências a quaisquer partes incluem seus representantes, sucessores e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "io dessas parcelas não exceda o montante total da Taxa de Gestão acima fixada. 8.2.4. O Gestor pode reduzir unilateralmente a taxa que lhe compete, sem que seja requerida deliberação de Assembleia Geral para que seja promovida alteração do Regulamento. 8.3. Tendo em vista que não há distribuidores das Cotas que prestem serviços de forma contínua ao Fundo, o presente Regulamento não prevê uma taxa máxima de distribui…",
+      "source_document": "1152823_regulamento_regulamento_1152823_2026-03-31.pdf",
+      "source_document_id": 1152823
+    }
+  ],
+  "extraction_count": 17,
+  "extraction_errors": []
+}

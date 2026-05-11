@@ -1,0 +1,1612 @@
+{
+  "schema_version": 1,
+  "fund_name": "CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+  "fund_cnpj": "42.085.830/0001-09",
+  "generated_at": "2026-05-10T03:10:24Z",
+  "documents": [
+    {
+      "id": 257874,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "20/05/2021",
+      "data_entrega": "18/01/2022 11:59",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/257874_assembleia_assembleia_257874_2021-05-20.pdf"
+    },
+    {
+      "id": 257875,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "20/05/2021",
+      "data_entrega": "18/01/2022 12:01",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/257875_regulamento_regulamento_257875_2021-05-20.pdf"
+    },
+    {
+      "id": 257876,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "12/01/2022",
+      "data_entrega": "18/01/2022 12:02",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/257876_regulamento_regulamento_257876_2022-01-12.pdf"
+    },
+    {
+      "id": 257877,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "12/01/2022",
+      "data_entrega": "18/01/2022 12:04",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/257877_regulamento_regulamento_257877_2022-01-12.pdf"
+    },
+    {
+      "id": 259042,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "21/01/2022",
+      "data_entrega": "21/01/2022 18:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/259042_regulamento_regulamento_259042_2022-01-21.pdf"
+    },
+    {
+      "id": 259045,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "21/01/2022",
+      "data_entrega": "21/01/2022 18:15",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/259045_regulamento_regulamento_259045_2022-01-21.pdf"
+    },
+    {
+      "id": 305898,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2022",
+      "data_entrega": "16/05/2022 21:23",
+      "nome_arquivo": null,
+      "status": "IC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 306101,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2022",
+      "data_entrega": "16/05/2022 22:22",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 306130,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/03/2022",
+      "data_entrega": "16/05/2022 23:07",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 340627,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2022",
+      "data_entrega": "15/08/2022 22:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 340750,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "30/06/2022",
+      "data_entrega": "15/08/2022 23:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 378137,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2022",
+      "data_entrega": "14/11/2022 18:49",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 378502,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "30/09/2022",
+      "data_entrega": "15/11/2022 00:40",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 418962,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2022",
+      "data_entrega": "15/02/2023 22:37",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 419167,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2022",
+      "data_entrega": "16/02/2023 00:56",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 440004,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2022",
+      "data_entrega": "03/04/2023 23:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 440014,
+      "categoria": "Outras Informações",
+      "tipo": "Outros Documentos",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2022",
+      "data_entrega": "03/04/2023 23:27",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 465457,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2023",
+      "data_entrega": "15/05/2023 22:52",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 464954,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/03/2023",
+      "data_entrega": "15/05/2023 20:20",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 509313,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2023",
+      "data_entrega": "15/08/2023 19:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 509620,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "30/06/2023",
+      "data_entrega": "15/08/2023 21:16",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 513482,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "28/08/2023",
+      "data_entrega": "28/08/2023 17:46",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/513482_regulamento_regulamento_513482_2023-08-28.pdf"
+    },
+    {
+      "id": 513483,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "28/08/2023",
+      "data_entrega": "28/08/2023 17:48",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/513483_regulamento_regulamento_513483_2023-08-28.pdf"
+    },
+    {
+      "id": 552380,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2023",
+      "data_entrega": "14/11/2023 10:30",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 605129,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2023",
+      "data_entrega": "15/02/2024 19:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 632126,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2023",
+      "data_entrega": "01/04/2024 18:12",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 632130,
+      "categoria": "Outras Informações",
+      "tipo": "Outros Documentos",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2023",
+      "data_entrega": "01/04/2024 18:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 662372,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2024",
+      "data_entrega": "15/05/2024 16:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 719167,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2024",
+      "data_entrega": "15/08/2024 02:50",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 772484,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2024",
+      "data_entrega": "06/11/2024 19:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 733253,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "05/09/2024 10:00",
+      "data_entrega": "06/09/2024 17:43",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/733253_assembleia_assembleia_733253_2024-09-05.pdf"
+    },
+    {
+      "id": 733255,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/09/2024",
+      "data_entrega": "06/09/2024 17:45",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/733255_regulamento_regulamento_733255_2024-09-05.pdf"
+    },
+    {
+      "id": 838990,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2024",
+      "data_entrega": "13/02/2025 19:11",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 868259,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2024",
+      "data_entrega": "31/03/2025 10:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 901286,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2025",
+      "data_entrega": "14/05/2025 01:14",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 862742,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "19/03/2025 18:00",
+      "data_entrega": "21/03/2025 10:48",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/862742_assembleia_assembleia_862742_2025-03-19.pdf"
+    },
+    {
+      "id": 948558,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "11/07/2025 10:00",
+      "data_entrega": "16/07/2025 16:29",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/948558_assembleia_assembleia_948558_2025-07-11.pdf"
+    },
+    {
+      "id": 966441,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "24/07/2025",
+      "data_entrega": "12/08/2025 18:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/42085830000109/966441_regulamento_regulamento_966441_2025-07-24.pdf"
+    },
+    {
+      "id": 973831,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "08/2025",
+      "data_entrega": "18/08/2025 09:57",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1037608,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "13/11/2025 21:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1109131,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "12/02/2026 07:57",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.95,
+      "threshold_unit": "ratio",
+      "threshold_display": "95%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "FUNDO. Artigo 12 O patrimônio do FUNDO deverá ser composto pelos seguintes ativos financeiros, na proporção abaixo definida: LIMITES DA CARTEIRA MÍNIMO MÁXIMO I – Cotas de fundos de investimento ou cotas de fundos de investimento em cotas de fundos de investimento registrados com base na Instrução CVM nº 555. 95% 100% II - Costas de Fundos de Investimento Imobiliário – FII; Cotas de Fundos de Investimento em Direito…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.95,
+      "threshold_unit": "ratio",
+      "threshold_display": "95%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "eiros, na proporção abaixo definida: LIMITES DA CARTEIRA MÍNIMO MÁXIMO I – Cotas de fundos de investimento ou cotas de fundos de investimento em cotas de fundos de investimento registrados com base na Instrução CVM nº 555. 95% 100% II - Costas de Fundos de Investimento Imobiliário – FII; Cotas de Fundos de Investimento em Direitos Creditórios – FIDC; Cotas de Fundos de Investimento em Fundos de Investimento em Direi…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "0%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "na Instrução CVM nº 555. 0% 5%, não excedendo o limite do item IV acima VI – Títulos Públicos Federais; Títulos de Renda Fixa de Emissão de Instituição Financeira; O perações compromissadas ; Cotas de Fundos de Índice que reflitam as variações e a rentabilidade de índices de renda fixa. 0% 5% Artigo 13 É vedado ao FUNDO: I. realizar operações de compra e venda de um mesmo título, valor mobiliário ou contrato derivat…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "0%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "es de renda fixa. 0% 5% Artigo 13 É vedado ao FUNDO: I. realizar operações de compra e venda de um mesmo título, valor mobiliário ou contrato derivativo em um mesmo dia (operações day-trade); II. a aquisição de ações de emissão do ADMINISTRADOR, do GESTOR ou de empresas a eles ligadas; III. realizar operações de empréstimo de títulos públicos na posição em que o FUNDO figure como tomador; IV. manter posição de deriv…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "cação em tais ativos na consolidação de seus limites, salvo se o administrador dos Fundos de Investimento disponibilizar diariamente a composição de suas carteiras. Parágrafo Único Em nenhuma hipótese o FUNDO poderá aplicar mais de 50% (cinquenta por cento) em Fundos de Investimento classificados como “crédito privado”. Artigo 17 O FUNDO poderá investir em Fundos de Investimento cuja utilização de instrumentos de de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o administrador dos Fundos de Investimento disponibilizar diariamente a composição de suas carteiras. Parágrafo Único Em nenhuma hipótese o FUNDO poderá aplicar mais de 50% (cinquenta por cento) em Fundos de Investimento classificados como “crédito privado”. Artigo 17 O FUNDO poderá investir em Fundos de Investimento cuja utilização de instrumentos de derivativos tenha por objetivo: POLÍTICA DE UTILIZAÇÃO DE DERIVAT…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "azer com que o FUNDO e/ou os Fundos de Investimento não estejam aptos a realizar pagamentos de resgate de suas cotas conforme pre visto em seus respectivos regulamentos, inclusive em decorrência de dificuldades para liquidar posições ou negociar tais ativos pelo preço e no tempo desejados, condições atípicas de mercado e/ou grande volume de solicitações de resgates. IV. RISCO DECORRENTE DE OPERAÇÕES NOS MERCADOS DE…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ente qualificados no Formulário de Informações Complementares disponíveis nos websites do Administrador (www.gerafuturo.com.br) e da Comissão de Valores Mobiliários – CVM (www.cvm.gov.br). CAPÍTULO IV - DO OBJETIVO E DA POLÍTICA DE INVESTIMENTO DO FUNDO Artigo 10 Para efeito da regulamentação em vigor, o FUNDO, em função da composição de sua carteira de investimentos, classifica-se como “Fundo de Investimento em Dir…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "eira de investimentos, classifica-se como “Fundo de Investimento em Direitos Creditórios”. REGULAMENTO DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS 2 Artigo 11 O objetivo de investimento do FUNDO é proporcionar aos seus cotistas a valorização de suas cotas, buscando, em longo prazo, rentabilidade acima da taxa de Certificados de Depósito Interbancário - CDI, por meio de aplicações em direitos c…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "classifica-se como “Fundo de Investimento em Direitos Creditórios”. REGULAMENTO DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS 2 Artigo 11 O objetivo de investimento do FUNDO é proporcionar aos seus cotistas a valorização de suas cotas, buscando, em longo prazo, rentabilidade acima da taxa de Certificados de Depósito Interbancário - CDI, por meio de aplicações em direitos creditórios (“Direitos C…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "otistas a valorização de suas cotas, buscando, em longo prazo, rentabilidade acima da taxa de Certificados de Depósito Interbancário - CDI, por meio de aplicações em direitos creditórios (“Direitos Creditórios ”). TAL OBJETIVO NÃO REPRESENTA UMA PROMESSA, GARANTIA OU SUGESTÃO DE RENTABILIDADE, MAS APENAS UMA META A SER PERSEGUIDA PELO FUNDO. Artigo 12 O patrimônio do FUNDO deverá ser composto por, no mínimo, 50% em…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "por Ativos Financeiros. Artigo 14 É vedado ao FUNDO: I. realizar operações de compra e venda de um mesmo título, valor mobiliário ou contrato deriv ativo em um mesmo dia (operações day-trade); II. a aquisição de ações de emissão do ADMINISTRADOR, do GESTOR ou de empresas a eles ligadas; III. realizar operações de empréstimo de títulos públicos na posição em que o FUNDO figure como tomador; IV. manter posição de deri…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ação em tais ativos na consolidação de seus limites , salvo se o administrador dos Fundos de Investimento disponibilizar diariamente a composição de suas carteiras. Parágrafo Único Em nenhuma hipótese o FUNDO poderá aplicar mais de 50% (cinquenta por cento) em Fundos de Investimento classificados como “crédito privado”. Artigo 18 O FUNDO poderá investir em Fundos de Investimento cuja utilização de instrumentos de de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o administrador dos Fundos de Investimento disponibilizar diariamente a composição de suas carteiras. Parágrafo Único Em nenhuma hipótese o FUNDO poderá aplicar mais de 50% (cinquenta por cento) em Fundos de Investimento classificados como “crédito privado”. Artigo 18 O FUNDO poderá investir em Fundos de Investimento cuja utilização de instrumentos de derivativos tenha por objetivo: POLÍTICA DE UTILIZAÇÃO DE DERIVAT…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "fazer com que o FUNDO e/ou os Fundos de Investimento não estejam aptos a realizar pagamentos de resgate de suas cotas conforme previsto em seus respectivos regulamentos, inclusive em decorrência de dificuldades para liquidar posições ou negociar tais ativos pelo preço e no tempo desejados, condições atípicas de mercado e/ou grande volume de solicitações de resgates. IV. RISCO DECORRENTE DE OPERAÇÕES NOS MERCADOS DE…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "imento não estejam aptos a realizar pagamentos de resgate de suas cotas conforme previsto em seus respectivos regulamentos, inclusive em decorrência de dificuldades para liquidar posições ou negociar tais ativos pelo preço e no tempo desejados, condições atípicas de mercado e/ou grande volume de solicitações de resgates. IV. RISCO DECORRENTE DE OPERAÇÕES NOS MERCADOS DE DERIVATIVOS: a utilização de instrumentos de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "e e às Condições de Cessão definidos neste Regulamento; e (iv) a Política de Investimento definida neste Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2.…",
+      "source_excerpt": "e e às Condições de Cessão definidos neste Regulamento; e (iv) a Política de Investimento definida neste Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2.…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "259045_regulamento_regulamento_259045_2022-01-21.pdf",
+      "source_document_id": 259045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a…",
+      "source_excerpt": "Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "259045_regulamento_regulamento_259045_2022-01-21.pdf",
+      "source_document_id": 259045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.75,
+      "threshold_unit": "ratio",
+      "threshold_display": "75%",
+      "comparison": "<=",
+      "formula_text": "ntes 75% (setenta e cinco por cento) das Cotas Subordinadas (xviii) deliberar sobre o requerimento da insolvência do Fundo, se assim for permitido pela legislação aplicável; e maioria dos Cotistas presentes maioria dos Cotistas presentes não aplicável (xix) deliberar sobre a alienação de Direitos Creditórios à Cedente em condições diversas daquelas previstas no Contrato de Cessão em relação ao Direito de Recompra. 7…",
+      "source_excerpt": "ntes 75% (setenta e cinco por cento) das Cotas Subordinadas (xviii) deliberar sobre o requerimento da insolvência do Fundo, se assim for permitido pela legislação aplicável; e maioria dos Cotistas presentes maioria dos Cotistas presentes não aplicável (xix) deliberar sobre a alienação de Direitos Creditórios à Cedente em condições diversas daquelas previstas no Contrato de Cessão em relação ao Direito de Recompra. 7…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "259045_regulamento_regulamento_259045_2022-01-21.pdf",
+      "source_document_id": 259045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "e Diversificação da Carteira . Os percentuais de composição e diversificação da carteira do Fundo indicados neste Capítulo serão observados pela Administradora e pela Gestora, diariamente, com base no Patrimônio Líquido do Fundo do Dia Útil imediatamente anterior. 4.5.1. A composição da carteira do Fundo não apresentará requisitos de diversificação além dos previstos neste Capítulo. Página 6 de 78 4.6. Limite de Con…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "259045_regulamento_regulamento_259045_2022-01-21.pdf",
+      "source_document_id": 259045,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.0004,
+      "threshold_unit": "ratio",
+      "threshold_display": "0,04%",
+      "comparison": ">=",
+      "formula_text": "Botafogo, 228, sala 907, CEP 22250 -040, inscrita no CNPJ sob nº 45.246.410/0001-55, instituição autorizada pela Comissão de V alores Mobiliários (“CVM”), por meio do Ato Declaratório nº 15.455, expedido em 13 de janeiro de 2017, a prestar os serviços de administração de carteira de títulos e valores mobiliários, na qualidade de administrador fiduciário (“Administrador”) do CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM…",
+      "source_excerpt": "Botafogo, 228, sala 907, CEP 22250 -040, inscrita no CNPJ sob nº 45.246.410/0001-55, instituição autorizada pela Comissão de V alores Mobiliários (“CVM”), por meio do Ato Declaratório nº 15.455, expedido em 13 de janeiro de 2017, a prestar os serviços de administração de carteira de títulos e valores mobiliários, na qualidade de administrador fiduciário (“Administrador”) do CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "513482_regulamento_regulamento_513482_2023-08-28.pdf",
+      "source_document_id": 513482,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "Condições de Cessão definidos neste Regulamento; e (iv) a Política de Investimento definida neste Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocaçã…",
+      "source_excerpt": "Condições de Cessão definidos neste Regulamento; e (iv) a Política de Investimento definida neste Capítulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocaçã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "513483_regulamento_regulamento_513483_2023-08-28.pdf",
+      "source_document_id": 513483,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "tulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Aloc…",
+      "source_excerpt": "tulo. 4.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Aloc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "513483_regulamento_regulamento_513483_2023-08-28.pdf",
+      "source_document_id": 513483,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.75,
+      "threshold_unit": "ratio",
+      "threshold_display": "75%",
+      "comparison": "<=",
+      "formula_text": "75% (setenta e cinco por cento) das Cotas Subordinadas deliberar sobre o requerimento da (xviii) insolvência do Fundo, se assim for permitido pela legislação aplicável; e maioria dos Cotistas presentes maioria dos Cotistas presentes não aplicável deliberar sobre a alienação de Direitos Creditórios à Cedente em condições (xix) diversas daquelas previstas no Contrato de Cessão em relação ao Direito de Recompra. 75% (s…",
+      "source_excerpt": "75% (setenta e cinco por cento) das Cotas Subordinadas deliberar sobre o requerimento da (xviii) insolvência do Fundo, se assim for permitido pela legislação aplicável; e maioria dos Cotistas presentes maioria dos Cotistas presentes não aplicável deliberar sobre a alienação de Direitos Creditórios à Cedente em condições (xix) diversas daquelas previstas no Contrato de Cessão em relação ao Direito de Recompra. 75% (s…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "513483_regulamento_regulamento_513483_2023-08-28.pdf",
+      "source_document_id": 513483,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "versificação da Carteira . Os percentuais de composição e diversificação da carteira do Fundo indicados neste Capítulo serão observados pela Administradora e pela Gestora, diariamente, com base no Patrimônio Líquido do Fundo do Dia Útil imediatamente anterior. 4.5.1. A composição da carteira do Fundo não apresentará requisitos de diversificação além dos previstos neste Capítulo. Página 6 de 78 4.6. Limite de Concent…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "513483_regulamento_regulamento_513483_2023-08-28.pdf",
+      "source_document_id": 513483,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocaçã…",
+      "source_excerpt": "às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocaçã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "es emitidas pelo Fundo, conforme aplicável e que, em qualquer caso, deverá ser a Fitch Ratings Brasil Ltda., a Moody’s América Latina Ltda., a Standard & Poor’s Ratings do Brasil Lt da. Ou outra agência que venha a ser nomeada pela Assembleia Geral. “Agente de Cobrança Extraordinária” Significa a CloudWalk, na qualidade de prestador de serviços de cobrança extraordinária dos Direitos Creditórios Inadimplidos. “Aloca…",
+      "source_excerpt": "es emitidas pelo Fundo, conforme aplicável e que, em qualquer caso, deverá ser a Fitch Ratings Brasil Ltda., a Moody’s América Latina Ltda., a Standard & Poor’s Ratings do Brasil Lt da. Ou outra agência que venha a ser nomeada pela Assembleia Geral. “Agente de Cobrança Extraordinária” Significa a CloudWalk, na qualidade de prestador de serviços de cobrança extraordinária dos Direitos Creditórios Inadimplidos. “Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "asse A estabelecidos neste Capítulo, com base no Patrimônio Líquido da Classe A do Dia Útil imediatamente anterior, sem prejuízo da obrigação da Administradora de verificar a atuação da Gestora no tocante a tal atribuição, nos termos das disposições regulatórias aplicáveis. 2.8.1. A composição da carteira da Classe A não apresentará requisitos de diversificação além dos previstos neste Capítulo. 2.9. Limite d e Conc…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "se A (“R evolvência”), nos termos do artigo 21, inciso VI, do Anexo Normativo II, observada a ordem de alocação de recursos prevista no Capítulo 15 deste Anexo. 2.5. É vedada a aquisição de Direitos Creditórios, direta ou indiretamente originados ou cedidos pela Administradora, pela Gestora ou partes a eles relacionadas. 2.6. A Classe A não realizará investimentos no exterior. 2.7. Realização de Operações com Deriva…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "ormativo II, observada a ordem de alocação de recursos prevista no Capítulo 15 deste Anexo. 2.5. É vedada a aquisição de Direitos Creditórios, direta ou indiretamente originados ou cedidos pela Administradora, pela Gestora ou partes a eles relacionadas. 2.6. A Classe A não realizará investimentos no exterior. 2.7. Realização de Operações com Derivativos. A Classe A não poderá realizar operações em mercados de deriva…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "e às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. .0.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocaçã…",
+      "source_excerpt": "e às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. .0.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocaçã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "es emitidas pelo Fundo, conforme aplicável e que, em qualquer caso, deverá ser a Fitch Ratings Brasil Ltda., a Moody’s América Latina Ltda., a Standard & Poor’s Ratings do Brasil Lt da. Ou outra agência que venha a ser nomeada pela Assembleia Geral. “Agente de Cobrança Extraordinária” Significa a CloudWalk, na qualidade de prestador de serviços de cobrança extraordinária dos Direitos Creditórios Inadimplidos. “Aloca…",
+      "source_excerpt": "es emitidas pelo Fundo, conforme aplicável e que, em qualquer caso, deverá ser a Fitch Ratings Brasil Ltda., a Moody’s América Latina Ltda., a Standard & Poor’s Ratings do Brasil Lt da. Ou outra agência que venha a ser nomeada pela Assembleia Geral. “Agente de Cobrança Extraordinária” Significa a CloudWalk, na qualidade de prestador de serviços de cobrança extraordinária dos Direitos Creditórios Inadimplidos. “Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "Classe A estabelecidos neste Capítulo, com base no Patrimônio Líquido da Classe A do Dia Útil imediatamente anterior, sem prejuízo da obrigação da Administradora de verificar a atuação da Gestora no tocante a tal atribuição, nos termos das disposições regulatórias aplicáveis. .7.1. A composição da carteira da Classe A não apresentará requisitos de diversificação além dos previstos neste Capítulo. .8. Limite de Conce…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "Classe A (“R evolvência”), nos termos do artigo 21, inciso VI, do Anexo Normativo II, observada a ordem de alocação de recursos prevista no Capítulo 0 deste Anexo. .4. É vedada a aquisição de Direitos Creditórios, direta ou indiretamente originados ou cedidos pela Administradora, pela Gestora ou partes a eles relacionadas. .5. A Classe A não realizará investimentos no exterior. .6. Realização de Operações com Deriva…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "xo Normativo II, observada a ordem de alocação de recursos prevista no Capítulo 0 deste Anexo. .4. É vedada a aquisição de Direitos Creditórios, direta ou indiretamente originados ou cedidos pela Administradora, pela Gestora ou partes a eles relacionadas. .5. A Classe A não realizará investimentos no exterior. .6. Realização de Operações com Derivativos. A Classe A não poderá realizar operações em mercados de deriva…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ção dos Prestadores de Serviço do Fundo ........................... 22 8. Contratação de Terceiros ......................................................................................... 27 9. Substituição e Renúncia da Administradora e da Gestora ............................................. 29 10. Processo de Originação dos Direitos Creditórios e Política de Concessão de Crédito ......... 30 11. Cessão, Pagament…",
+      "source_excerpt": "ção dos Prestadores de Serviço do Fundo ........................... 22 8. Contratação de Terceiros ......................................................................................... 27 9. Substituição e Renúncia da Administradora e da Gestora ............................................. 29 10. Processo de Originação dos Direitos Creditórios e Política de Concessão de Crédito ......... 30 11. Cessão, Pagament…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Prazo de Duração. O Fundo tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e classe de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Suplementos, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 2.2.1. O funcionamento do Fundo terá início na data da primeira integralização de Cotas. 2.3. Objeto. O Fundo é uma comunhão de recursos destinados, preponder…",
+      "source_excerpt": "Prazo de Duração. O Fundo tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e classe de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Suplementos, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 2.2.1. O funcionamento do Fundo terá início na data da primeira integralização de Cotas. 2.3. Objeto. O Fundo é uma comunhão de recursos destinados, preponder…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "gamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 4.1.3. Cessão da Totalidade dos…",
+      "source_excerpt": "gamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 4.1.3. Cessão da Totalidade dos…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "lvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimôni…",
+      "source_excerpt": "lvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimôni…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 40 da Instrução CVM 356. 4.3. Ativos Financeiros. A parcela do Patrimônio Líquido do Fundo que…",
+      "source_excerpt": "o Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 40 da Instrução CVM 356. 4.3. Ativos Financeiros. A parcela do Patrimônio Líquido do Fundo que…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": ".......................................................................................... 3 2. Forma de Constituição, Prazo de Duração e Objeto ....................................................... 3 3. Público Alvo ............................................................................................................. 4 4. Política de Investimento e Composição da Carteira ...................................…",
+      "source_excerpt": ".......................................................................................... 3 2. Forma de Constituição, Prazo de Duração e Objeto ....................................................... 3 3. Público Alvo ............................................................................................................. 4 4. Política de Investimento e Composição da Carteira ...................................…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "e diversificação da carteira do Fundo, e aceitem os riscos associados aos investimentos do Fundo. 4. POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA 4.1. Objetivo do Fundo. O objetivo do Fundo é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios…",
+      "source_excerpt": "e diversificação da carteira do Fundo, e aceitem os riscos associados aos investimentos do Fundo. 4. POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA 4.1. Objetivo do Fundo. O objetivo do Fundo é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "gina um ou mais Direitos Creditórios, de modo que, em decorrência do crédito do Usuário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Crit…",
+      "source_excerpt": "gina um ou mais Direitos Creditórios, de modo que, em decorrência do crédito do Usuário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Crit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "uário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Cr…",
+      "source_excerpt": "uário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Cr…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ções e garantias pertinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Regulamento; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; (iii) os procedimentos pertinentes à aquisição dos Direitos Cred itórios e atendimento aos Critério…",
+      "source_excerpt": "ções e garantias pertinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Regulamento; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; (iii) os procedimentos pertinentes à aquisição dos Direitos Cred itórios e atendimento aos Critério…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o dos Prestadores de Serviço do Fundo ............................ 22 8. Contratação de Terceiros ......................................................................................... 27 9. Substituição e Renúncia da Administradora e da Gestora.............................................. 29 10. Processo de Originação dos Direitos Creditórios e Política de Concessão de Crédito .......... 30 11. Cessão, Pagament…",
+      "source_excerpt": "o dos Prestadores de Serviço do Fundo ............................ 22 8. Contratação de Terceiros ......................................................................................... 27 9. Substituição e Renúncia da Administradora e da Gestora.............................................. 29 10. Processo de Originação dos Direitos Creditórios e Política de Concessão de Crédito .......... 30 11. Cessão, Pagament…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o de Duração. O Fundo tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e classe de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Suplementos, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 2.2.1. O funcionamento do Fundo terá início na data da primeira integralização de Cotas. 2.3. Objeto. O Fundo é uma comunhão de recursos destinados, preponderante…",
+      "source_excerpt": "o de Duração. O Fundo tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e classe de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Suplementos, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 2.2.1. O funcionamento do Fundo terá início na data da primeira integralização de Cotas. 2.3. Objeto. O Fundo é uma comunhão de recursos destinados, preponderante…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 4.1.3. Cessão da Totalidade dos Direi…",
+      "source_excerpt": "o; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 4.1.3. Cessão da Totalidade dos Direi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio…",
+      "source_excerpt": "ência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos ao Fundo, nos termos do Contrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ntrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 40 da Instrução CVM 356. 4.3. Ativos Financeiros. A parcela do Patrimônio Líquido do Fundo que não…",
+      "source_excerpt": "ntrato de Cessão. 4.2. Alocação Mínima . Decorridos 90 (noventa) dias do início das atividades do Fundo, este deverá observar a Alocação Mínima, isto é, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 40 da Instrução CVM 356. 4.3. Ativos Financeiros. A parcela do Patrimônio Líquido do Fundo que não…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "......................................................................................... 3 2. Forma de Constituição, Prazo de Duração e Objeto ........................................................ 3 3. Público Alvo ............................................................................................................. 4 4. Política de Investimento e Composição da Carteira ...................................…",
+      "source_excerpt": "......................................................................................... 3 2. Forma de Constituição, Prazo de Duração e Objeto ........................................................ 3 3. Público Alvo ............................................................................................................. 4 4. Política de Investimento e Composição da Carteira ...................................…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ersificação da carteira do Fundo, e aceitem os riscos associados aos investimentos do Fundo. 4. POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA 4.1. Objetivo do Fundo. O objetivo do Fundo é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de El…",
+      "source_excerpt": "ersificação da carteira do Fundo, e aceitem os riscos associados aos investimentos do Fundo. 4. POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA 4.1. Objetivo do Fundo. O objetivo do Fundo é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de El…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "um ou mais Direitos Creditórios, de modo que, em decorrência do crédito do Usuário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios…",
+      "source_excerpt": "um ou mais Direitos Creditórios, de modo que, em decorrência do crédito do Usuário-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Credit…",
+      "source_excerpt": "o-Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) o Fundo, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 4.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. O Fundo adquirirá apenas Direitos Credit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "e garantias pertinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Regulamento; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de E…",
+      "source_excerpt": "e garantias pertinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Regulamento; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de E…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rios de Elegibilidade nas operações de aquisição de Direitos Creditórios pela Classe A. 3.3.1. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pela Gestora, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.4. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…",
+      "source_excerpt": "rios de Elegibilidade nas operações de aquisição de Direitos Creditórios pela Classe A. 3.3.1. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pela Gestora, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.4. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ÇÃO DOS PRESTADORES DE SERVIÇO ....................................................... 50 11. DOS ENCARGOS DA CLASSE A ................................................................................. 51 12. DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO .................................................................................................. 53 13. CESSÃO, PAGAMENT…",
+      "source_excerpt": "ÇÃO DOS PRESTADORES DE SERVIÇO ....................................................... 50 11. DOS ENCARGOS DA CLASSE A ................................................................................. 51 12. DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO .................................................................................................. 53 13. CESSÃO, PAGAMENT…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Classe A tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e Subclasse de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.6. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas. 1.7. Objeto. A Classe A é uma comunhão de recursos destinados, preponderantemen…",
+      "source_excerpt": "Classe A tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e Subclasse de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.6. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas. 1.7. Objeto. A Classe A é uma comunhão de recursos destinados, preponderantemen…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalidade dos Dir…",
+      "source_excerpt": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalidade dos Dir…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…",
+      "source_excerpt": "Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu Patrimônio Líquido em Direitos Creditórios Elegíveis. 2.3. Ativos Financeiros . A parcela do Patrimônio Líquido do Fundo que não…",
+      "source_excerpt": "constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu Patrimônio Líquido em Direitos Creditórios Elegíveis. 2.3. Ativos Financeiros . A parcela do Patrimônio Líquido do Fundo que não…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "O ...................................................................................................................................... 28 1. DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO ....................... 28 2. DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA .........................................................................................................…",
+      "source_excerpt": "O ...................................................................................................................................... 28 1. DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO ....................... 28 2. DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA .........................................................................................................…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. 2. DO OBJETIVO DA CLASS E A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…",
+      "source_excerpt": "CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. 2. DO OBJETIVO DA CLASS E A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "u mais Direitos Creditórios, de mo do que, em decorrência do crédito do Usuário -Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critério…",
+      "source_excerpt": "u mais Direitos Creditórios, de mo do que, em decorrência do crédito do Usuário -Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critério…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditó…",
+      "source_excerpt": "em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditó…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "gresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Docusign Envelope ID: 94B1C8ED-2705-4A94-9E35-2BCC90516D08 Página 31 de 117 (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de Elegib…",
+      "source_excerpt": "gresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Docusign Envelope ID: 94B1C8ED-2705-4A94-9E35-2BCC90516D08 Página 31 de 117 (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de Elegib…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "térios de Elegibilidade nas operações de aquisição de Direitos Creditórios pela Classe A. .3.1. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pela Gestora, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. .4. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…",
+      "source_excerpt": "térios de Elegibilidade nas operações de aquisição de Direitos Creditórios pela Classe A. .3.1. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pela Gestora, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. .4. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "................................................................ 49 DOS ENCARGOS DA CLASSE A ............................................................................................ 50 DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO ......................................................................................................................... 52 CESSÃO, PAGAMENT…",
+      "source_excerpt": "................................................................ 49 DOS ENCARGOS DA CLASSE A ............................................................................................ 50 DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO ......................................................................................................................... 52 CESSÃO, PAGAMENT…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "A Classe A tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e Subclasse de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. .5. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas. .6. Objeto. A Classe A é uma comunhão de recursos destinados, preponderantemen…",
+      "source_excerpt": "A Classe A tem prazo de duração indeterminado, sendo que cada série de Cotas Seniores e Subclasse de Cotas Subordinadas terá o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. .5. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas. .6. Objeto. A Classe A é uma comunhão de recursos destinados, preponderantemen…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. .0.3. Cessão da Totalidade dos Direi…",
+      "source_excerpt": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. .0.3. Cessão da Totalidade dos Direi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "s Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…",
+      "source_excerpt": "s Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu Patrimônio Líquido em Direitos Creditórios Elegíveis. .2. Ativos Financeiros . A parcela do Patrimônio Líquido do Fundo que nã…",
+      "source_excerpt": "ta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. .1. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu Patrimônio Líquido em Direitos Creditórios Elegíveis. .2. Ativos Financeiros . A parcela do Patrimônio Líquido do Fundo que nã…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "DADE LIMITADA DE COTAS DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO ...................................................................................................................................... 27 DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO .................................. 27 DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSI…",
+      "source_excerpt": "DADE LIMITADA DE COTAS DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO ...................................................................................................................................... 27 DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO .................................. 27 DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSI…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "lução CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA .0. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…",
+      "source_excerpt": "lução CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA .0. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ou mais Direitos Creditórios, de modo que , em decorrência do crédito do Usuário -Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critério…",
+      "source_excerpt": "ou mais Direitos Creditórios, de modo que , em decorrência do crédito do Usuário -Final em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critério…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "l em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Credit…",
+      "source_excerpt": "l em face da CloudWalk, a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. .0.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Credit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Página 30 de 116 (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de Elegi…",
+      "source_excerpt": "tinentes, em caráter definitivo e sem qualquer direito de regresso contra a Cedente e/ou coobrigação desta, observados, em qualquer caso: (i) os demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Página 30 de 116 (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de Elegi…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "omposição de sua carteira de investimentos, classifica-se como “Multimercado”. REGULAMENTO DO LUGO BG - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO 2 Artigo 11 O objetivo de investimento do FUNDO é proporcionar aos seus cotistas a valorização de suas cotas, buscando, em longo prazo, rentabilidade acima da taxa de Certificados de Depósito Interbancário - CDI, por meio de aplicações em cotas…",
+      "amortization_schedule": "LTIMERCADO 7 I. as demonstrações contábeis apresentadas pelo ADMINISTRADOR; II. a substituição do ADMINISTRADOR, do GESTOR ou do CUSTODIANTE do Fundo; III. a fusão, a incorporação, a cisão ou a liquidação do FUNDO; IV. o aumento da taxa de administração; V. a alteração da política de investimento do FUNDO; VI. a amortização de cotas; e VII. a alteração do Regulamento, ressalvado o disposto no artigo 47 da Instrução…",
+      "maturity": "REGULAMENTO DO LUGO BG - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO 1 CAPÍTULO I - DO FUNDO Artigo 1º O LUGO BG - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO (“FUNDO”), constituído sob forma de condomínio aberto, com prazo indeterminado de duração, é uma comunhão de recursos, destinado à aplicação em ativos financeiros e será regido pelo presente regulamento (“Reg…",
+      "source_excerpt": "cima IV – Cotas de F undos de investimento destinados exclusivamente a investidores qualificados e em cotas de fundos de investimento em cotas de fundos de investimento destinados exclusivamente a investidores qualificados registrados com base na Instrução CVM nº 555. 0% 20% V – Cotas de fundos de investimento e em cotas de fundos de investimento em cotas de fundos de investimento destinados exclusivamente a investi…",
+      "source_document": "257875_regulamento_regulamento_257875_2021-05-20.pdf",
+      "source_document_id": 257875
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "carteira de investimentos, classifica-se como “Fundo de Investimento em Direitos Creditórios”. REGULAMENTO DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS 2 Artigo 11 O objetivo de investimento do FUNDO é proporcionar aos seus cotistas a valorização de suas cotas, buscando, em longo prazo, rentabilidade acima da taxa de Certificados de Depósito Interbancário - CDI, por meio de aplicações em direit…",
+      "amortization_schedule": "eliberar sobre: I. as demonstrações contábeis apresentadas pelo ADMINISTRADOR; II. a substituição do ADMINISTRADOR, do GESTOR ou do CUSTODIANTE do Fundo; III. a fusão, a incorporação, a cisão ou a liquidação do FUNDO; IV. o aumento da taxa de administração; V. a alteração da política de investimento do FUNDO; VI. a amortização de cotas; e VII. a alteração do Regulamento, ressalvado o disposto no artigo 47 da Instruç…",
+      "maturity": "REGULAMENTO DO CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS 1 CAPÍTULO I - DO FUNDO Artigo 1º O CLOUDWALK AKIRA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS (“FUNDO”), constituído sob forma de condomínio aberto, com prazo indeterminado de duração, é uma comunhão de recursos, destinado à aplicação em ativos financeiros e será regido pelo presente regulamento (“Regulamento”), pela Instrução da Co…",
+      "source_excerpt": "r meio de aplicações em direitos creditórios (“Direitos Creditórios ”). TAL OBJETIVO NÃO REPRESENTA UMA PROMESSA, GARANTIA OU SUGESTÃO DE RENTABILIDADE, MAS APENAS UMA META A SER PERSEGUIDA PELO FUNDO. Artigo 12 O patrimônio do FUNDO deverá ser composto por, no mínimo, 50% em direitos creditórios. Artigo 13 O restante do patrimônio do FUNDO poderá ser composto por Ativos Financeiros. Artigo 14 É vedado ao FUNDO: I.…",
+      "source_document": "257877_regulamento_regulamento_257877_2022-01-12.pdf",
+      "source_document_id": 257877
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª série",
+      "amount": 500000000.0,
+      "amount_display": "R$500.000.000,00",
+      "currency": "R$",
+      "remuneration": "o página na internet ou publicação que venha a substituí-lo, expressa na forma percentual e calculada diariamente sob forma de capitalização composta, com base em um ano de 252 (duzentos e cinquenta e dois) Dias Úteis , a crescida de 1, 14% (um inteiro e quatorze centésimos por cento) ao ano; (ix) Datas de Pagamento de Remuneração (durante o Período de Carência): 27 (vinte e sete) de cada mês; (x) Período de Carênci…",
+      "amortization_schedule": "uzentos e cinquenta e dois) Dias Úteis , a crescida de 1, 14% (um inteiro e quatorze centésimos por cento) ao ano; (ix) Datas de Pagamento de Remuneração (durante o Período de Carência): 27 (vinte e sete) de cada mês; (x) Período de Carência: desde a Data de Emissão até 27 de janeiro de 2026 (inclusive); (xi) Datas de Amortização Programada (cronograma de Amortizações Programadas): 27/02/2026 27/03/2026 27/04/2026 2…",
+      "maturity": "lada de forma pro rata temporis, desde a data da primeira integralização de Cotas Seniores da referida série, até a data da efetiva integralização, nos termos do Artigo 15.6 do Regulamento; (vi) Data de Emissão: data da primeira integralização das Cotas Seniores da 1ª Série (“Data de Emissão”); (vii) Data de Resgate (vencimento): 27 de janeiro de 2027; (viii) Benchmark: taxa média referencial dos depósitos interfina…",
+      "source_excerpt": "ho Monetário Nacional, pela Instrução CVM nº 356, de 17 de dezembro de 2001, conforme alterada (“Instrução CVM 356 ”), e demais disposições legais e regulamentares aplicáveis, inscrito no CNPJ/ME sob o nº 42.085.830/0001-09 (“Fundo”); CONSIDERANDO QUE: (i) a constituição e a versão atual do Regulamento do Fundo foram aprovadas por meio d o “Instrumento Particular de Alteração do Regulamento do Lugo BG – Fundo de Inv…",
+      "source_document": "259042_regulamento_regulamento_259042_2022-01-21.pdf",
+      "source_document_id": 259042
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "ra ........................................................ 4 5. Condições de Cessão e Critérios de Elegibilidade ........................................................... 6 6. Fatores de Risco ....................................................................................................... 8 7. Administradora e Remuneração dos Prestadores de Serviço do Fundo ........................... 22 8. Contratação de…",
+      "amortization_schedule": "sição do Patrimônio do Fundo e das Emissões de Cotas ...................................... 35 15. Características, Direitos, Condições de Emissão, Subscrição e Integralização das Cotas ... 36 16. Assembleia Geral .................................................................................................... 40 17. Amortização e Resgate das Cotas .................................................................…",
+      "maturity": "s as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no Artigo 224 do Código de Processo Civil, isto é, excluindo-se o dia do começo e incluindo-se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "........................................................................................................ 31 12. Procedimentos de Cobrança dos Direitos Creditórios Cedidos ........................................ 33 13. Critérios de Avaliação dos Direitos Creditórios Cedidos e dos Ativos Financeiros Integrantes da Carteira ...............................................................................................…",
+      "source_document": "259045_regulamento_regulamento_259045_2022-01-21.pdf",
+      "source_document_id": 259045
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "ra ........................................................ 4 5. Condições de Cessão e Critérios de Elegibilidade ........................................................... 6 6. Fatores de Risco ....................................................................................................... 8 7. Administradora e Remuneração dos Prestadores de Serviço do Fundo ............................ 22 8. Contratação de…",
+      "amortization_schedule": "sição do Patrimônio do Fundo e das Emissões de Cotas ...................................... 35 15. Características, Direitos, Condições de Emissão, Subscrição e Integralização das Cotas.... 36 16. Assembleia Geral .................................................................................................... 40 17. Amortização e Resgate das Cotas .................................................................…",
+      "maturity": "as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no Artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do co meço e incluindo-se o dia do vencimento; (vii) os cabeçalhos e títulos servem apenas para conveniência de referência e não alte…",
+      "source_excerpt": "........................................................................................................ 31 12. Procedimentos de Cobrança dos Direitos Creditórios Cedidos ........................................ 33 13. Critérios de Avaliação dos Direitos Creditórios Cedidos e dos Ativos Financeiros Integrantes da Carteira ...............................................................................................…",
+      "source_document": "513483_regulamento_regulamento_513483_2023-08-28.pdf",
+      "source_document_id": 513483
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "39 7. NEGOCIAÇÃO DAS COTAS ....................................................................................... 43 8. DO PATRIMÔNIO LÍQUIDO NEGATIVO E REGIME DE INSOLVÊNCIA ................................ 44 9. DOS PRESTADORES DE SERVIÇO DA CLASSE A .......................................................... 46 10. REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO ....................................................... 50 1…",
+      "amortization_schedule": ".............. 32 4. COMPOSIÇÃO DO PATRIMÔNIO DA CLASSE A E DAS EMISSÕES DE COTAS .................... 34 5. CARACTERÍSTICAS, DIREITOS, CONDIÇÕES DE EMISSÃO, SUBSCRIÇÃO E INTEGRALIZAÇÃO DAS COTAS ...................................................................................................................... 35 6. AMORTIZAÇÃO, AMORTIZAÇÃO EXTRAORDINÁRIA E RESGATE DAS COTAS ................... 39 7. NEGOCIAÇÃO D…",
+      "maturity": "s Taxas Aplicáveis; (ii) os Direitos Creditórios deverão ser exclusivamente expressos em moeda corrente nacional; (iii) os Devedores deverão estar adimplentes com relação a todos os pagamentos devidos à Classe A em virtude dos Direitos Creditórios Cedidos à Classe A; (iv) os Direitos Creditórios não poderão ter vencimento superior ao vencimento das Cotas Seniores em circulação ou a 365 (trezentos e sessenta e cinco)…",
+      "source_excerpt": "..................................................... 28 1. DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO ....................... 28 2. DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA ........................................................................................................................ 29 3. DAS CONDIÇÕES DE CESSÃO E DOS CRITÉRIOS DE ELEGIBILIDADE ....…",
+      "source_document": "733255_regulamento_regulamento_733255_2024-09-05.pdf",
+      "source_document_id": 733255
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "de Transferência. A Administradora se responsabiliza pelo não recolhimento ou recolhimento a menor de todo e qualquer tributo cujo contribuinte seja o Fundo ou os Cotistas, relativamente aos fatos geradores ocorridos até a Data de Transferência. Adicionalmente, a Administradora obriga -se a enviar aos Cotistas, no prazo regulamentar, os documentos contendo as informações relativas aos rendimentos auferidos no ano ci…",
+      "source_excerpt": "de 2019 (“ Nova Gestora”), a qual produzirá efeitos a partir da Data da Transferência; (iii) a alteração do inteiro teor do Regulamento, que passará a vigorar a partir da Data de Transferência, na forma do Anexo II à presente Ata, para (a) prever as alterações necessárias para a substituição dos prestadores de serviços na forma descrita nos itens “(i)” e Docusign Envelope ID: 4741DD3C-C47E-4B29-A08B-2518A73024D0 Cor…",
+      "source_document": "948558_assembleia_assembleia_948558_2025-07-11.pdf",
+      "source_document_id": 948558
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "COTAS .................................................................................................. 42 DO PATRIMÔNIO LÍQUIDO NEGATIVO E REGIME DE INSOLVÊNCIA ........................................... 43 DOS PRESTADORES DE SERVIÇO DA CLASSE A ..................................................................... 45 REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO ..........................................................…",
+      "amortization_schedule": ".... 31 COMPOSIÇÃO DO PATRIMÔNIO DA CLASSE A E DAS EMISSÕES DE COTAS ................................ 33 CARACTERÍSTICAS, DIREITOS, CONDIÇÕES DE EMISSÃO, SUBSCRIÇÃO E INTEGRALIZAÇÃO DAS COTAS ............................................................................................................................. 34 AMORTIZAÇÃO, AMORTIZAÇÃO EXTRAORDINÁRIA E RESGATE DAS COTAS ............................... 38 NEG…",
+      "maturity": "s que eles realizam] (ii) os Direitos Creditórios deverão ser exclusivamente expressos em moeda corrente nacional; (iii) os Devedores deverão estar adimplentes com relação a todos os pagamentos devidos à Classe A em virtude dos Direitos Creditórios Cedidos à Classe A; (iv) os Direitos Creditórios não poderão ter vencimento superior ao vencimento das Cotas Seniores em circulação ou a 365 (trezentos e sessenta e cinco…",
+      "source_excerpt": "EIOS DE PAGAMENTO ...................................................................................................................................... 27 DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO .................................. 27 DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA .. 28 DAS CONDIÇÕES DE CESSÃO E DOS CRITÉRIOS DE ELEGIBILIDADE .....................…",
+      "source_document": "966441_regulamento_regulamento_966441_2025-07-24.pdf",
+      "source_document_id": 966441
+    }
+  ],
+  "extraction_count": 13,
+  "extraction_errors": []
+}

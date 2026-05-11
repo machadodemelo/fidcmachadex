@@ -1,0 +1,888 @@
+{
+  "schema_version": 1,
+  "fund_name": "CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+  "fund_cnpj": "60.356.171/0001-80",
+  "generated_at": "2026-05-10T03:13:41Z",
+  "documents": [
+    {
+      "id": 883040,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "11/04/2025",
+      "data_entrega": "17/04/2025 18:15",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/883040_regulamento_regulamento_883040_2025-04-11.pdf"
+    },
+    {
+      "id": 883045,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "11/04/2025",
+      "data_entrega": "17/04/2025 18:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/883045_regulamento_regulamento_883045_2025-04-11.pdf"
+    },
+    {
+      "id": 883159,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Aviso ao Mercado",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "11/04/2025",
+      "data_entrega": "22/04/2025 10:16",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/883159_emissao_emissao_883159_2025-04-11.pdf"
+    },
+    {
+      "id": 883612,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "22/04/2025",
+      "data_entrega": "22/04/2025 18:47",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/883612_emissao_emissao_883612_2025-04-22.pdf"
+    },
+    {
+      "id": 883903,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Emissão de Cotas",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "23/04/2025",
+      "data_entrega": "23/04/2025 15:09",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/883903_assembleia_assembleia_883903_2025-04-23.pdf"
+    },
+    {
+      "id": 884542,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "24/04/2025",
+      "data_entrega": "24/04/2025 19:34",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/884542_emissao_emissao_884542_2025-04-24.pdf"
+    },
+    {
+      "id": 970971,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/05/2025",
+      "data_entrega": "14/08/2025 18:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 969179,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2025",
+      "data_entrega": "14/08/2025 09:41",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1008479,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "21/08/2025",
+      "data_entrega": "08/10/2025 09:45",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1034491,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "12/11/2025 08:40",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 993685,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "04/09/2025 11:00",
+      "data_entrega": "17/09/2025 19:01",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/993685_assembleia_assembleia_993685_2025-09-04.pdf"
+    },
+    {
+      "id": 993687,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "04/09/2025",
+      "data_entrega": "17/09/2025 19:02",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/993687_regulamento_regulamento_993687_2025-09-04.pdf"
+    },
+    {
+      "id": 1039194,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "10/11/2025",
+      "data_entrega": "14/11/2025 14:42",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1110273,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "12/02/2026 12:16",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1151115,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "31/03/2026 19:00",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1086219,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "14/01/2026 10:00",
+      "data_entrega": "16/01/2026 15:03",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/60356171000180/1086219_assembleia_assembleia_1086219_2026-01-14.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.085,
+      "threshold_unit": "ratio",
+      "threshold_display": "8,5%",
+      "comparison": ">=",
+      "formula_text": "em regime de garantia firme de colocação; (xvi) Coordenador Líder da Oferta: ITAÚ BBA ASSESSORIA FINANCEIRA S.A.; (xvii) Demais Coordenadores: BANCO BRADESCO BBI S.A. , BTG PACTUAL INVESTMENT BANKING LTDA. , BANCO SAFRA S.A. e BB-BANCO DE INVESTIMENTO S.A.; (xviii) Necessidade de classificação de risco: não aplicável; Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno (xix) Índice de Subordinação M…",
+      "source_excerpt": "em regime de garantia firme de colocação; (xvi) Coordenador Líder da Oferta: ITAÚ BBA ASSESSORIA FINANCEIRA S.A.; (xvii) Demais Coordenadores: BANCO BRADESCO BBI S.A. , BTG PACTUAL INVESTMENT BANKING LTDA. , BANCO SAFRA S.A. e BB-BANCO DE INVESTIMENTO S.A.; (xviii) Necessidade de classificação de risco: não aplicável; Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno (xix) Índice de Subordinação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.085,
+      "threshold_unit": "ratio",
+      "threshold_display": "8,5%",
+      "comparison": ">=",
+      "formula_text": "71cf5173215 Corporativo | Interno (xix) Índice de Subordinação Mezanino A Mínimo: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Mezanino B e das Cotas Subordinadas Júnior em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 8,5% (oito inteiros e cinco décimos por cento); (xx) Índices de Subord…",
+      "source_excerpt": "71cf5173215 Corporativo | Interno (xix) Índice de Subordinação Mezanino A Mínimo: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Mezanino B e das Cotas Subordinadas Júnior em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 8,5% (oito inteiros e cinco décimos por cento); (xx) Índices de Subord…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.0875,
+      "threshold_unit": "ratio",
+      "threshold_display": "8,75%",
+      "comparison": ">=",
+      "formula_text": "écimos por cento); (xx) Índices de Subordinação Mezanino A Ramp-Up: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Mezanino B e das Cotas Subordinadas Júnior em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 8,75% (oito inteiros e setenta e cinco centésimos por cento); e (xxi) Índice de Subo…",
+      "source_excerpt": "écimos por cento); (xx) Índices de Subordinação Mezanino A Ramp-Up: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Mezanino B e das Cotas Subordinadas Júnior em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 8,75% (oito inteiros e setenta e cinco centésimos por cento); e (xxi) Índice de Subo…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.025,
+      "threshold_unit": "ratio",
+      "threshold_display": "2,5%",
+      "comparison": ">=",
+      "formula_text": "ibuição: oferta pública sob o rito de registro automático de distribuição em regime de garantia firme de colocação; (xvi) Coordenador Líder da Oferta: ITAÚ BBA ASSESSORIA FINANCEIRA S.A.; (xvii) Demais Coordenadores: BANCO BRADESCO BBI S.A. , BTG PACTUAL INVESTMENT BANKING LTDA. , BANCO SAFRA S.A. e BB-BANCO DE INVESTIMENTO S.A.; (xviii) Necessidade de classificação de risco: não aplicável; (xix) Índice de Subordina…",
+      "source_excerpt": "ibuição: oferta pública sob o rito de registro automático de distribuição em regime de garantia firme de colocação; (xvi) Coordenador Líder da Oferta: ITAÚ BBA ASSESSORIA FINANCEIRA S.A.; (xvii) Demais Coordenadores: BANCO BRADESCO BBI S.A. , BTG PACTUAL INVESTMENT BANKING LTDA. , BANCO SAFRA S.A. e BB-BANCO DE INVESTIMENTO S.A.; (xviii) Necessidade de classificação de risco: não aplicável; (xix) Índice de Subordina…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.025,
+      "threshold_unit": "ratio",
+      "threshold_display": "2,5%",
+      "comparison": ">=",
+      "formula_text": "(xix) Índice de Subordinação Mezanino B Mínimo: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Júnior em circulação da Classe Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 2,5% (dois inteiros e cinco décimos por cento); (xx) Índice de Subordin…",
+      "source_excerpt": "(xix) Índice de Subordinação Mezanino B Mínimo: significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas Júnior em circulação da Classe Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 2,5% (dois inteiros e cinco décimos por cento); (xx) Índice de Subordin…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.155,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,5%",
+      "comparison": ">=",
+      "formula_text": "respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Ramp-Up” Significam os índices de subordinação mezanino ramp-up especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Target” Significam os índices de subordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice…",
+      "source_excerpt": "respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Ramp-Up” Significam os índices de subordinação mezanino ramp-up especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Target” Significam os índices de subordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.155,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,5%",
+      "comparison": ">=",
+      "formula_text": "mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice de Subordinação Sênior Mínimo” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cento). “Índice…",
+      "source_excerpt": "mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice de Subordinação Sênior Mínimo” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cento). “Índice…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.155,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,5%",
+      "comparison": ">=",
+      "formula_text": "Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cento). “Índice de Subordinação Sênior Ramp-Up” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,75% (quinze inteiros e setenta e cinco centésimos por cento). “Índice…",
+      "source_excerpt": "Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cento). “Índice de Subordinação Sênior Ramp-Up” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,75% (quinze inteiros e setenta e cinco centésimos por cento). “Índice…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocaçã…",
+      "source_excerpt": "às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocaçã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.525,
+      "threshold_unit": "ratio",
+      "threshold_display": "52,5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "-4772-98ff-4fd12b669b77 ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 36 Corporativo | Interno a) ao menos 52,5% (cinquenta e dois inteiros e cinco décimos por cento) do Patrimônio Líquido da Classe A deverá ser alocado em Direitos Creditórios devidos por Devedores Grupo 1, considerados em conjunto e/ou em Dispon…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "- DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 34 Corporativo | Interno a atuação do Gestor no tocante a tal atribuição, nos termos das disposições regulatórias aplicáveis. 2.10.1. A composição da carteira da Classe A não apresentará requisitos de diversificação além dos previstos neste Capítulo. 2.11. Limite de Concentra…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.525,
+      "threshold_unit": "ratio",
+      "threshold_display": "52,5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "to das Cotas Seniores em circulação ou a 365 (trezentos e sessenta e cinco) dias, o que for menor; (v) os Direitos Creditórios deverão ter vencimento de, no mínimo, 7 (sete) dias contados da respectiva Data de Oferta; e (vi) considerada pro forma a aquisição dos Direitos Creditórios em questão, a exposição da carteira da Classe A a Direitos Creditórios deverá respeitar os seguintes limites mínimos e máximos de conce…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.02,
+      "threshold_unit": "ratio",
+      "threshold_display": "2%",
+      "comparison": ">=",
+      "formula_text": "or das Cotas Subordinadas Mezanino e a soma do valor das Cotas Subordinadas Júnior, considerando-se os Devedores Grupo 4 em conjunto; ou (2) 2% (dois por cento) do Patrimônio Líquido da Classe A, considerando-se os Devedores Grupo 4 individualmente, sendo certo que não haverá volume mínimo, considerando-se os Devedores Grupo 4 conjunta ou individualmente. 3.2.1. Para fins de esclarecimento, os limites máximos de con…",
+      "source_excerpt": "or das Cotas Subordinadas Mezanino e a soma do valor das Cotas Subordinadas Júnior, considerando-se os Devedores Grupo 4 em conjunto; ou (2) 2% (dois por cento) do Patrimônio Líquido da Classe A, considerando-se os Devedores Grupo 4 individualmente, sendo certo que não haverá volume mínimo, considerando-se os Devedores Grupo 4 conjunta ou individualmente. 3.2.1. Para fins de esclarecimento, os limites máximos de con…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.155,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,5%",
+      "comparison": ">=",
+      "formula_text": "Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Ramp-Up” Significam os índices de subordinação mezanino ramp-up especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Target” Significam os índices de subordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezani…",
+      "source_excerpt": "Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Ramp-Up” Significam os índices de subordinação mezanino ramp-up especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índices de Subordinação Mezanino Target” Significam os índices de subordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezani…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.155,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,5%",
+      "comparison": ">=",
+      "formula_text": "ubordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice de Subordinação Sênior Mínimo” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cen…",
+      "source_excerpt": "ubordinação mezanino target especificados no Apêndice da respectiva Subclasse de Cotas Subordinadas Mezanino. “Índice de Subordinação Sênior Mínimo” Significa a razão mínima admitida entre o somatório do valor das Cotas Subordinadas em circulação da Classe A e o Patrimônio Líquido da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,5% (quinze inteiros e cinco décimos por cen…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1575,
+      "threshold_unit": "ratio",
+      "threshold_display": "15,75%",
+      "comparison": ">=",
+      "formula_text": "nadas em circulação da Classe A e o Patrimônio Líquido da = =(× ) SUPLEMENTO 1 AO ANEXO I – DEFINIÇÕES APLICÁVEIS À CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO Corporativo | Interno Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,75% (quinze inteiros e setenta e cinco centésimos por cento). “…",
+      "source_excerpt": "nadas em circulação da Classe A e o Patrimônio Líquido da = =(× ) SUPLEMENTO 1 AO ANEXO I – DEFINIÇÕES APLICÁVEIS À CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO Corporativo | Interno Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 15,75% (quinze inteiros e setenta e cinco centésimos por cento). “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.16,
+      "threshold_unit": "ratio",
+      "threshold_display": "16%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "da Classe A, conforme apurada pelo Custodiante em cada Dia Útil, equivalente a, no mínimo, 16% (dezesseis por cento). “Índices de Subordinação” significam, em conjunto ou indistintamente, os Índices de Subordinação Mínimos, os Índices de Subordinação Ramp-Up e os o Índices de Subordinação Target. “Índices de Subordinação Mínimos” significam, em conjunto ou indistintamente, os Índices de Subordinação Mezanino Mínimos…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "egibilidade e às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão.…",
+      "source_excerpt": "egibilidade e às Condições de Cessão definidos neste Anexo; e (iv) a Política de Investimento definida neste Capítulo. 2.1.6. Responsabilidade da Cedente em Relação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão.…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.525,
+      "threshold_unit": "ratio",
+      "threshold_display": "52,5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "imos e máximos de concentração: ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 36 Corporativo | Interno a) ao menos 52,5% (cinquenta e dois inteiros e cinco décimos por cento) do Patrimônio Líquido da Classe A deverá ser alocado em Direitos Creditórios devidos por Devedores Grupo 1, considerados em conjunto e/ou e…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "car ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 34 Corporativo | Interno a atuação do Gestor no tocante a tal atribuição, nos termos das disposições regulatórias aplicáveis. 2.10.1. A composição da carteira da Classe A não apresentará requisitos de diversificação além dos previstos neste Capítulo. 2.11. Limite…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.525,
+      "threshold_unit": "ratio",
+      "threshold_display": "52,5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ao vencimento das Cotas Seniores em circulação ou a 365 (trezentos e sessenta e cinco) dias, o que for menor; (v) os Direitos Creditórios deverão ter vencimento de, no mínimo, 7 (sete) dias contados da respectiva Data de Oferta; e (vi) considerada pro forma a aquisição dos Direitos Creditórios em questão, a exposição da carteira da Classe A a Direitos Creditórios deverá respeitar os seguintes limites mínimos e máxim…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.02,
+      "threshold_unit": "ratio",
+      "threshold_display": "2%",
+      "comparison": ">=",
+      "formula_text": "ma do valor das Cotas Subordinadas Mezanino e a soma do valor das Cotas Subordinadas Júnior, considerando-se os Devedores Grupo 4 em conjunto; ou (2) 2% (dois por cento) do Patrimônio Líquido da Classe A, considerando-se os Devedores Grupo 4 individualmente, sendo certo que não haverá volume mínimo, considerando-se os Devedores Grupo 4 conjunta ou individualmente. 3.2.1. Para fins de esclarecimento, os limites máxim…",
+      "source_excerpt": "ma do valor das Cotas Subordinadas Mezanino e a soma do valor das Cotas Subordinadas Júnior, considerando-se os Devedores Grupo 4 em conjunto; ou (2) 2% (dois por cento) do Patrimônio Líquido da Classe A, considerando-se os Devedores Grupo 4 individualmente, sendo certo que não haverá volume mínimo, considerando-se os Devedores Grupo 4 conjunta ou individualmente. 3.2.1. Para fins de esclarecimento, os limites máxim…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "disponibilizados pelas Bandeiras nas respectivas datas de pagamento do Preço de Aquisição. 3.4. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pelo Gestor, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.5. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…",
+      "source_excerpt": "disponibilizados pelas Bandeiras nas respectivas datas de pagamento do Preço de Aquisição. 3.4. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pelo Gestor, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.5. Na hipótese de o Direito Creditório Elegível deixar de atender a qualquer C…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "..................... 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ................. 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO .............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A ........................................... 57 CAPÍTULO XII – DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO ..................... 58 CAPÍTULO XIII – CESSÃO, PAGAMENTO,…",
+      "source_excerpt": "..................... 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ................. 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO .............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A ........................................... 57 CAPÍTULO XII – DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO ..................... 58 CAPÍTULO XIII – CESSÃO, PAGAMENTO,…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "uração indeterminado, sendo que cada série de Cotas Seniores e de Cotas Subordinadas Mezanino terão o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.4.1. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas de qualquer Subclasse. 1.5. Objeto. A Classe A é uma comunhão de recursos destinados, preponderanteme…",
+      "source_excerpt": "uração indeterminado, sendo que cada série de Cotas Seniores e de Cotas Subordinadas Mezanino terão o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.4.1. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas de qualquer Subclasse. 1.5. Objeto. A Classe A é uma comunhão de recursos destinados, preponderanteme…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalidade dos Dir…",
+      "source_excerpt": "(iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalidade dos Dir…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…",
+      "source_excerpt": "Direitos Creditórios . A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima . Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento) do seu…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Cedente. 2.6. A Classe A não realizará investimentos no exterior. 2.7. A Classe A não realizará investimentos em direitos creditórios não -padronizados, conforme definidos no artigo 2º, inciso (xiii) do Anexo Normativo II. 2.8. Realização de Operações com Derivativos. A Classe A não poderá realizar operações em mercados de derivativos. 2.9. Ativos Financeiros. A parcela do Patrimônio Líquido da Classe A que não esti…",
+      "source_excerpt": "Cedente. 2.6. A Classe A não realizará investimentos no exterior. 2.7. A Classe A não realizará investimentos em direitos creditórios não -padronizados, conforme definidos no artigo 2º, inciso (xiii) do Anexo Normativo II. 2.8. Realização de Operações com Derivativos. A Classe A não poderá realizar operações em mercados de derivativos. 2.9. Ativos Financeiros. A parcela do Patrimônio Líquido da Classe A que não esti…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "M DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO ................................... 30 CAPÍTULO I - DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO .................................................................................................. 30 CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA ...........................................................…",
+      "source_excerpt": "M DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO ................................... 30 CAPÍTULO I - DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO .................................................................................................. 30 CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA ...........................................................…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "do artigo 1.368-D, inciso I, do Código Civil. CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…",
+      "source_excerpt": "do artigo 1.368-D, inciso I, do Código Civil. CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A . O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos Critérios de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rrência do item (ii) acima, cada Transação de Pagamento origina um ou mais Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critério…",
+      "source_excerpt": "rrência do item (ii) acima, cada Transação de Pagamento origina um ou mais Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critério…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "editórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Credit…",
+      "source_excerpt": "editórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão . A Classe A adquirirá apenas Direitos Credit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Clicksign be40998b-d30f-4772-98ff-4fd12b669b77 ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 33 Corporativo | Interno (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de…",
+      "source_excerpt": "condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; Clicksign be40998b-d30f-4772-98ff-4fd12b669b77 ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 33 Corporativo | Interno (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Critérios de…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "s diários disponibilizados pelas Bandeiras nas respectivas datas de pagamento do Preço de Aquisição. 3.4. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pelo Gestor, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.5. Na hipótese de o Direito Creditório Elegível deixar de atender a…",
+      "source_excerpt": "s diários disponibilizados pelas Bandeiras nas respectivas datas de pagamento do Preço de Aquisição. 3.4. Verificação Definitiva. Observados os termos e as condições do presente Anexo, a verificação, pela Cedente, do atendimento às Condições de Cessão, e, pelo Gestor, do atendimento aos Critérios de Elegibilidade será considerada como definitiva. 3.5. Na hipótese de o Direito Creditório Elegível deixar de atender a…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "....................................... 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ............... 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO ............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A....................................... 57 CAPÍTULO XII – DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO................... 58 CAPÍTULO XIII – CESSÃO, PAGA…",
+      "source_excerpt": "....................................... 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ............... 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO ............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A....................................... 57 CAPÍTULO XII – DO PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS E DA POLÍTICA DE CONCESSÃO DE CRÉDITO................... 58 CAPÍTULO XIII – CESSÃO, PAGA…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "prazo de duração indeterminado, sendo que cada série de Cotas Seniores e de Cotas Subordinadas Mezanino terão o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.4.1. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas de qualquer Subclasse. 1.5. Objeto. A Classe A é uma comunhão de recursos destinados, prepo…",
+      "source_excerpt": "prazo de duração indeterminado, sendo que cada série de Cotas Seniores e de Cotas Subordinadas Mezanino terão o prazo de duração estipulado nos respectivos Apêndices, ressalvadas as hipóteses de ocorrência de liquidação antecipada. 1.4.1. O funcionamento da Classe A terá início na 1ª (primeira) data de integralização de Cotas de qualquer Subclasse. 1.5. Objeto. A Classe A é uma comunhão de recursos destinados, prepo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "gamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalida…",
+      "source_excerpt": "gamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. A Classe A adquirirá apenas Direitos Creditórios que atendam às Condições de Cessão e aos Critérios de Elegibilidade, conforme verificados nas respectivas datas de aquisição. 2.1.3. Cessão da Totalida…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ceiros devem ser registrados, custodiados ou mantidos em conta de depósito diretamente em nome da Classe A, conforme o caso, em contas específicas abertas no Sistema Especial de Liquidação e Custódia - SELIC, no sistema de registro e liquidação financeira administrado pela B3 ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 2.1.5. Inexistência de Direito de Regresso e Coo…",
+      "source_excerpt": "ceiros devem ser registrados, custodiados ou mantidos em conta de depósito diretamente em nome da Classe A, conforme o caso, em contas específicas abertas no Sistema Especial de Liquidação e Custódia - SELIC, no sistema de registro e liquidação financeira administrado pela B3 ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 2.1.5. Inexistência de Direito de Regresso e Coo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "elação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima. Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento…",
+      "source_excerpt": "elação aos Direitos Creditórios. A Cedente não responderá pela solvência do respectivo Devedor, mas apenas pela boa formalização, correta constituição, existência, liquidez e certeza dos Direitos Creditórios Cedidos à Classe A, nos termos do Contrato de Cessão. 2.2. Alocação Mínima. Decorridos 180 (cento e oitenta) dias do início das suas atividades, a Classe A deverá ter alocado, no mínimo, 50% (cinquenta por cento…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO................................ 30 CAPÍTULO I - DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO ........................................................................................ 30 CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA................................................…",
+      "source_excerpt": "PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO................................ 30 CAPÍTULO I - DA CLASSE, FORMA DE CONSTITUIÇÃO, PRAZO DE DURAÇÃO E OBJETO ........................................................................................ 30 CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA................................................…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ão CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A. O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos C…",
+      "source_excerpt": "ão CVM 175 e do artigo 1.368-D, inciso I, do Código Civil. CAPÍTULO II - DO OBJETIVO DA CLASSE A, DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 2.1. Objetivo da Classe A. O objetivo da Classe A é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios, formalizados pelos Documentos Comprobatórios, que atendam aos C…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "i) em decorrência do item (ii) acima, cada Transação de Pagamento origina um ou mais Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento do…",
+      "source_excerpt": "i) em decorrência do item (ii) acima, cada Transação de Pagamento origina um ou mais Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento do…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. A Classe A adquirirá apenas Direi…",
+      "source_excerpt": "Direitos Creditórios, de modo que a CloudWalk também passa a ser detentora de Direitos Creditórios em face do Emissor do Cartão utilizado na respectiva Transação de Pagamento; e (iv) a Classe A, portanto, irá adquirir da CloudWalk os Direitos Creditórios em face dos Devedores dos Cartões de quaisquer Bandeiras. 2.1.2. Cumprimento dos Critérios de Elegibilidade e Condições de Cessão. A Classe A adquirirá apenas Direi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 33 Corporativo | Interno (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Crit…",
+      "source_excerpt": "demais termos e condições deste Anexo; (ii) os termos, condições e procedimentos previstos no Contrato de Cessão e nos respectivos Termos de Cessão; ANEXO I - DESCRITIVO DA CLASSE A - RESPONSABILIDADE LIMITADA DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO 33 Corporativo | Interno (iii) os procedimentos pertinentes à aquisição dos Direitos Creditórios e atendimento aos Crit…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª série",
+      "amount": 1.0,
+      "amount_display": "R$ 1,00",
+      "currency": "R$",
+      "remuneration": "totalidade das Cotas; Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno (x) Benchmark: variação da Taxa DI acrescida de 0,95% (noventa e cinco centésimos por cento) ao ano, calculado por Dia Útil à base de 1/252 (um inteiro e duzentos e cinquenta e dois avos); (xi) Datas de Pagamento de Remuneração: Datas 23/1/2028 23/5/2025 23/2/2028 23/6/2025 23/3/2028 23/7/2025 23/4/2028 23/8/2025 23/5/2028 23/…",
+      "amortization_schedule": "27 23/1/2030 23/5/2027 23/2/2030 23/6/2027 23/3/2030 23/7/2027 23/4/2030 23/8/2027 23/9/2027 23/10/2027 23/11/2027 23/12/2027 Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno (xii) Período de Carência de Principal: desde a Data de Emissão até 23 de abril de 2029; (xiii) Datas de Amortização Programada (cronograma de Amortizações Programadas): Data % sobre o Saldo Inicial % sobre o Saldo Atualizad…",
+      "maturity": "calculada de forma pro rata temporis, desde a data da primeira integralização de Cotas Seniores da referida série, até o Dia Útil anterior à data da efetiva integralização, nos termos do item 5.7 do Anexo; (viii) Data de Emissão: data da primeira integralização das Cotas Seniores da 1ª Série; (ix) Data de Resgate (vencimento): 23 de abril de 2030, observada a possibilidade de resgate antecipado da totalidade das Cot…",
+      "source_excerpt": "ssará a vigorar com a seguinte redação, constante na versão consolidada do Regulamento disposta no Anexo VI deste instrumento: “18.1 Eventos de Avaliação. Será considerado Evento de Avaliação da Classe A qualquer dos seguintes eventos: (...) Clicksign a16fb235-393a-4063-b04f-e71cf5173215 Corporativo | Interno (xxv) decretação de evento de intervenção, liquidação, falência, ou outros eventos similares de um Devedor d…",
+      "source_document": "883040_regulamento_regulamento_883040_2025-04-11.pdf",
+      "source_document_id": 883040
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "IAÇÃO DAS COTAS ................................................ 49 CAPÍTULO VIII - DO PATRIMÔNIO LÍQUIDO NEGATIVO E REGIME DE INSOLVÊNCIA ........................................................................................... 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ................. 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO .............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A ..…",
+      "amortization_schedule": "V – COMPOSIÇÃO DO PATRIMÔNIO DA CLASSE A E DAS EMISSÕES DE COTAS ................................................................................ 37 CAPÍTULO V – CARACTERÍSTICAS, DIREITOS, CONDIÇÕES DE SUBSCRIÇÃO E INTEGRALIZAÇÃO DAS COTAS ............................................................... 39 CAPÍTULO VI – AMORTIZAÇÃO, AMORTIZAÇÃO EXTRAORDINÁRIA E RESGATE DAS COTAS ......................................…",
+      "maturity": "Taxas Aplicáveis; (ii) os Direitos Creditórios deverão ser exclusivamente expressos em moeda corrente nacional; (iii) os Devedores deverão estar adimplentes com relação a todos os pagamentos devidos à Classe A em virtude dos Direitos Creditórios Cedidos à Classe A; (iv) os Direitos Creditórios não poderão ter vencimento superior ao vencimento das Cotas Seniores em circulação ou a 365 (trezentos e sessenta e cinco) d…",
+      "source_excerpt": "Significa a Assembleia Especial ou a Assembleia Geral, em conjunto e indistintamente. “Assembleia Especial” Significa a assembleia para a qual são convocados somente os Cotistas de determinada Classe ou Subclasse de Cotas, se houver. “Assembleia Geral” Significa a assembleia para a qual são convocados todos os Cotistas de todas as Classes do Fundo. Clicksign be40998b-d30f-4772-98ff-4fd12b669b77 PARTE GERAL DO REGULA…",
+      "source_document": "883045_regulamento_regulamento_883045_2025-04-11.pdf",
+      "source_document_id": 883045
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES DA 1ª (PRIMEIRA) E DA 2ª",
+      "amount": 3141592653.59,
+      "amount_display": "R$ 3.141.592.653,59",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "1 AVISO AO MERCADO OFERTA PÚBLICA DE DISTRIBUIÇÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) E DA 2ª (SEGUNDA) SÉRIES, DE COTAS SUBORDINADAS MEZANINO A E DE COTAS SUBORDINADAS MEZANINO B DE EMISSÃO DA CLASSE A – RESPONSABILIDADE LIMITADA DE COTAS DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO CNPJ nº 60.356.171/0001-80 No montante de R$ 3.141.592.653,59 (três bilhões, cento e quare…",
+      "source_document": "883159_emissao_emissao_883159_2025-04-11.pdf",
+      "source_document_id": 883159
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "1ª série",
+      "amount": 1650000000.0,
+      "amount_display": "R$ 1.650.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "1 #interna ANÚNCIO DE INÍCIO OFERTA PÚBLICA DE DISTRIBUIÇÃO DE COTAS SENIORES, COTAS SUBORDINADAS MEZANINO A E COTAS SUBORDINADAS MEZANINO B DE EMISSÃO DA CLASSE A – RESPONSABILIDADE LIMITADA DE COTAS DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO CNPJ nº 60.356.171/0001-80 Registro da oferta das Cotas Seniores da 1ª série nº CVM/SRE/AUT/FDC/PRI/2025/587 Registro da oferta…",
+      "source_document": "883612_emissao_emissao_883612_2025-04-22.pdf",
+      "source_document_id": 883612
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "1ª série",
+      "amount": 3141592653.59,
+      "amount_display": "R$ 3.141.592.653,59",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "Internal Use Only ANÚNCIO DE ENCERRAMENTO OFERTA PÚBLICA DE DISTRIBUIÇÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) E DA 2ª (SEGUNDA) SÉRIES, DE COTAS SUBORDINADAS MEZANINO A E DE COTAS SUBORDINADAS MEZANINO B DE EMISSÃO DA CLASSE A – RESPONSABILIDADE LIMITADA DE COTAS DO CLOUDWALK PI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO CNPJ nº 60.356.171/0001-80 No montante de R$ 3.141.592.653,59 (três…",
+      "source_document": "884542_emissao_emissao_884542_2025-04-24.pdf",
+      "source_document_id": 884542
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "CAPÍTULO VII - NEGOCIAÇÃO DAS COTAS ........................................... 49 CAPÍTULO VIII - DO PATRIMÔNIO LÍQUIDO NEGATIVO E REGIME DE INSOLVÊNCIA.................................................................................. 50 CAPÍTULO IX - DOS PRESTADORES DE SERVIÇO DA CLASSE A ............... 51 CAPÍTULO X – REMUNERAÇÃO DOS PRESTADORES DE SERVIÇO ............. 55 CAPÍTULO XI - DOS ENCARGOS DA CLASSE A.…",
+      "amortization_schedule": "..... 34 CAPÍTULO IV – COMPOSIÇÃO DO PATRIMÔNIO DA CLASSE A E DAS EMISSÕES DE COTAS ........................................................................ 37 CAPÍTULO V – CARACTERÍSTICAS, DIREITOS, CONDIÇÕES DE SUBSCRIÇÃO E INTEGRALIZAÇÃO DAS COTAS......................................................... 39 CAPÍTULO VI – AMORTIZAÇÃO, AMORTIZAÇÃO EXTRAORDINÁRIA E RESGATE DAS COTAS ..................................…",
+      "maturity": "desconto das Taxas Aplicáveis; (ii) os Direitos Creditórios deverão ser exclusivamente expressos em moeda corrente nacional; (iii) os Devedores deverão estar adimplentes com relação a todos os pagamentos devidos à Classe A em virtude dos Direitos Creditórios Cedidos à Classe A; (iv) os Direitos Creditórios não poderão ter vencimento superior ao vencimento das Cotas Seniores em circulação ou a 365 (trezentos e sessen…",
+      "source_excerpt": "5 da Parte Geral do Regulamento. “Assembleia de Cotistas” Significa a Assembleia Especial ou a Assembleia Geral, em conjunto e indistintamente. “Assembleia Especial” Significa a assembleia para a qual são convocados somente os Cotistas de determinada Classe ou Subclasse de Cotas, se houver. “Assembleia Geral” Significa a assembleia para a qual são convocados todos os Cotistas de todas as Classes do Fundo. PARTE GERA…",
+      "source_document": "993687_regulamento_regulamento_993687_2025-09-04.pdf",
+      "source_document_id": 993687
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "025 Na qualidade de atual instituição administradora do Fundo, a BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS , sociedade anônima autorizada pela CVM a administrar fundos de investimento e carteiras de valores mobiliários, com sede no município do Rio de Janeiro, Estado do Rio de Janeiro, à Praia do Botafogo, nº 501, Torre Corcovado, 5º andar - parte, Botafogo, CEP 22250 -040,…",
+      "source_document": "1086219_assembleia_assembleia_1086219_2026-01-14.pdf",
+      "source_document_id": 1086219
+    }
+  ],
+  "extraction_count": 9,
+  "extraction_errors": []
+}

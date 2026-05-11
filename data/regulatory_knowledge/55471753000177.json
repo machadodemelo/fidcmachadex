@@ -1,0 +1,1471 @@
+{
+  "schema_version": 1,
+  "fund_name": "SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO RESP LTDA",
+  "fund_cnpj": "55.471.753/0001-77",
+  "generated_at": "2026-05-10T03:20:04Z",
+  "documents": [
+    {
+      "id": 715331,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2024",
+      "data_entrega": "12/08/2024 15:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 691281,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "10/06/2024",
+      "data_entrega": "02/07/2024 23:05",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/691281_assembleia_assembleia_691281_2024-06-10.pdf"
+    },
+    {
+      "id": 691282,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "10/06/2024",
+      "data_entrega": "02/07/2024 23:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/691282_regulamento_regulamento_691282_2024-06-10.pdf"
+    },
+    {
+      "id": 691283,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "02/07/2024",
+      "data_entrega": "02/07/2024 23:07",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/691283_regulamento_regulamento_691283_2024-07-02.pdf"
+    },
+    {
+      "id": 691284,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "02/07/2024",
+      "data_entrega": "02/07/2024 23:08",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/691284_regulamento_regulamento_691284_2024-07-02.pdf"
+    },
+    {
+      "id": 691285,
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes ",
+      "especie": "",
+      "classification": "evento",
+      "data_referencia": "02/07/2024",
+      "data_entrega": "02/07/2024 23:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/691285_evento_evento_691285_2024-07-02.pdf"
+    },
+    {
+      "id": 704722,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "25/07/2024 19:00",
+      "data_entrega": "26/07/2024 10:21",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/704722_assembleia_assembleia_704722_2024-07-25.pdf"
+    },
+    {
+      "id": 704724,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "25/07/2024",
+      "data_entrega": "26/07/2024 10:22",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/704724_regulamento_regulamento_704724_2024-07-25.pdf"
+    },
+    {
+      "id": 705134,
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes ",
+      "especie": "",
+      "classification": "evento",
+      "data_referencia": "26/07/2024",
+      "data_entrega": "26/07/2024 18:28",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/705134_evento_evento_705134_2024-07-26.pdf"
+    },
+    {
+      "id": 705139,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "26/07/2024",
+      "data_entrega": "26/07/2024 18:30",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/705139_regulamento_regulamento_705139_2024-07-26.pdf"
+    },
+    {
+      "id": 705145,
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes ",
+      "especie": "",
+      "classification": "evento",
+      "data_referencia": "26/07/2024",
+      "data_entrega": "26/07/2024 18:33",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/705145_evento_evento_705145_2024-07-26.pdf"
+    },
+    {
+      "id": 708549,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "26/07/2024",
+      "data_entrega": "30/07/2024 19:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 706203,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "29/07/2024",
+      "data_entrega": "29/07/2024 15:59",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/706203_emissao_emissao_706203_2024-07-29.pdf"
+    },
+    {
+      "id": 714216,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "08/08/2024",
+      "data_entrega": "09/08/2024 11:59",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/714216_emissao_emissao_714216_2024-08-08.pdf"
+    },
+    {
+      "id": 783445,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2024",
+      "data_entrega": "18/11/2024 21:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 733048,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Emissão de Cotas",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "06/09/2024",
+      "data_entrega": "06/09/2024 15:04",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/55471753000177/733048_assembleia_assembleia_733048_2024-09-06.pdf"
+    },
+    {
+      "id": 798085,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "28/11/2024",
+      "data_entrega": "10/12/2024 19:11",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 842183,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2024",
+      "data_entrega": "14/02/2025 20:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 847951,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "24/02/2025",
+      "data_entrega": "26/02/2025 15:31",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 903935,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2025",
+      "data_entrega": "15/05/2025 10:36",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 936464,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/03/2025",
+      "data_entrega": "30/06/2025 18:40",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 909989,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "19/05/2025",
+      "data_entrega": "22/05/2025 16:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 970701,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2025",
+      "data_entrega": "14/08/2025 17:57",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 979426,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "13/08/2025",
+      "data_entrega": "28/08/2025 17:18",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1038104,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "14/11/2025 09:16",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1046911,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "19/11/2025",
+      "data_entrega": "26/11/2025 15:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1115980,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "13/02/2026 19:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1139772,
+      "categoria": "Relatórios",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/03/2026",
+      "data_entrega": "17/03/2026 18:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.3,
+      "threshold_unit": "ratio",
+      "threshold_display": "30%",
+      "comparison": ">=",
+      "formula_text": "al em Dias que não sejam Dias Úteis. Na hipótese de qualquer Data de Pagamento coincidir com dia que não seja um Dia Útil, a amortização e/ou a Amortização Final deverão ocorrer no primeiro Dia Útil subsequente a tal data, sendo que não haverá qualquer acréscimo aos valores a serem pagos aos Cotistas a título de Amortização de Remuneração, Amortização de Principal e/ou Amortização Final devido a tal mudança. 8.8. Ín…",
+      "source_excerpt": "al em Dias que não sejam Dias Úteis. Na hipótese de qualquer Data de Pagamento coincidir com dia que não seja um Dia Útil, a amortização e/ou a Amortização Final deverão ocorrer no primeiro Dia Útil subsequente a tal data, sendo que não haverá qualquer acréscimo aos valores a serem pagos aos Cotistas a título de Amortização de Remuneração, Amortização de Principal e/ou Amortização Final devido a tal mudança. 8.8. Ín…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.3,
+      "threshold_unit": "ratio",
+      "threshold_display": "30%",
+      "comparison": ">=",
+      "formula_text": "bsequente a tal data, sendo que não haverá qualquer acréscimo aos valores a serem pagos aos Cotistas a título de Amortização de Remuneração, Amortização de Principal e/ou Amortização Final devido a tal mudança. 8.8. Índice de Subordinação. A relação mínima entre o valor correspondente à totalidade das Cotas Subordinadas Juniores, em comparação ao Patrimônio Líquido deverá ser equivalente a 30% (trinta por cento) (“Í…",
+      "source_excerpt": "bsequente a tal data, sendo que não haverá qualquer acréscimo aos valores a serem pagos aos Cotistas a título de Amortização de Remuneração, Amortização de Principal e/ou Amortização Final devido a tal mudança. 8.8. Índice de Subordinação. A relação mínima entre o valor correspondente à totalidade das Cotas Subordinadas Juniores, em comparação ao Patrimônio Líquido deverá ser equivalente a 30% (trinta por cento) (“Í…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "s Ativos Financeiros. Os Ativos Financeiros devem ser registrados, custodiados ou mantidos em conta de depósito diretamente em nome da Classe Única, conforme o caso, em contas específicas abertas no Sistema Especial de Liquidação e Custódia – SELIC, no sistema de registro e liquidação financeira administrado pela B3 ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ceira administrado pela B3 ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Alocação Mínima. Decorridos 180 (cento e oitenta) dias do início das atividades da Classe Única, a Classe Única deverá ter alocado, no mínimo, 50% (cinquenta por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II (“Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "legíveis, nos termos do artigo 44 do Anexo Normativo II (“Alocação Mínima”). 3.2.1. Caso a Classe Única mantenha, após 90 (noventa) dias da data de início de suas atividades, a qualquer tempo, patrimônio líquido diário inferior a R$1.000.000,00 (um milhão de reais) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 54 [ CLASSIFICAÇÃO: PÚBLICA ] 3.3. Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "is) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 54 [ CLASSIFICAÇÃO: PÚBLICA ] 3.3. Alocação Mínima Adicional. Sem prejuízo do dever regulatório da Alocação Mínima, para fins da Lei nº 14.754, de 12 de dezembro de 2023, a Classe Única deverá manter, no mínimo, 67% (cinquenta por cento) de seu Patrimônio Líquido em Direitos Creditórios Elegíveis (“Alocaçã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "enquadramento da Alocação Mínima e da Alocação Mínima Adicional após 180 (cento e oitenta) dias da data da primeira integralização de Cotas da Classe Única; (xxxii) verificação de inconsistência dos Documentos Comprobatórios, exceto se a inconsistência (a) respeitar a margem de erro tolerável de 5% (cinco por cento) dos Direitos Creditórios adquiridos mensalmente e (b) for sanada através da resolução da cessão ou re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ma Amortização de Remuneração das Cotas a partir do 10º (décimo) dia anterior à Data de Amortização de Remuneração, devendo ser 100% (cem por cento) constituída, em quaisquer dos dois casos, em até 5 (cinco) dias antes da próxima Data de Amortização de 48 [ CLASSIFICAÇÃO: PÚBLICA ] Principal ou Data de Amortização de Remuneração, conforme previsto no respectivo Apêndice. “Reserva de Liquidez” significa a reserva de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "S DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 98 [ CLASSIFICAÇÃO: PÚBLICA ] 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de…",
+      "source_excerpt": "S DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 98 [ CLASSIFICAÇÃO: PÚBLICA ] 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "source_excerpt": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "source_excerpt": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.07,
+      "threshold_unit": "ratio",
+      "threshold_display": "7%",
+      "comparison": ">=",
+      "formula_text": "r) + Valor das Disponibilidades + Comissões] Valor agregado da Subclasse Sênior em circulação “Índice de Cobertura Subordinado Mezanino” caso existam Cotas Subordinadas Mezanino em circulação, significa o índice calculado diariamente por meio da seguinte fórmula, o qual deverá respeitar o valor mínimo de 1,00 (um inteiro): [(Valor Presente dos Direitos Creditórios * Fator de Ponderação Mezanino) + Valor das Disponib…",
+      "source_excerpt": "r) + Valor das Disponibilidades + Comissões] Valor agregado da Subclasse Sênior em circulação “Índice de Cobertura Subordinado Mezanino” caso existam Cotas Subordinadas Mezanino em circulação, significa o índice calculado diariamente por meio da seguinte fórmula, o qual deverá respeitar o valor mínimo de 1,00 (um inteiro): [(Valor Presente dos Direitos Creditórios * Fator de Ponderação Mezanino) + Valor das Disponib…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.33299999999999996,
+      "threshold_unit": "ratio",
+      "threshold_display": "33,3%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "sse Única. São Paulo, 02 de julho de 2024. _______________________________________________________ OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. _______________________________________________________ OLIVEIRA TRUST SERVICER S.A. Versão Final ANEXO B APÊNDICE DAS COTAS SUBORDINADAS JUNIORES A Subclasse Subordinada Júnior da Classe Única do SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691283_regulamento_regulamento_691283_2024-07-02.pdf",
+      "source_document_id": 691283,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.033,
+      "threshold_unit": "ratio",
+      "threshold_display": "3,3%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "3,3% (trinta e três inteiros e três décimos por cento) (“Índice de Subordinação”). 8.8.1. A totalidade das Cotas Subordinadas Juniores deverá ser integralizada em moeda corrente nacional, mediante transferência eletrônica disponível, valendo o comprovante 107 [ CLASSIFICAÇÃO: PÚBLICA ] de depósito como recibo de quitação, equivalente(s), no mínimo, ao Índice de Subordinação. A verificação de enquadramento do Índice…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ÃO: PÚBLICA ] Data de Amortização de Remuneração e devendo ser 100% (cem por cento) constituída em até 5 (cinco) dias antes da próxima Data de Amortização de Remuneração, conforme previsto no respectivo Apêndice. “Reserva de Liquidez” significa a reserva de liquidez equivalente a, no mínimo, 3 (três) meses de despesas ordinárias da Classe Única, a ser constituída e controlada pela Administradora, para fins de cobert…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "nceiros devem ser registrados, custodiados ou mantidos em conta de depósito diretamente em nome da Classe Única, conforme o caso, em contas específicas abertas no Sistema Especial de Liquidação e Custódia – SELIC, no sistema de registro e liquidação financeira administrado pela B3 61 [ CLASSIFICAÇÃO: PÚBLICA ] ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Alocação…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "[ CLASSIFICAÇÃO: PÚBLICA ] ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Alocação Mínima. Decorridos 180 (cento e oitenta) dias do início das atividades da Classe Única, a Classe Única deverá ter alocado, no mínimo, 50% (cinquenta por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II (“Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II (“Alocação Mínima”). 3.2.1. Caso a Classe Única mantenha, após 90 (noventa) dias da data de início de suas atividades, a qualquer tempo, patrimônio líquido diário inferior a R$1.000.000,00 (um milhão de reais) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 3.3. Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "a R$1.000.000,00 (um milhão de reais) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 3.3. Alocação Mínima Adicional. Sem prejuízo do dever regulatório da Alo cação Mínima, para fins da Lei nº 14.754, de 12 de dezembro de 2023, a Classe Única deverá manter, no mínimo, 67% (cinquenta por cento) de seu Patrimônio Líquido em Direitos Creditórios Elegíveis (“Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "enquadramento da Alocação Mínima e da Alocação Mínima Adicional após 180 (cento e oitenta) dias da data da primeira integralização de Cotas da Classe Única; (xxxii) verificação de inconsistência dos Documentos Comprobatórios, exceto se a inconsistência (a) respeitar a margem de erro tolerável de 5% (cinco por cento) dos Direitos Creditórios adquiridos mensalmente e (b) for sanada através da resolução da cessão ou re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "previsto no respectivo Apêndice; ou (ii) da próxima Amortização de Remuneração das Cotas a ser acumulada a partir do 10º (décimo) dia anterior à 53 [ CLASSIFICAÇÃO: PÚBLICA ] Data de Amortização de Remuneração e devendo ser 100% (cem por cento) constituída em até 5 (cinco) dias antes da próxima Data de Amortização de Remuneração, conforme previsto no respectivo Apêndice. “Reserva de Liquidez” significa a reserva de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "- VALORIZAÇÃO DAS COTAS E DOS ATIVOS DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reser…",
+      "source_excerpt": "- VALORIZAÇÃO DAS COTAS E DOS ATIVOS DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reser…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "source_excerpt": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "source_excerpt": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.04,
+      "threshold_unit": "ratio",
+      "threshold_display": "4%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ção) + Comissões] Valor agregado da Subclasse Sênior em circulação “Índice de Cobertura Subordinado Mezanino” caso existam Cotas Subordinadas Mezanino em circulação, significa o índice calculado diariamente por meio da seguinte fórmula, o qual deverá respeitar o valor mínimo de 1,00 (um inteiro): [(Valor Presente dos Direitos Creditórios + Potencial de Aquisição)* Fator de Ponderação Mezanino) + (Valor das Disponibi…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.033,
+      "threshold_unit": "ratio",
+      "threshold_display": "3,3%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "3,3% (trinta e três inteiros e três décimos por cento) (“Índice de Subordinação”). 107 [ CLASSIFICAÇÃO: PÚBLICA ] 8.8.1. A totalidade das Cotas Subordinadas Juniores deverá ser integralizada em moeda corrente nacional, mediante transferência eletrônica disponível, valendo o comprovante de depósito como recibo de quitação, equivalente(s), no mínimo, ao Índice de Subordinação. A verificação de enquadramento do Índice…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Cobertura mínima de PDD/provisão",
+      "canonical_key": "pdd_coverage_min",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ÃO: PÚBLICA ] Data de Amortização de Remuneração e devendo ser 100% (cem por cento) constituída em até 5 (cinco) dias antes da próxima Data de Amortização de Remuneração, conforme previsto no respectivo Apêndice. “Reserva de Liquidez” significa a reserva de liquidez equivalente a, no mínimo, 3 (três) meses de despesas ordinárias da Classe Única, a ser constituída e controlada pela Administradora, para fins de cobert…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "PDD / Venc Total ou PDD / Venc > 90 d",
+        "rationale": "O Informe Mensal traz provisão e buckets de atraso; a aderência depende da definição exata do regulamento."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "nceiros devem ser registrados, custodiados ou mantidos em conta de depósito diretamente em nome da Classe Única, conforme o caso, em contas específicas abertas no Sistema Especial de Liquidação e Custódia – SELIC, no sistema de registro e liquidação financeira administrado pela B3 61 [ CLASSIFICAÇÃO: PÚBLICA ] ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Alocação…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "[ CLASSIFICAÇÃO: PÚBLICA ] ou em instituições ou entidades autorizadas à prestação desse serviço pelo BACEN ou pela CVM. 3.2. Alocação Mínima. Decorridos 180 (cento e oitenta) dias do início das atividades da Classe Única, a Classe Única deverá ter alocado, no mínimo, 50% (cinquenta por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II (“Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "aquisição de Direitos Creditórios Elegíveis, nos termos do artigo 44 do Anexo Normativo II (“Alocação Mínima”). 3.2.1. Caso a Classe Única mantenha, após 90 (noventa) dias da data de início de suas atividades, a qualquer tempo, patrimônio líquido diário inferior a R$1.000.000,00 (um milhão de reais) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 3.3. Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "a R$1.000.000,00 (um milhão de reais) pelo período de 90 (noventa) dias consecutivos, est a deve ser imediatamente liquidada pela Administradora. 3.3. Alocação Mínima Adicional. Sem prejuízo do dever regulatório da Alo cação Mínima, para fins da Lei nº 14.754, de 12 de dezembro de 2023, a Classe Única deverá manter, no mínimo, 67% (cinquenta por cento) de seu Patrimônio Líquido em Direitos Creditórios Elegíveis (“Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de recompra",
+      "canonical_key": "recompras_max",
+      "event_type": "enquadramento",
+      "threshold_value": 0.05,
+      "threshold_unit": "ratio",
+      "threshold_display": "5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "enquadramento da Alocação Mínima e da Alocação Mínima Adicional após 180 (cento e oitenta) dias da data da primeira integralização de Cotas da Classe Única; (xxxii) verificação de inconsistência dos Documentos Comprobatórios, exceto se a inconsistência (a) respeitar a margem de erro tolerável de 5% (cinco por cento) dos Direitos Creditórios adquiridos mensalmente e (b) for sanada através da resolução da cessão ou re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Recompras / Crédito ou Recompras / PL",
+        "rationale": "O Informe Mensal traz recompras mensais; thresholds acumulados exigem janela definida no documento."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "previsto no respectivo Apêndice; ou (ii) da próxima Amortização de Remuneração das Cotas a ser acumulada a partir do 10º (décimo) dia anterior à 53 [ CLASSIFICAÇÃO: PÚBLICA ] Data de Amortização de Remuneração e devendo ser 100% (cem por cento) constituída em até 5 (cinco) dias antes da próxima Data de Amortização de Remuneração, conforme previsto no respectivo Apêndice. “Reserva de Liquidez” significa a reserva de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "- VALORIZAÇÃO DAS COTAS E DOS ATIVOS DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reser…",
+      "source_excerpt": "- VALORIZAÇÃO DAS COTAS E DOS ATIVOS DO FUNDO E ORDEM DE APLICAÇÃO DE RECURSOS 10.1. Reserva de Liquidez . A Classe Única deverá estabelecer uma Reserva de Liquidez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reser…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "source_excerpt": "ez, cujo valor mínimo será equivalente a 3 (três) meses de despesas ordinárias da Classe Única, assim entendidas como as despesas de manutenção de contratação dos prestadores de serviços da Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Res…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 1.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "100%",
+      "comparison": ">=",
+      "formula_text": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "source_excerpt": "Classe Única, na proporção devida pela Classe Única. 10.1.1.A Reserva de Liquidez será constituída quando da integralização das Cotas, e será custeada pelos recursos recebidos pela Classe Única. 10.1.2.Os recursos mantidos na Reserva de Liquidez serão investidos em Ativos Financeiros. 10.1.3.A Classe Única deterá todos os direitos em relação aos Ativos Financeiros e a todos os valores em dinheiro mantidos na Reserva…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.04,
+      "threshold_unit": "ratio",
+      "threshold_display": "4%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ção) + Comissões] Valor agregado da Subclasse Sênior em circulação “Índice de Cobertura Subordinado Mezanino” caso existam Cotas Subordinadas Mezanino em circulação, significa o índice calculado diariamente por meio da seguinte fórmula, o qual deverá respeitar o valor mínimo de 1,00 (um inteiro): [(Valor Presente dos Direitos Creditórios + Potencial de Aquisição)* Fator de Ponderação Mezanino) + (Valor das Disponibi…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ureza especial com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…",
+      "source_excerpt": "ureza especial com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 11 [ CLASSIFICAÇÃO: PÚBLICA ] 3.2. Direitos e Obrigaçõ…",
+      "source_excerpt": "a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 11 [ CLASSIFICAÇÃO: PÚBLICA ] 3.2. Direitos e Obrigaçõ…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "va Transação de Pagamento; (ii) são posteriormente cedidos pelos Estabelecimentos Comerciais ao Cedente no âmbito da Primeira Cessão; e (iii) são, finalmente, ofertados pelo Cedente à Classe Única no âmbito da Segunda Cessão, sendo tais Direitos Creditórios organizados e formalizados através de U.R que tenham sido registradas em Sist emas de Registro, nos termos da Resolução BCB 264/22. “Direitos Creditórios Adquiri…",
+      "source_excerpt": "va Transação de Pagamento; (ii) são posteriormente cedidos pelos Estabelecimentos Comerciais ao Cedente no âmbito da Primeira Cessão; e (iii) são, finalmente, ofertados pelo Cedente à Classe Única no âmbito da Segunda Cessão, sendo tais Direitos Creditórios organizados e formalizados através de U.R que tenham sido registradas em Sist emas de Registro, nos termos da Resolução BCB 264/22. “Direitos Creditórios Adquiri…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "letrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto no respectivo Contrato de Cessão; (ii) envio pela Gestora do Arquivo de Retorno confir…",
+      "source_excerpt": "letrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto no respectivo Contrato de Cessão; (ii) envio pela Gestora do Arquivo de Retorno confir…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "significa a taxa a que a Gestora terá direito pela prestação de seus serviços de gestão da carteira do Fundo, calculada conforme o Artigo 5.6 deste Anexo Descritivo. “Taxa Máxima de Custódia” significa a taxa a que o Custodiante terá direito pela prestação de seus serviços de custódia, calculada conforme Artigo 6.2 deste Anexo Descritivo. “Taxa Mínima de Aquisição” significa a taxa mínima de desconto aplicada para a…",
+      "source_excerpt": "significa a taxa a que a Gestora terá direito pela prestação de seus serviços de gestão da carteira do Fundo, calculada conforme o Artigo 5.6 deste Anexo Descritivo. “Taxa Máxima de Custódia” significa a taxa a que o Custodiante terá direito pela prestação de seus serviços de custódia, calculada conforme Artigo 6.2 deste Anexo Descritivo. “Taxa Mínima de Aquisição” significa a taxa mínima de desconto aplicada para a…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ente cedidos pelos Estabelecimentos Comerciais ao Cedente no âmbito da Primeira Cessão; e (iii) são, finalmente, ofertados pelo Cedente à Classe Única no âmbito da Segunda Cessão, sendo tais Direitos Creditórios organizados e formalizados através de U.R que tenham sido registradas em Sist emas de Registro, nos termos da Resolução BCB 264/22. “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegív…",
+      "source_excerpt": "ente cedidos pelos Estabelecimentos Comerciais ao Cedente no âmbito da Primeira Cessão; e (iii) são, finalmente, ofertados pelo Cedente à Classe Única no âmbito da Segunda Cessão, sendo tais Direitos Creditórios organizados e formalizados através de U.R que tenham sido registradas em Sist emas de Registro, nos termos da Resolução BCB 264/22. “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegív…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rdinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é composto exclusivamente por Investidores Autorizados. 53 [ CLASSIFICAÇÃO: PÚBLICA ] CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO…",
+      "source_excerpt": "rdinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é composto exclusivamente por Investidores Autorizados. 53 [ CLASSIFICAÇÃO: PÚBLICA ] CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "izados. 53 [ CLASSIFICAÇÃO: PÚBLICA ] CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios,…",
+      "source_excerpt": "izados. 53 [ CLASSIFICAÇÃO: PÚBLICA ] CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditórios,…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ncípios gerais, o processo decisório e as matérias relevantes obrigatórias para o exercício do direito de voto. Tal política orienta as 55 [ CLASSIFICAÇÃO: PÚBLICA ] decisões da Gestora em assembleias de detentores de títulos e valores mobiliários que confiram aos seus titulares o direito de voto. 3.9.1. A íntegra da política relativa ao exercício do direito de voto da Gestora está disponível no website: www.oliveir…",
+      "source_excerpt": "ncípios gerais, o processo decisório e as matérias relevantes obrigatórias para o exercício do direito de voto. Tal política orienta as 55 [ CLASSIFICAÇÃO: PÚBLICA ] decisões da Gestora em assembleias de detentores de títulos e valores mobiliários que confiram aos seus titulares o direito de voto. 3.9.1. A íntegra da política relativa ao exercício do direito de voto da Gestora está disponível no website: www.oliveir…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "títulos e valores mobiliários que confiram aos seus titulares o direito de voto. 3.9.1. A íntegra da política relativa ao exercício do direito de voto da Gestora está disponível no website: www.oliveiratrust.com.br. Condições de Cessão e Critérios de Elegibilidade 3.10. O Fundo somente poderá adquirir Direitos Creditórios que atendam, nas respectivas Datas de Aquisição e Pagamento, individualmente e de forma cumulat…",
+      "source_excerpt": "títulos e valores mobiliários que confiram aos seus titulares o direito de voto. 3.9.1. A íntegra da política relativa ao exercício do direito de voto da Gestora está disponível no website: www.oliveiratrust.com.br. Condições de Cessão e Critérios de Elegibilidade 3.10. O Fundo somente poderá adquirir Direitos Creditórios que atendam, nas respectivas Datas de Aquisição e Pagamento, individualmente e de forma cumulat…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reza especia l com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…",
+      "source_excerpt": "reza especia l com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 3.2. Direitos e Obr…",
+      "source_excerpt": "o é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 3.2. Direitos e Obr…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reditórios, em decorrência da atuação como Credenciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” sig…",
+      "source_excerpt": "reditórios, em decorrência da atuação como Credenciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” sig…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forme especificados nos respectivos Apêndices. “Formalização Eletrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i.1) no caso dos Direitos Creditórios Estabelecimentos Comerciais, of erta pelos Estabelecimentos Comerciais, representados pelo Agente de Formalizaç…",
+      "source_excerpt": "forme especificados nos respectivos Apêndices. “Formalização Eletrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i.1) no caso dos Direitos Creditórios Estabelecimentos Comerciais, of erta pelos Estabelecimentos Comerciais, representados pelo Agente de Formalizaç…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "(i.2) no caso dos Direitos Creditórios Mercado Crédito, oferta, pelo Mercado Crédito de Direitos Creditórios, nos termos do Contrato de Cessão ; (ii) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto nas Condições Gerais de Cessão e/ou no Contrato de Cessão; (iii) envio pela Gestora do Arquivo de Retorno confirmando a 48 [ CLASSIFICAÇÃO: PÚBLICA…",
+      "source_excerpt": "(i.2) no caso dos Direitos Creditórios Mercado Crédito, oferta, pelo Mercado Crédito de Direitos Creditórios, nos termos do Contrato de Cessão ; (ii) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto nas Condições Gerais de Cessão e/ou no Contrato de Cessão; (iii) envio pela Gestora do Arquivo de Retorno confirmando a 48 [ CLASSIFICAÇÃO: PÚBLICA…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tal ou parcial, e, consequentemente, de um Direito Creditório Adquirido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão”…",
+      "source_excerpt": "tal ou parcial, e, consequentemente, de um Direito Creditório Adquirido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão”…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "irido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão” significam as Condições de Cessão dos Direitos Creditórios Mercad…",
+      "source_excerpt": "irido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão” significam as Condições de Cessão dos Direitos Creditórios Mercad…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "enciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegíveis, obse…",
+      "source_excerpt": "enciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegíveis, obse…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rdinada Mezanino e a Subclasse Subordinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é comp osto exclusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMP…",
+      "source_excerpt": "rdinada Mezanino e a Subclasse Subordinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é comp osto exclusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMP…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "clusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditór…",
+      "source_excerpt": "clusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditór…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reza especia l com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…",
+      "source_excerpt": "reza especia l com prazo de duração indeterminado, é disciplinado pela Resolução CMN 2.907/01, pela Resolução CVM 175/22 e demais disposições legais e regulamentares aplicáveis, composto unicamente por Cotas da Classe Única, vedada a constituição de novas classes de cotas pelo Fundo, e será regido pelo presente Regulamento e o Anexo Descritivo. 2.2. Objeto. O Fundo é uma comunhão de recursos destinados, preponderant…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 3.2. Direitos e Obr…",
+      "source_excerpt": "o é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de recursos na aquisição de Direitos Creditórios Elegíveis e Ativos Financeiros, conforme política de investimento específica da Classe Única, detalhada em seu respectivo Anexo Descritivo e observados os índices de composição e diversificação da carteira da Classe Única, conforme estabelecido no Anexo Descritivo. 3.2. Direitos e Obr…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "reditórios, em decorrência da atuação como Credenciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” sig…",
+      "source_excerpt": "reditórios, em decorrência da atuação como Credenciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” sig…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "forme especificados nos respectivos Apêndices. “Formalização Eletrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i.1) no caso dos Direitos Creditórios Estabelecimentos Comerciais, of erta pelos Estabelecimentos Comerciais, representados pelo Agente de Formalizaç…",
+      "source_excerpt": "forme especificados nos respectivos Apêndices. “Formalização Eletrônica de Cessão” significa o processo (e seus correspondentes arquivos eletrônicos) e a conclusão da oferta e cessão dos Direitos Creditórios Elegíveis ao Fundo, após a finalização das seguintes etapas: (i.1) no caso dos Direitos Creditórios Estabelecimentos Comerciais, of erta pelos Estabelecimentos Comerciais, representados pelo Agente de Formalizaç…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os e Condições do Mercado Pago ; ou (i.2) no caso dos Direitos Creditórios Mercado Crédito, oferta, pelo Mercado Crédito de Direitos Creditórios, nos termos do Contrato de Cessão ; (ii) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto nas Condições Gerais de Cessão e/ou no Contrato de Cessão; (iii) envio pela Gestora do Arquivo de Retorno confi…",
+      "source_excerpt": "os e Condições do Mercado Pago ; ou (i.2) no caso dos Direitos Creditórios Mercado Crédito, oferta, pelo Mercado Crédito de Direitos Creditórios, nos termos do Contrato de Cessão ; (ii) envio do Arquivo de Oferta, para processamento da oferta dos Direitos Creditórios pela Gestora, conforme o fluxo previsto nas Condições Gerais de Cessão e/ou no Contrato de Cessão; (iii) envio pela Gestora do Arquivo de Retorno confi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "tal ou parcial, e, consequentemente, de um Direito Creditório Adquirido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão”…",
+      "source_excerpt": "tal ou parcial, e, consequentemente, de um Direito Creditório Adquirido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão”…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "irido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão” significam as Condições de Cessão dos Direitos Creditórios Mercad…",
+      "source_excerpt": "irido. “Classe Única” significa a presente Classe Única – Responsabilidade Limitada do Fundo. “Comissões” significam as comissões devidas pelo Mercado Crédito e/ou Mercado Pago ao Fundo, nos termos do Contrato de Cessão, quando referidas de forma indistinta e pagas ao Fundo em até 1 (um) Dia Útil antes de cada Data de Referência. “Condições de Cessão” significam as Condições de Cessão dos Direitos Creditórios Mercad…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "enciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegíveis, obse…",
+      "source_excerpt": "enciador ou Subcredenciador responsável por habilitar os Estabelecimentos Comerciais à aceitação dos Instrumentos de Pagamento. “Direitos Creditórios” significam os Direitos Creditórios Estabelecimentos Comerciais e os Direitos Creditórios Mercado Crédito quando referidos em conjunto ou indistintamente. 43 [ CLASSIFICAÇÃO: PÚBLICA ] “Direitos Creditórios Adquiridos” significam os Direitos Creditórios Elegíveis, obse…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rdinada Mezanino e a Subclasse Subordinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é comp osto exclusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMP…",
+      "source_excerpt": "rdinada Mezanino e a Subclasse Subordinada Júnior. As características e os direitos, assim como as condições de emissão, subscrição, integralização e amortização das Cotas seguem descritos no Capítulo Décimo deste Anexo Descritivo e nos respectivos Apêndices. 2.4. Público-Alvo. O público-alvo d a Classe Única é comp osto exclusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMP…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "clusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditór…",
+      "source_excerpt": "clusivamente por Investidores Autorizados. CAPÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA, CONDIÇÕES DE CESSÃO, CRITÉRIOS DE ELEGIBILIDADE E PROCESSO DE ORIGINAÇÃO DOS DIREITOS CREDITÓRIOS 3.1. Objetivo da Classe Única . O objetivo d a Classe Única é proporcionar aos seus Cotistas a valorização de suas Cotas por meio da aplicação de seu Patrimônio Líquido na aquisição de: (i) Direitos Creditór…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "o do Fundo (“ Regulamento”) e o contrato de cessão referente à cessão dos Direitos Creditórios Mercado Crédito (conforme definidos no Regulamento) ao Fundo (“Contrato de Cessão ”) foram alterados com a finalidade refletir os seguintes ajustes operacionais na dinâmica das contas do Fundo : (a) ajustar a dinâmica de realização do pagamento do Preço de Aquisição e do Potencial de Aquisição , permitindo que o pagamento…",
+      "source_excerpt": "o do Fundo (“ Regulamento”) e o contrato de cessão referente à cessão dos Direitos Creditórios Mercado Crédito (conforme definidos no Regulamento) ao Fundo (“Contrato de Cessão ”) foram alterados com a finalidade refletir os seguintes ajustes operacionais na dinâmica das contas do Fundo : (a) ajustar a dinâmica de realização do pagamento do Preço de Aquisição e do Potencial de Aquisição , permitindo que o pagamento…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Subordinadas",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "epresentantes legais infra-assinados (“Gestora”), resolvem: 1. Constituir, nos termos da Resolução CVM nº 175, de 23 de dezembro de 2022 e suas respectivas alterações (“Resolução CVM 175/22”), expedida pela CVM, (i) um fundo de investimento em direitos creditórios, sob a forma de condomínio de natureza especial, com prazo indeterminado de duração, com a denominação de “SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CRE…",
+      "source_excerpt": "o do Fundo e também pela prestação de informações relativas a esse; 4. Determinar que a Administradora assumirá a função de administrador a do Fundo, na forma do regulamento do Fundo (“Regulamento”), neste ato aprovado; 5. Determinar que a Administradora prestará ao Fundo os serviços de custódia e escrituração de cotas (“Custodiante”); 6. Determinar que a Gestora assumirá a função de gestora do Fundo, na forma do Re…",
+      "source_document": "691281_assembleia_assembleia_691281_2024-06-10.pdf",
+      "source_document_id": 691281
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "rme em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralização, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da Subclasse Mezanino e suas respectivas Sé…",
+      "amortization_schedule": "rmativo II da Resolução CVM 175/22, conforme em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralização, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da…",
+      "maturity": "as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; (f) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento ; e (g) divergência entre as disposições da Parte Geral e dos Anexos, prevalecerão as di…",
+      "source_excerpt": "PÍTULO TERCEIRO - POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA ........................... 10 CAPÍTULO QUARTO - ADMINISTRAÇÃO E GESTÃO DO FUNDO ................................................................. 11 CAPÍTULO QUINTO - CONTRATAÇÃO DE PRESTADORES DE SERVIÇO .................................................... 17 CAPÍTULO SEXTO – SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA, DA GESTORA E DO CUSTODIANTE .…",
+      "source_document": "691282_regulamento_regulamento_691282_2024-06-10.pdf",
+      "source_document_id": 691282
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª série",
+      "amount": 1000.0,
+      "amount_display": "R$1.000,00",
+      "currency": "R$",
+      "remuneration": "de 2027 1/6 15º (décimo quinto) dia de julho de 2027 1/6 Meta de Amortização de Principal: a ser definida em procedimento de bookbuilding, limitada a 1,20% (um inteiro e vinte centésimos por cento) ao ano. Amortização de Principal: conforme Cronograma de Amortização de Principal. Data de Amortização de Remuneração: nas datas de Amortização de Principal, que devem ser uma Data de Pagamento. Fator de Ponderação Sênior…",
+      "amortization_schedule": "minal Unitário de Emissão: R$1.000,00 (mil reais). Forma de Integralização: à vista, no ato de subscrição, pelo respectivo valor nominal unitário, na primeira data de integralização. Data de Emissão das Cotas Seniores da 1ª Série: a data da 1ª (primeira) integralização de Cotas Seniores da 1ª Série. Data de Amortização Final: 31/07/2027 Índice Referencial das Cotas Seniores da 1ª Série: Taxa DI Período de Carência:…",
+      "maturity": "a Data de Pagamento. Fator de Ponderação Sênior: 33,3% (trinta e três inteiros e três décimos por cento). Regime de Distribuição das Cotas Seniores da 1ª Série: oferta pública de distribuição com rito de registro automático, destinada a investidores profissionais, realizada nos termos da Resolução CVM 160/22. Prazo para Distribuição: nos termos do artigo 48 da Resolução CVM 160/22, a subscrição da s Cotas Seniores d…",
+      "source_excerpt": "ala 202, Barra da Tijuca, CEP 22640- 102, neste ato representada na forma do seu estatuto social, por seus representantes legais infra-assinados (“Gestora”), resolvem: 1. Retificar o “Instrumento Particular de Constituição do Seller II Fundo de Investimento em Direitos Creditórios Segmento Meios de Pagamento de Responsabilidade Limitada e da Classe Única do Seller II Fundo de Investimento em Direitos Creditórios Seg…",
+      "source_document": "691283_regulamento_regulamento_691283_2024-07-02.pdf",
+      "source_document_id": 691283
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "me em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralizaç ão, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da Subclasse Mezanino e suas respectivas Sé…",
+      "amortization_schedule": "mativo II da Resolução CVM 175/22, conforme em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralizaç ão, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da…",
+      "maturity": "as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento ; e (vii) divergência entre as disposições da Parte Geral e dos Anexos, prevalecerão as…",
+      "source_excerpt": "CAPÍTULO TERCEIRO – POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA .......................... 11 CAPÍTULO QUARTO – ADMINISTRAÇÃO E GESTÃO DO FUNDO ................................................................ 11 CAPÍTULO QUINTO - CONTRATAÇÃO DE PRESTADORES DE SERVIÇO .................................................... 17 CAPÍTULO SEXTO – SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA, DA GESTORA E DO CUSTODIANTE .…",
+      "source_document": "691284_regulamento_regulamento_691284_2024-07-02.pdf",
+      "source_document_id": 691284
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas seniores",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "sociação Brasileira das Entidades dos Mercados Financeiro e de Capitais (“ ANBIMA”), em decorrência das suas características, e será obtido de forma automática mediante o cumprimento dos requisitos e procedimentos de requerimento de registro previstos. Não obstante, o Coordenador Líder registrará a Oferta na ANBIMA, no prazo de 7 (sete) dias, contados da publicação do Anúncio de Encerramento, nos termos do artigo 15…",
+      "source_excerpt": "Presidente Juscelino Kubitschek, nº 1.909, Torre Sul, 29º e 30º andares, CEP 04543 -907, inscrita no CNPJ/MF sob o nº 02.332.886/0011-78 (“ XPI” e, em conjunto com o Coordenador Líder e o ABC, os “Coordenadores”), vêm a público, por meio deste aviso ao mercado (“ Aviso ao Mercado ”), comunicar que, na presente data , foi apresentado perante a CVM o requerimento de registro automático de distribuição, nos termos do a…",
+      "source_document": "691285_evento_evento_691285_2024-07-02.pdf",
+      "source_document_id": 691285
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "me em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralizaç ão, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da Subclasse Mezanino e suas respectivas Sé…",
+      "amortization_schedule": "mativo II da Resolução CVM 175/22, conforme em vigor. “Apêndices” significam os modelos de apêndices elaborados na forma do Suplemento II, do Suplemento II I e do Suplemento IV ao Anexo Descritivo, os quais descrevem as características e os direitos, assim como as condições de emissão, subscrição, integralizaç ão, amortização de principal e amortização de remuneração da Subclasse Sênior e suas respectivas Séries, da…",
+      "maturity": "as referências a quaisquer partes incluem seus sucessores, representantes e cessionários autorizados; (vi) salvo disposição em contrário, todos os prazos previstos neste Regulamento serão contados na forma prevista no artigo 224 do Código de Processo Civil, isto é, excluindo -se o dia do começo e incluindo -se o dia do vencimento ; e (vii) divergência entre as disposições da Parte Geral e dos Anexos, prevalecerão as…",
+      "source_excerpt": "CAPÍTULO TERCEIRO – POLÍTICA DE INVESTIMENTO E COMPOSIÇÃO DA CARTEIRA .......................... 12 CAPÍTULO QUARTO – ADMINISTRAÇÃO E GESTÃO DO FUNDO ................................................................ 12 CAPÍTULO QUINTO - CONTRATAÇÃO DE PRESTADORES DE SERVIÇO .................................................... 18 CAPÍTULO SEXTO – SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA, DA GESTORA E DO CUSTODIANTE .…",
+      "source_document": "704724_regulamento_regulamento_704724_2024-07-25.pdf",
+      "source_document_id": 704724
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª Série",
+      "amount": 1000.0,
+      "amount_display": "R$1.000,00",
+      "currency": "R$",
+      "remuneration": "da”, em 02 de julho de 2024 (“Apêndice das Cotas Seniores da 1ª Série ”), foi ajustado para correção das informações constantes dos itens “Índice Referencial das Cotas Seniores da 1ª Série ”, “Período de Carência”, “Cronograma de Amortização de Pr incipal”, “ Meta de Amortização de Principal ”, “ Data de Amortização de Remuneração” e “Fator de Ponderação Sênior”. Diante das alterações referidas acima, c omunica-se a…",
+      "amortization_schedule": "e Investimento em Direitos Creditórios Segmento Meios de Pagamento Responsabili dade Limitada”, em 02 de julho de 2024 (“Apêndice das Cotas Seniores da 1ª Série ”), foi ajustado para correção das informações constantes dos itens “Índice Referencial das Cotas Seniores da 1ª Série ”, “Período de Carência”, “Cronograma de Amortização de Pr incipal”, “ Meta de Amortização de Principal ”, “ Data de Amortização de Remuner…",
+      "maturity": "",
+      "source_excerpt": "ios, nos termos do Ato Declaratório CVM nº 6.696, de 21 de fevereiro de 2002, inscrita no CNPJ/MF sob o nº 36.113.876/0001-91, com sede na Cidade e Estado do Rio de Janeiro, na Avenid a das Américas, nº 3.434, bloco 07, 2° andar, CEP 22640-102 (“Administradora”), no âmbito da oferta pública de distribuição primária, sob o regime de melhores esforços de colocação, registrada automaticamente perante a CVM, nos termos…",
+      "source_document": "705134_evento_evento_705134_2024-07-26.pdf",
+      "source_document_id": 705134
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª SÉRIE",
+      "amount": 1000000000.0,
+      "amount_display": "R$1.000.000.000,00",
+      "currency": "R$",
+      "remuneration": "internet ou em qualquer outra página na internet ou publicação que venha a substituí-la (“Taxa DI”), acrescido de Sobretaxa Sênior (definida abaixo). Período de Carência: Período de Carência para Amortização de Principal: Sim - vide “Cronograma de Amortização de Principal”. Período de Carência para Amortização de Remuneração: N/A – vide “Data de Amortização de Remuneração”. Cronograma de Amortização de Principal: de…",
+      "amortization_schedule": "ada pela “Ata da Assembleia Especial Extraordinária de Cotistas da Classe Única do Seller II Fundo de Investimento em Direitos Creditórios Segmento Meios de Pagamento de Responsabilidade Limitada”, realizada em 25 de julho de 2024 (“Instrumento de Constituição”) para (i) definir a Sobretaxa Sênior, que compõe a Meta de Amortização de Principal, conforme resultado do procedimento de bookbuilding; e (ii) definir a Cla…",
+      "maturity": "de Assinatura Fator de Ponderação Sênior: 66,70% (sessenta e seis inteiros e setenta centésimos por cento). Regime de Distribuição das Cotas Seniores da 1ª Série: oferta pública de distribuição com rito de registro automático, destinada a investidores profissionais, realizada nos termos da Resolução CVM 160/22. Prazo para Distribuição: nos termos do artigo 48 da Resolução CVM 160/22, a subscrição da s Cotas Seniores…",
+      "source_excerpt": "DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. _______________________________________________________ OLIVEIRA TRUST SERVICER S.A. Versão de Assinatura ANEXO A APÊNDICE DAS COTAS SENIORES DA 1ª SÉRIE A 1ª S érie da Subclasse Sênior da Classe Única do SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIO S DE PAGAMENTO DE RESPONSABILIDADE LIMITADA, terá as seguintes características, permanecendo…",
+      "source_document": "705139_regulamento_regulamento_705139_2024-07-26.pdf",
+      "source_document_id": 705139
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª Série",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "com a finalidade de definir a Sobretaxa Sênior. Participaram do Procedimento de Bookbuilding exclusivamente os investidores considerados como Investidores Profissionais, nos termos do artigo 61, §2º, da Resolução CVM 160. Após a conclusão do Procedimento de Bookbuilding, foi definida Sobretaxa Sênior que comporá a rentabilidade das Cotas Seniores da 1ª Série, conforme disposto abaixo: • Sobretaxa Sênior: 0,85% (oite…",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "ma de distribuição de valores mobiliários, com sede na Cidade e Estado de São Paulo, na A venida Presidente Juscelino Kubitschek, nº 1.909, Torre Sul, 29º e 30º andares, CEP 04543 -907, inscrita no CNPJ/MF sob o nº 02.332.886/0011-78 (“ XPI” e, em conjunto com o Coordenador Líder e o ABC, os “Coordenadores”), comunicam que, na presente data , foi concluído o Procedimento de Bookbuilding (conforme abaixo definido) ,…",
+      "source_document": "705145_evento_evento_705145_2024-07-26.pdf",
+      "source_document_id": 705145
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "1ª Série",
+      "amount": 1000.0,
+      "amount_display": "R$1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "objeto de análise prévia da CVM ou da ANBIMA, em decorrência das suas características, e foi obtido de forma automática mediante o cumprimento dos requisitos e procedimentos de requerimento de registro previstos nos artigos 26 e 27 da Resolução CVM 160. Não obstante, o Coordenador Líder registrará a Oferta na ANBIMA, no prazo de 7 (sete) dias, contados da publicação do Anúncio de Encerramento, nos termos do artigo 1…",
+      "source_excerpt": "1.909, Torre Sul, 29º e 30º andares, CEP 04543 - 907, inscrita no CNPJ/MF sob o nº 02.332.886/0011 -78 (“ XPI” e, em conjunto c om o Coordenador Líder e o ABC, os “Coordenadores”), vêm a público, por meio deste anúncio de início (“Anúncio de Início”), comunicar o início da oferta pública de distribuição primária, sob o regime de melhores esforços de colocação, registrada automaticamente perante a CVM , nos termos do…",
+      "source_document": "706203_emissao_emissao_706203_2024-07-29.pdf",
+      "source_document_id": 706203
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "1ª série",
+      "amount": 1000.0,
+      "amount_display": "R$1 .000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "P 04543 - 907, inscrita no CNPJ/MF sob o nº 02.332.886/0011 -78 (“ XPI” e, em conjunto com o Coordenador Líder e o ABC, o s “Coordenadores”), vêm a público, por meio deste anúncio de encerramento (“Anúncio de Encerramento”), comunicar o encerramento, em 06 de agosto de 2024, da oferta pública de distribuição primária, realizada sob o regime de melhores esforços e registrada automaticamente perante a CVM, nos termos…",
+      "source_document": "714216_emissao_emissao_714216_2024-08-08.pdf",
+      "source_document_id": 714216
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Subordinadas Juniores",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3.434, bloco 7, sala 201, Barra da Tijuca, CEP 22640-10, inscrita no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fa zenda (“ CNPJ/MF”) sob o nº 36.113.876/0001-91 (“Administradora”), na qualidade de instituição administradora do SELLER II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESPONSABILIDADE L…",
+      "source_document": "733048_assembleia_assembleia_733048_2024-09-06.pdf",
+      "source_document_id": 733048
+    }
+  ],
+  "extraction_count": 13,
+  "extraction_errors": []
+}

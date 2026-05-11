@@ -1,0 +1,829 @@
+{
+  "schema_version": 1,
+  "fund_name": "PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "63.546.406/0001-94",
+  "generated_at": "2026-05-10T03:18:49Z",
+  "documents": [
+    {
+      "id": 1031498,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "05/11/2025",
+      "data_entrega": "10/11/2025 08:56",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1031498_assembleia_assembleia_1031498_2025-11-05.pdf"
+    },
+    {
+      "id": 1031501,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/11/2025",
+      "data_entrega": "10/11/2025 08:57",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1031501_regulamento_regulamento_1031501_2025-11-05.pdf"
+    },
+    {
+      "id": 1130478,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/03/2026",
+      "data_entrega": "06/03/2026 18:02",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1130478_regulamento_regulamento_1130478_2026-03-05.pdf"
+    },
+    {
+      "id": 1130481,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "05/03/2026",
+      "data_entrega": "06/03/2026 18:03",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1130481_regulamento_regulamento_1130481_2026-03-05.pdf"
+    },
+    {
+      "id": 1130507,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Aviso ao Mercado",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "05/03/2026",
+      "data_entrega": "06/03/2026 18:20",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1130507_emissao_emissao_1130507_2026-03-05.pdf"
+    },
+    {
+      "id": 1156948,
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes ",
+      "especie": "",
+      "classification": "evento",
+      "data_referencia": "02/04/2026",
+      "data_entrega": "08/04/2026 17:35",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1156948_evento_evento_1156948_2026-04-02.pdf"
+    },
+    {
+      "id": 1171276,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "09/04/2026",
+      "data_entrega": "28/04/2026 15:11",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1171276_emissao_emissao_1171276_2026-04-09.pdf"
+    },
+    {
+      "id": 1162293,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "13/04/2026",
+      "data_entrega": "15/04/2026 09:01",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1162293_emissao_emissao_1162293_2026-04-13.pdf"
+    },
+    {
+      "id": 1172101,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "22/04/2026",
+      "data_entrega": "29/04/2026 10:42",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/63546406000194/1172101_emissao_emissao_1172101_2026-04-22.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "astreadas nos ativos referidos nos incisos I e II; e IV. cotas de classes que invistam exclusivamente nos ativos referidos nos incisos I a III; 3.2.3. O Gestor envidará seus melhores esforços para que a Classe mantenha o percentual mínimo de 67% (sessenta e sete por cento) do seu patrimônio líquido aplicado no rol de Direitos Creditórios definido na Resolução CMN nº 5.111 ou outra norma que venha a lhe substituir (“…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "clusivamente nos ativos referidos nos incisos I a III; 3.2.3. O Gestor envidará seus melhores esforços para que a Classe mantenha o percentual mínimo de 67% (sessenta e sete por cento) do seu patrimônio líquido aplicado no rol de Direitos Creditórios definido na Resolução CMN nº 5.111 ou outra norma que venha a lhe substituir (“Alocação Mínima Tributária”). Nos termos da Lei nº 14.754, se mantido o enquadramento da…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "mento da Alocação Mínima Tributária, e mantido o entendimento do Fundo como Entidade de Investimento, os cotistas passarão a se sujeitar ao Regime Específico dos Fundos Não Sujeitos à Tributação Periódica, de modo que a Classe estará sujeita ao imposto de renda retido na fonte (“IRRF”) de 15% (quinze por cento) na distribuição de rendimentos, amortização ou resgate de cotas. 3.2.4. Caso, por qualquer motivo, a Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.225,
+      "threshold_unit": "ratio",
+      "threshold_display": "22,5%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "quando o Fundo for enquadrado como curto prazo, no último dia útil de maio e novembro de cada ano. Além disso, no momento da distribuição de rendimentos, amortização ou regate de cotas, deverá ser recolhida a alíquota complementar (diferença entre a alíquota do come-cotas e a alíquota efetiva da tabela regressiva no tempo de 22,5% a 15%). 3.2.5. A Classe terá o prazo de até 30 de junho de 2024 para se enquadrar na A…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "das como prestadores de serviços, sem qualquer limitação. 3.7. Cessão de Direitos Creditórios à Cedente ou Parte Relacionada: A Classe poderá ceder Direitos Creditórios aos Cedentes, desde que o Gestor entenda que as condições de preço estão compatíveis com a expectativa de risco e retorno da Classe ou, ainda, nas hipóteses prévia e expressamente previstas no respectivo contrato de cessão. 3.8. Operações com Derivat…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "qualquer limitação. 3.7. Cessão de Direitos Creditórios à Cedente ou Parte Relacionada: A Classe poderá ceder Direitos Creditórios aos Cedentes, desde que o Gestor entenda que as condições de preço estão compatíveis com a expectativa de risco e retorno da Classe ou, ainda, nas hipóteses prévia e expressamente previstas no respectivo contrato de cessão. 3.8. Operações com Derivativos: A Classe pode operar com Derivat…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": ">=",
+      "formula_text": "e a rentabilidade das Cotas. n) RISCO DE INEFICÁCIA DA CESSÃO DE CRÉDITO EM RAZÃO DE DEMANDAS DE AUTORIDADES FISCAIS: Ainda que os Direitos Creditórios sejam cedidos à Classe, é possível que, devido à irregular situação fiscal da Cedente, a cessão dos Direitos Creditórios venha a se tornar ineficaz em razão de demandas de autoridades fiscais, o que pode gerar prejuízos à Classe e aos Cotistas. o) RISCO DO USO DE DER…",
+      "source_excerpt": "e a rentabilidade das Cotas. n) RISCO DE INEFICÁCIA DA CESSÃO DE CRÉDITO EM RAZÃO DE DEMANDAS DE AUTORIDADES FISCAIS: Ainda que os Direitos Creditórios sejam cedidos à Classe, é possível que, devido à irregular situação fiscal da Cedente, a cessão dos Direitos Creditórios venha a se tornar ineficaz em razão de demandas de autoridades fiscais, o que pode gerar prejuízos à Classe e aos Cotistas. o) RISCO DO USO DE DER…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": ">=",
+      "formula_text": "DA CESSÃO DE CRÉDITO EM RAZÃO DE DEMANDAS DE AUTORIDADES FISCAIS: Ainda que os Direitos Creditórios sejam cedidos à Classe, é possível que, devido à irregular situação fiscal da Cedente, a cessão dos Direitos Creditórios venha a se tornar ineficaz em razão de demandas de autoridades fiscais, o que pode gerar prejuízos à Classe e aos Cotistas. o) RISCO DO USO DE DERIVATIVOS: A contratação pela Classe de operações de…",
+      "source_excerpt": "DA CESSÃO DE CRÉDITO EM RAZÃO DE DEMANDAS DE AUTORIDADES FISCAIS: Ainda que os Direitos Creditórios sejam cedidos à Classe, é possível que, devido à irregular situação fiscal da Cedente, a cessão dos Direitos Creditórios venha a se tornar ineficaz em razão de demandas de autoridades fiscais, o que pode gerar prejuízos à Classe e aos Cotistas. o) RISCO DO USO DE DERIVATIVOS: A contratação pela Classe de operações de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.855,
+      "threshold_unit": "ratio",
+      "threshold_display": "85,5%",
+      "comparison": ">=",
+      "formula_text": "de Principal: o produto (i) da Participação da Cota no Saldo de Cotas Seniores e do (ii) do maior entre (1) a Meta de Amortização de Principal Estoque Agregada e (2) a Meta de Amortização de Fluxo Agregada. Meta de Amortização de Principal Estoque Agregada: A diferença, caso positiva, entre (i) o Valor Principal de Referência Anterior agregado das Cotas Seniores, e (ii) o produto (α) do Saldo Atualizado dos Direitos…",
+      "source_excerpt": "de Principal: o produto (i) da Participação da Cota no Saldo de Cotas Seniores e do (ii) do maior entre (1) a Meta de Amortização de Principal Estoque Agregada e (2) a Meta de Amortização de Fluxo Agregada. Meta de Amortização de Principal Estoque Agregada: A diferença, caso positiva, entre (i) o Valor Principal de Referência Anterior agregado das Cotas Seniores, e (ii) o produto (α) do Saldo Atualizado dos Direitos…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130478_regulamento_regulamento_1130478_2026-03-05.pdf",
+      "source_document_id": 1130478,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.145,
+      "threshold_unit": "ratio",
+      "threshold_display": "14,50%",
+      "comparison": ">=",
+      "formula_text": "smos direitos e obrigações, conforme descrito neste Regulamento. 6.8 Emissão de Novas Cotas. 6.8.1 Emissões de novas séries de Cotas Seniores, de Cotas Mezanino A, de Cotas Mezanino B e de Cotas Mezanino C e a possibilidade de criação de novas Subclasses de Cotas Mezanino estão reguladas no Anexo Definições Específicas da Classe. 6.8.2 Durante toda a vigência da Classe Única, deverá ser observado o índice de subordi…",
+      "source_excerpt": "smos direitos e obrigações, conforme descrito neste Regulamento. 6.8 Emissão de Novas Cotas. 6.8.1 Emissões de novas séries de Cotas Seniores, de Cotas Mezanino A, de Cotas Mezanino B e de Cotas Mezanino C e a possibilidade de criação de novas Subclasses de Cotas Mezanino estão reguladas no Anexo Definições Específicas da Classe. 6.8.2 Durante toda a vigência da Classe Única, deverá ser observado o índice de subordi…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.145,
+      "threshold_unit": "ratio",
+      "threshold_display": "14,50%",
+      "comparison": ">=",
+      "formula_text": "as Mezanino A, Cotas Mezanino B, Cotas Mezanino C e as Cotas Subordinadas Juniores integralizadas, dividido pelo (ii) patrimônio líquido da Classe, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 14,50% (quatorze inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 15,50% (quinze inteiros e cinquenta centésimos por cento) . O Índice de Subor…",
+      "source_excerpt": "as Mezanino A, Cotas Mezanino B, Cotas Mezanino C e as Cotas Subordinadas Juniores integralizadas, dividido pelo (ii) patrimônio líquido da Classe, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 14,50% (quatorze inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 15,50% (quinze inteiros e cinquenta centésimos por cento) . O Índice de Subor…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.145,
+      "threshold_unit": "ratio",
+      "threshold_display": "14,50%",
+      "comparison": ">=",
+      "formula_text": "observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 14,50% (quatorze inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 15,50% (quinze inteiros e cinquenta centésimos por cento) . O Índice de Subordinação deverá ser apurado e calculado diariamente pela Gestora. 6.8.3 Durante toda a vigência da Classe Única, deverá ser observado o índice de sub…",
+      "source_excerpt": "observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 14,50% (quatorze inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 15,50% (quinze inteiros e cinquenta centésimos por cento) . O Índice de Subordinação deverá ser apurado e calculado diariamente pela Gestora. 6.8.3 Durante toda a vigência da Classe Única, deverá ser observado o índice de sub…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.095,
+      "threshold_unit": "ratio",
+      "threshold_display": "9,50%",
+      "comparison": ">=",
+      "formula_text": "r patrimonial de todas as Cotas Mezanino B , as Cotas Mezanino C e as Cotas Subordinadas Juniores integralizadas, dividido pelo (ii) patrimônio líquido da Classe, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 9,50% (nove inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 10,50% (dez inteiros e cinquenta centésimos por cento). O Índice de…",
+      "source_excerpt": "r patrimonial de todas as Cotas Mezanino B , as Cotas Mezanino C e as Cotas Subordinadas Juniores integralizadas, dividido pelo (ii) patrimônio líquido da Classe, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 9,50% (nove inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 10,50% (dez inteiros e cinquenta centésimos por cento). O Índice de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.095,
+      "threshold_unit": "ratio",
+      "threshold_display": "9,50%",
+      "comparison": ">=",
+      "formula_text": "asse, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 9,50% (nove inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 10,50% (dez inteiros e cinquenta centésimos por cento). O Índice de Subordinação Mezanino A deverá ser apurado e calculado diariamente pela Gestora. 6.8.4 Durante toda a vigência da Classe, deverá ser observado o índice de s…",
+      "source_excerpt": "asse, observado que referido índice deverá corresponder a um percentual mínimo inicialmente de 9,50% (nove inteiros e cinquenta centésimos por cento), e que terá como meta o percentual mínimo de 10,50% (dez inteiros e cinquenta centésimos por cento). O Índice de Subordinação Mezanino A deverá ser apurado e calculado diariamente pela Gestora. 6.8.4 Durante toda a vigência da Classe, deverá ser observado o índice de s…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "\"Agente de Cobrança Extraordinária\" Caso aplicável, t em seu significado definido no Anexo Definições Específicas da Classe. “Agente de Conta Vinculada” A BYX CAPITAL LTDA., sociedade limitada com sede na cidade de São Paulo, estado de São Paulo, na Av. Presidente Juscelino Kubitschek, nº 1.830, Torre 4, 4º andar, Conj. 44, CEP 04.543 -900, Vila Nova Conceição, inscrita no CNPJ sob o nº 42.603.664/0001-95. \"Alocação…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ITAL LTDA., sociedade limitada com sede na cidade de São Paulo, estado de São Paulo, na Av. Presidente Juscelino Kubitschek, nº 1.830, Torre 4, 4º andar, Conj. 44, CEP 04.543 -900, Vila Nova Conceição, inscrita no CNPJ sob o nº 42.603.664/0001-95. \"Alocação Mínima - Entidade de Investimento\" O percentual mínimo de 67% ( sessenta e sete por cento) do Patrimônio Líquido a ser mantido em Direitos Creditórios. \"Alocação…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "EP 04.543 -900, Vila Nova Conceição, inscrita no CNPJ sob o nº 42.603.664/0001-95. \"Alocação Mínima - Entidade de Investimento\" O percentual mínimo de 67% ( sessenta e sete por cento) do Patrimônio Líquido a ser mantido em Direitos Creditórios. \"Alocação Mínima - Regulatório\" O percentual mínimo de 50% (cinquenta por cento) do Patrimônio Líquido a ser mantido em Direitos Creditórios. \"Alocações Mínimas\" A Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o CNPJ sob o nº 42.603.664/0001-95. \"Alocação Mínima - Entidade de Investimento\" O percentual mínimo de 67% ( sessenta e sete por cento) do Patrimônio Líquido a ser mantido em Direitos Creditórios. \"Alocação Mínima - Regulatório\" O percentual mínimo de 50% (cinquenta por cento) do Patrimônio Líquido a ser mantido em Direitos Creditórios. \"Alocações Mínimas\" A Alocação Mínima - Entidade de Investimento e a Alocação M…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "eferentes a reversões de Operações de Derivativos, conforme aplicáveis, desde que (a) o Índice de Pré-Pagamento, apurado na última Data de Verificação, seja inferior a 15% (quinze por cento), ou (b) o pagamento da reversão da Operação de Derivativos seja exigível pela Contraparte de Derivativos Autorizada, com fundamento no contrato de rege a respectiva Operação de Derivativos; (v) constituição ou recomposição da Re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.025,
+      "threshold_unit": "ratio",
+      "threshold_display": "2,50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "as ordinárias identificadas como encargos do Fundo, nos termos do CAPÍTULO 16 deste Anexo Descritivo, incluindo-se a Taxa de Administração e Taxa de Gestão , referentes aos 3 (três) meses subsequentes. 17.2 Caso aplicável, conforme especificado no Anexo Definições Específicas da Classe, observada a ordem de alocação de recursos prevista no CAPÍTULO 11 deste Anexo Descritivo, a Administradora também deverá manter a R…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.02,
+      "threshold_unit": "ratio",
+      "threshold_display": "2,00%",
+      "comparison": ">=",
+      "formula_text": "% (dois inteiros e cinquenta centésimos por cento); e (i.2) 2,00% (dois inteiros por cento) do Patrimônio Líquido da Classe, enquanto o Índice de Subordinação das Cotas Subordinadas Júnior, descrito no item 9.4 do Anexo Definições Específicas da Classe, for igual ou superior à 2,50% (dois inteiros e cinquenta centésimos por cento); ou (ii) 3 (três) meses das despesas previstas da Classe, dos dois o maior. 17.2.1 A R…",
+      "source_excerpt": "% (dois inteiros e cinquenta centésimos por cento); e (i.2) 2,00% (dois inteiros por cento) do Patrimônio Líquido da Classe, enquanto o Índice de Subordinação das Cotas Subordinadas Júnior, descrito no item 9.4 do Anexo Definições Específicas da Classe, for igual ou superior à 2,50% (dois inteiros e cinquenta centésimos por cento); ou (ii) 3 (três) meses das despesas previstas da Classe, dos dois o maior. 17.2.1 A R…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "vos Financeiros, Operações de Derivativos e outros ativos de responsabilidade ou coobrigação de um mesmo Devedor (incluindo integrantes de seu respectivo grupo econômico), conforme aplicável, está limitada a 20% (vinte por cento) do Patrimônio Líquido da Classe Única, sem prejuízo dos Critérios de Elegibilidade – Debêntures ou dos Critérios de Elegibilidade – Lote Adicional e/ou das Condições de Cessão relacionados…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "Consiste no risco de distorção de preço entre o derivativo e seu ativo objeto, o que pode ocasionar aumento da volatilidade do Fundo, limitar as possibilidades de retornos adicionais nas operações, não produzir os efeitos pretendidos, bem como provocar perdas aos Cotistas. Mesmo para o Fundo, que utiliza derivativos exclusivamente para proteção das posições à vista, existe o risco da posição não representar um \"hedg…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "ivativos, i.e., fluxo que o Fundo recebe sinteticamente no Swap. “FIDC Passivo Swap” Significa a ponta passiva do Fundo no Swap fechado com a Contraparte de Derivativos, i.e., fluxo que o Fundo paga sinteticamente no Swap. “Swap” Significa o derivativo que consiste na troca de fluxo de caixa pelas partes, celebrado entre o Fundo e uma Contraparte de Derivativos Autorizada, que está sob o escopo do CGD. “MTM do Hedge…",
+      "source_excerpt": "ivativos, i.e., fluxo que o Fundo recebe sinteticamente no Swap. “FIDC Passivo Swap” Significa a ponta passiva do Fundo no Swap fechado com a Contraparte de Derivativos, i.e., fluxo que o Fundo paga sinteticamente no Swap. “Swap” Significa o derivativo que consiste na troca de fluxo de caixa pelas partes, celebrado entre o Fundo e uma Contraparte de Derivativos Autorizada, que está sob o escopo do CGD. “MTM do Hedge…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "ivativos na B3 ou em outra entidade autorizada pelo BACEN para registro de operações de derivativos de balcão; e (iii) Em até 3 Dias Úteis as partes devem celebrar confirmação da Operação de Derivativos, no âmbito do contrato global vigente. 4. MONITORAMENTO DE EXPOSIÇÕES 4.1. Em cada Data de Verificação, com base nos valores referentes ao último dia do mês anterior, a Gestora deverá monitorar a eficiência dos hedge…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "onfirmação da Operação de Derivativos, no âmbito do contrato global vigente. 4. MONITORAMENTO DE EXPOSIÇÕES 4.1. Em cada Data de Verificação, com base nos valores referentes ao último dia do mês anterior, a Gestora deverá monitorar a eficiência dos hedges de juros da Unidade de Exposição e Proteção, através dos procedimentos descritos abaixo , sendo certo que a 1ª Data de Verificação para fins de contratação do hedg…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.001,
+      "threshold_unit": "ratio",
+      "threshold_display": "0,10%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "omposta pelo Fluxo de Caixa Modelado e pelas operações de derivativos anteriormente celebradas , referentes à Unidade de Exposição e Proteção. Tal estimativa deve ser feita considerando (1) o cenário de fechamento dos futuros de DI na B3 no último Dia Útil do mês anterior (“Cenário de Mercado ”) e (2) a curva de juros correspondente ao Cenário de Mercado acrescido de 0,10% em cada vértice. 4.5. A \"Ineficiência do He…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "izar as perdas e elevar os padrões de qualidade e o resultado das operações da Classe. 3.2.1. Em até 180 (cento e oitenta) dias do início de suas atividades, a Classe deve possuir parcela superior a 50% (cinquenta por cento) de seu patrimônio líquido representada por Direitos Creditórios, conforme definido no art. 44 do Anexo Normativo II da Resolução CVM nº 175. 3.2.2. A parcela do patrimônio líquido da Classe que…",
+      "source_excerpt": "izar as perdas e elevar os padrões de qualidade e o resultado das operações da Classe. 3.2.1. Em até 180 (cento e oitenta) dias do início de suas atividades, a Classe deve possuir parcela superior a 50% (cinquenta por cento) de seu patrimônio líquido representada por Direitos Creditórios, conforme definido no art. 44 do Anexo Normativo II da Resolução CVM nº 175. 3.2.2. A parcela do patrimônio líquido da Classe que…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "da Classe. 5.2 Desde que os Direitos Creditórios tenham atendido plena e cumulativamente às Condições de Cessão e aos Critérios de Elegibilidade (Critérios de Elegibilidade – Debêntures ou Critérios de Elegibilidade – Lote Adicional) na respectiva data em que forem verificadas, conforme prevista no Anexo Definições Específicas da Classe , o desenquadramento de qualquer Direito Creditório Cedido com relação a qualque…",
+      "source_excerpt": "da Classe. 5.2 Desde que os Direitos Creditórios tenham atendido plena e cumulativamente às Condições de Cessão e aos Critérios de Elegibilidade (Critérios de Elegibilidade – Debêntures ou Critérios de Elegibilidade – Lote Adicional) na respectiva data em que forem verificadas, conforme prevista no Anexo Definições Específicas da Classe , o desenquadramento de qualquer Direito Creditório Cedido com relação a qualque…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "otas será buscada mediante a aplicação em Ativos Financeiros, de acordo com os critérios estabelecidos neste Capítulo. 3.2 Os Direitos Creditórios serão adquiridos de acordo com a política de investimento, diversificação e composição da carteira prevista neste Capítulo, observadas, ainda, as condições previstas no Contrato de Promessa de Cessão e na legislação pertinente. 3.2.1 Serão adquiridos apenas Direitos Credi…",
+      "source_excerpt": "otas será buscada mediante a aplicação em Ativos Financeiros, de acordo com os critérios estabelecidos neste Capítulo. 3.2 Os Direitos Creditórios serão adquiridos de acordo com a política de investimento, diversificação e composição da carteira prevista neste Capítulo, observadas, ainda, as condições previstas no Contrato de Promessa de Cessão e na legislação pertinente. 3.2.1 Serão adquiridos apenas Direitos Credi…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ão de recursos da Classe Única em Direitos Creditórios, Ativos Financeiros, Operações de Derivativos e outros ativos de responsabilidade ou coobrigação de um mesmo Devedor (incluindo integrantes de seu respectivo grupo econômico), conforme aplicável, está limitada a 20% (vinte por cento) do Patrimônio Líquido da Classe Única, sem prejuízo dos Critérios de Elegibilidade – Debêntures ou dos Critérios de Elegibilidade…",
+      "source_excerpt": "ão de recursos da Classe Única em Direitos Creditórios, Ativos Financeiros, Operações de Derivativos e outros ativos de responsabilidade ou coobrigação de um mesmo Devedor (incluindo integrantes de seu respectivo grupo econômico), conforme aplicável, está limitada a 20% (vinte por cento) do Patrimônio Líquido da Classe Única, sem prejuízo dos Critérios de Elegibilidade – Debêntures ou dos Critérios de Elegibilidade…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "stradora, com base no Patrimônio Líquido do Dia Útil imediatamente anterior , e, caso este não esteja disponível, o do segundo Dia Útil anterior. CAPÍTULO 4 – DIREITOS CREDITÓRIOS 4.1 Os Direitos Creditórios a serem adquiridos estão descritos no Anexo Definições Específicas da Classe. 4.2 O processo de originação dos Direitos Creditórios e a Política de Crédito encontram -se descritos no Anexo III ao Regulamento. CA…",
+      "source_excerpt": "stradora, com base no Patrimônio Líquido do Dia Útil imediatamente anterior , e, caso este não esteja disponível, o do segundo Dia Útil anterior. CAPÍTULO 4 – DIREITOS CREDITÓRIOS 4.1 Os Direitos Creditórios a serem adquiridos estão descritos no Anexo Definições Específicas da Classe. 4.2 O processo de originação dos Direitos Creditórios e a Política de Crédito encontram -se descritos no Anexo III ao Regulamento. CA…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "EITOS CREDITÓRIOS 4.1 Os Direitos Creditórios a serem adquiridos estão descritos no Anexo Definições Específicas da Classe. 4.2 O processo de originação dos Direitos Creditórios e a Política de Crédito encontram -se descritos no Anexo III ao Regulamento. CAPÍTULO 5 CONDIÇÕES DE CESSÃO E CRITÉRIOS DE ELEGIBILIDADE 5.1 O Fundo somente poderá utilizar os recursos da Classe Única para adquirir Direitos Creditórios que a…",
+      "source_excerpt": "EITOS CREDITÓRIOS 4.1 Os Direitos Creditórios a serem adquiridos estão descritos no Anexo Definições Específicas da Classe. 4.2 O processo de originação dos Direitos Creditórios e a Política de Crédito encontram -se descritos no Anexo III ao Regulamento. CAPÍTULO 5 CONDIÇÕES DE CESSÃO E CRITÉRIOS DE ELEGIBILIDADE 5.1 O Fundo somente poderá utilizar os recursos da Classe Única para adquirir Direitos Creditórios que a…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "omo investidores da Oitava Emissão de Debêntures. Adicionalmente, os recursos recebidos pela Cedente como pagamento pela cessão dos Direitos Creditórios para a Classe poderão ser utilizados para o reembolso de caixa utilizado para a aquisição dos direitos creditórios que integravam a Oitava Emissão de Debêntures. Diante disso, ainda que os Direitos Creditórios adquiridos pela Classe tenham que atender os Critérios d…",
+      "source_excerpt": "omo investidores da Oitava Emissão de Debêntures. Adicionalmente, os recursos recebidos pela Cedente como pagamento pela cessão dos Direitos Creditórios para a Classe poderão ser utilizados para o reembolso de caixa utilizado para a aquisição dos direitos creditórios que integravam a Oitava Emissão de Debêntures. Diante disso, ainda que os Direitos Creditórios adquiridos pela Classe tenham que atender os Critérios d…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "relacionadas aos fundos investidos, não decorram única e exclusivamente de má conduta intencional ou negligência devidamente comprovados. 2.7.5. A responsabilidade civil do Administrador do Gestor, conforme o caso, em relação ao dever de reparação ao Fundo e seus Cotistas, independentemente do motivo, está limitada à remuneração recebida nos últimos 12 (doze) meses pelo respectivo prestador de serviços ao Fundo. 2.8…",
+      "amortization_schedule": "causa ao requerimento de declaração de insolvência. 2.5. Regime Condominial: A Classe se submete ao regime condominial fechado. 2.6. Subclasses: A Classe conta com Subclasses com características distintas, regidas por seus respectivos Apêndices, podendo ser diferenciadas por: (i) prazos e condições de aplicação, amortização e resgate; (ii) taxas de administração e gestão, taxas máximas de distribu ição, taxas de per…",
+      "maturity": "muneração dos prestadores de serviços; iv) aquisição e pagamento do preço de aquisição de Direitos Creditórios; v) aquisição e pagamento do preço de aquisição de ativos financeiros de liquidez; vi) pagamentos de valores relacionados à amortização e/ou resgate das Cotas. 3.10.1. Quando se tratar de datas de pagamento, vencimento ou vencimento antecipado da Classe, o inciso “vi” do item 3.12. acima deverá preceder os…",
+      "source_excerpt": "das operações da Classe. 3.2.1. Em até 180 (cento e oitenta) dias do início de suas atividades, a Classe deve possuir parcela superior a 50% (cinquenta por cento) de seu patrimônio líquido representada por Direitos Creditórios, conforme definido no art. 44 do Anexo Normativo II da Resolução CVM nº 175. 3.2.2. A parcela do patrimônio líquido da Classe que não estiver alocada em Direitos Creditórios elegíveis, poderá…",
+      "source_document": "1031501_regulamento_regulamento_1031501_2025-11-05.pdf",
+      "source_document_id": 1031501
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas seniores da 1ª (primeira) série",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "as de Pagamento: Todo 11o (décimo primeiro) Dia Útil de cada mês. Distribuição de Proventos As Cotas Seniores terão prioridade na amortização, resgate e distribuição dos rendimentos da carteira da Classe em relação às Cotas Mezanino A, Cotas Mezanino B, Cotas Mezanino C e Cotas Subordinadas Juniores. Meta de Rentabilidade Sênior 100% (cem por cento) da variação da taxa média referencial do CDI de cada Dia Útil – “ov…",
+      "amortization_schedule": "te nacional, nos termos do respectivo boletim de subscrição e compromisso de investimento. Data de Resgate: 96 (noventa e seis meses) contados da 1ª Data de Integralização. Datas de Pagamento: Todo 11o (décimo primeiro) Dia Útil de cada mês. Distribuição de Proventos As Cotas Seniores terão prioridade na amortização, resgate e distribuição dos rendimentos da carteira da Classe em relação às Cotas Mezanino A, Cotas M…",
+      "maturity": "ciais”), na qualidade de Prestadores de Serviços Essenciais da CLASSE ÚNICA DO PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no CNPJ sob o nº 63.546.406/0001-94 (“Classe”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CR…",
+      "source_excerpt": "b a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA (“Fundo”), sendo a Classe e o Fundo regidos pelo regulamento (“ Regulamento”) e o anexo descritivo da Classe , conforme aplicável (“Anexo Descritivo”), RESOLVEM APROVAR: i) a alteração do Regulamento e do Anexo Descritivo, os quais os Prestadores de…",
+      "source_document": "1130478_regulamento_regulamento_1130478_2026-03-05.pdf",
+      "source_document_id": 1130478
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "inadas Juniores, as Cotas terão seu valor unitário apurado na forma do CAPÍTULO 9 deste Anexo Descritivo. 6.2 Séries e Subclasses de Cotas. As Cotas Seniores, as Cotas Mezanino A, as Cotas Mezanino B e as Cotas Mezanino C poderão ser divididas em séries , com valores e prazos diferenciados para amortização, resgate e remuneração, conforme definição de seus Parâmetros de Pagamento no respectivo Suplemento , permanece…",
+      "amortization_schedule": "liquidação do Fundo e/ou da Classe Única. Não obstante, as Cotas serão objeto de amortizações durante o prazo de vigência do Fundo, nos termos deste Regulamento e do respectivo Suplemento. 1.4.1 Fica esclarecido que, para fins deste Regulamento e de seus Anexos , o termo “resgate”, quando aqui utilizado, refere -se à amortização integral com o consequente cancelamento das Cotas, tendo em vista que se trata de Fundo…",
+      "maturity": "ra, como indispensáveis para a interpretação das demonstrações financeiras. 7.3.1. O exercício social do Fundo tem duração de 1 (um) ano e encerra -se na data especificada no Anexo Definições Específicas da Classe. 7.4 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "tas; (ii) contratação de formador de mercado e o término da prestação desse serviço; (iii) contratação ou substituição da Agência Classificadora de Risco, se houver; (iv) redução da classificação de risco de qualquer Subclasse da Classe Única, se houver; (v) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vi) fusão, incorporação, cisão ou transformação da Classe Única; (vii) alteração…",
+      "source_document": "1130481_regulamento_regulamento_1130481_2026-03-05.pdf",
+      "source_document_id": 1130481
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES DA",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "rá o procedimento de coleta de intenção de investimentos junto aos Investidores Profissionais, via ordem de investimento, para a verificação (a) da demanda pelas Cotas Subordinadas Mezanino A, Cotas Subordinadas Mezanino B e Cotas Subordinadas Mezanino C, objeto da Oferta, sem lotes mínimos ou máximos; e (b) da meta de remuneração ( benchmark) final das Cotas Seniores, observada a taxa piso de 1 ,10% (um inteiro e d…",
+      "amortization_schedule": "",
+      "maturity": "INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 63.546.406/0001-94 (“ Classe” ou “ Emissora”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CRED…",
+      "source_excerpt": "Corporativo | Interno AVISO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO A DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO B DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO C DA 1ª (PRIMEIRA) SÉRIE E COTAS SUBORDINADAS JÚNIOR DA CLASSE ÚNICA DE COTAS DO PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RE…",
+      "source_document": "1130507_emissao_emissao_1130507_2026-03-05.pdf",
+      "source_document_id": 1130507
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "COTAS SENIORES DA",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "ÇO DE 2026 A 01º DE ABRIL DE 2026, O PROCEDIMENTO DE PRECIFICAÇÃO DAS COTAS SENIORES ( BOOKBUILDING) E DE VERIFICAÇÃO DA DEMANDA PELAS COTAS SUBORDINADAS MEZANINO, ORGANIZADO PELO COORDENADOR LÍDER, NO ÂMBITO DA OFERTA PÚBLICA PRIMÁRIA EM PROCESSO DE REGISTRO AUTOMÁTICO PERANTE A CVM, E FOI DEFINIDA A SEGUINTE TAXA DE REMUNERAÇÃO DAS COTAS SENIORES E VOLUME DAS COTAS SUBORDINADAS MEZANINO: Taxa de Remuneração das Co…",
+      "amortization_schedule": "",
+      "maturity": "INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“ CNPJ”) sob o nº 63.546.406/0001-94 (“ Classe” ou “ Emissora”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CRE…",
+      "source_excerpt": "COMUNICADO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO A DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO B DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO C DA 1ª (PRIMEIRA) SÉRIE E COTAS SUBORDINADAS JÚNIOR DA CLASSE ÚNICA DE COTAS DO PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LI…",
+      "source_document": "1156948_evento_evento_1156948_2026-04-02.pdf",
+      "source_document_id": 1156948
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES DA",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "NSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“ CNPJ”) sob o nº 63.546.406/0001 -94 (“ Classe” ou “ Emissora”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CRE…",
+      "source_excerpt": "ANÚNCIO DE INÍCIO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO A DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO B DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO C DA 1ª (PRIMEIRA) SÉRIE E COTAS SUBORDINADAS JÚNIOR DA CLASSE ÚNICA DE COTAS DO PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITA…",
+      "source_document": "1171276_emissao_emissao_1171276_2026-04-09.pdf",
+      "source_document_id": 1171276
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES DA",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "NSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“ CNPJ”) sob o nº 63.546.406/0001 -94 (“ Classe” ou “ Emissora”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CRE…",
+      "source_excerpt": "ESTE ANÚNCIO É DE CARÁTER EXCLUSIVAMENTE INFORMATIVO, NÃO SE TRATANDO DE OFERTA DE VENDA DE VALORES MOBILIÁRIOS. ANÚNCIO DE ENCERRAMENTO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO A DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO B DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO C DA 1ª (PRIMEIRA) SÉRIE E COTAS SUBORDINADAS…",
+      "source_document": "1162293_emissao_emissao_1162293_2026-04-13.pdf",
+      "source_document_id": 1162293
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "COTAS SENIORES DA",
+      "amount": 1250000000.0,
+      "amount_display": "R$ 1.250.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "NSS III FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA , classe de investimento em direitos creditórios inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“ CNPJ”) sob o nº 63.546.406/0001 -94 (“ Classe” ou “ Emissora”), constituída sob a forma de condomínio fechado, com prazo indeterminado de duração, pertencente ao PINE INSS III FUNDO DE INVESTIMENTO EM DIREITOS CRE…",
+      "source_excerpt": "ESTE ANÚNCIO É DE CARÁTER EXCLUSIVAMENTE INFORMATIVO, NÃO SE TRATANDO DE OFERTA DE VENDA DE VALORES MOBILIÁRIOS. ANÚNCIO DE ENCERRAMENTO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO DE COTAS SENIORES DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO A DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO B DA 1ª (PRIMEIRA) SÉRIE, COTAS SUBORDINADAS MEZANINO C DA 1ª (PRIMEIRA) SÉRIE E COTAS SUBORDINADAS…",
+      "source_document": "1172101_emissao_emissao_1172101_2026-04-22.pdf",
+      "source_document_id": 1172101
+    }
+  ],
+  "extraction_count": 9,
+  "extraction_errors": []
+}

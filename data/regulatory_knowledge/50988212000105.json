@@ -1,0 +1,2248 @@
+{
+  "schema_version": 1,
+  "fund_name": "CARTÃO DE COMPRA SUPPLIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS II-RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "50.988.212/0001-05",
+  "generated_at": "2026-05-10T03:09:44Z",
+  "documents": [
+    {
+      "id": 505364,
+      "categoria": "Outras Informações",
+      "tipo": "Outros Documentos",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "30/06/2023",
+      "data_entrega": "11/08/2023 14:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 552623,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2023",
+      "data_entrega": "14/11/2023 11:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 525792,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "22/09/2023",
+      "data_entrega": "22/09/2023 19:43",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/525792_regulamento_regulamento_525792_2023-09-22.pdf"
+    },
+    {
+      "id": 525794,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "22/09/2023",
+      "data_entrega": "22/09/2023 19:47",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/525794_regulamento_regulamento_525794_2023-09-22.pdf"
+    },
+    {
+      "id": 530370,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Início",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "29/09/2023",
+      "data_entrega": "02/10/2023 10:10",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/530370_emissao_emissao_530370_2023-09-29.pdf"
+    },
+    {
+      "id": 532694,
+      "categoria": "Oferta Pública de Distribuição de Cotas",
+      "tipo": "Anúncio de Encerramento",
+      "especie": "",
+      "classification": "emissao",
+      "data_referencia": "06/10/2023",
+      "data_entrega": "09/10/2023 10:10",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/532694_emissao_emissao_532694_2023-10-06.pdf"
+    },
+    {
+      "id": 560274,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "03/11/2023 10:00",
+      "data_entrega": "28/11/2023 16:40",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/560274_assembleia_assembleia_560274_2023-11-03.pdf"
+    },
+    {
+      "id": 560278,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "03/11/2023",
+      "data_entrega": "28/11/2023 16:41",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/560278_regulamento_regulamento_560278_2023-11-03.pdf"
+    },
+    {
+      "id": 563739,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "27/11/2023 17:00",
+      "data_entrega": "05/12/2023 11:16",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/563739_assembleia_assembleia_563739_2023-11-27.pdf"
+    },
+    {
+      "id": 563742,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "27/11/2023",
+      "data_entrega": "05/12/2023 11:19",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/563742_regulamento_regulamento_563742_2023-11-27.pdf"
+    },
+    {
+      "id": 563748,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "01/12/2023 17:00",
+      "data_entrega": "05/12/2023 11:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/563748_assembleia_assembleia_563748_2023-12-01.pdf"
+    },
+    {
+      "id": 563751,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "01/12/2023",
+      "data_entrega": "05/12/2023 11:28",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/563751_regulamento_regulamento_563751_2023-12-01.pdf"
+    },
+    {
+      "id": 602432,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2023",
+      "data_entrega": "14/02/2024 15:55",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 572310,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "14/12/2023 10:00",
+      "data_entrega": "18/12/2023 16:01",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/572310_assembleia_assembleia_572310_2023-12-14.pdf"
+    },
+    {
+      "id": 594597,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2023",
+      "data_entrega": "01/02/2024 19:46",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 661385,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2024",
+      "data_entrega": "15/05/2024 09:58",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 686900,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "17/05/2024 10:00",
+      "data_entrega": "26/06/2024 12:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/686900_assembleia_assembleia_686900_2024-05-17.pdf"
+    },
+    {
+      "id": 668399,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "23/05/2024 10:00",
+      "data_entrega": "24/05/2024 19:18",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/668399_assembleia_assembleia_668399_2024-05-23.pdf"
+    },
+    {
+      "id": 718160,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2024",
+      "data_entrega": "14/08/2024 15:33",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 703755,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "22/07/2024 10:00",
+      "data_entrega": "24/07/2024 16:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/703755_assembleia_assembleia_703755_2024-07-22.pdf"
+    },
+    {
+      "id": 783451,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2024",
+      "data_entrega": "18/11/2024 21:39",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 743210,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "19/09/2024 10:00",
+      "data_entrega": "24/09/2024 11:20",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/743210_assembleia_assembleia_743210_2024-09-19.pdf"
+    },
+    {
+      "id": 743214,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "19/09/2024",
+      "data_entrega": "24/09/2024 11:21",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/743214_regulamento_regulamento_743214_2024-09-19.pdf"
+    },
+    {
+      "id": 1013021,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "14/11/2024",
+      "data_entrega": "14/10/2025 15:29",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/1013021_regulamento_regulamento_1013021_2024-11-14.pdf"
+    },
+    {
+      "id": 841371,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2024",
+      "data_entrega": "14/02/2025 18:25",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 827024,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2024",
+      "data_entrega": "29/01/2025 22:45",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 847597,
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "25/02/2025 10:00",
+      "data_entrega": "25/02/2025 19:03",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/847597_assembleia_assembleia_847597_2025-02-25.pdf"
+    },
+    {
+      "id": 904642,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "03/2025",
+      "data_entrega": "15/05/2025 14:34",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 860470,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "17/03/2025 10:00",
+      "data_entrega": "17/03/2025 19:01",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/860470_assembleia_assembleia_860470_2025-03-17.pdf"
+    },
+    {
+      "id": 969108,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "06/2025",
+      "data_entrega": "14/08/2025 09:17",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 950312,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "21/07/2025 12:00",
+      "data_entrega": "21/07/2025 18:39",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/950312_assembleia_assembleia_950312_2025-07-21.pdf"
+    },
+    {
+      "id": 955275,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "28/07/2025 17:00",
+      "data_entrega": "29/07/2025 16:58",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/955275_assembleia_assembleia_955275_2025-07-28.pdf"
+    },
+    {
+      "id": 961955,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "06/08/2025 17:00",
+      "data_entrega": "07/08/2025 18:21",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/961955_assembleia_assembleia_961955_2025-08-06.pdf"
+    },
+    {
+      "id": 963870,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "08/08/2025 17:00",
+      "data_entrega": "11/08/2025 10:51",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/963870_assembleia_assembleia_963870_2025-08-08.pdf"
+    },
+    {
+      "id": 975860,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "21/08/2025 17:00",
+      "data_entrega": "21/08/2025 19:53",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/975860_assembleia_assembleia_975860_2025-08-21.pdf"
+    },
+    {
+      "id": 1037341,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "09/2025",
+      "data_entrega": "13/11/2025 19:08",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 986754,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "05/09/2025 10:00",
+      "data_entrega": "08/09/2025 19:38",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/986754_assembleia_assembleia_986754_2025-09-05.pdf"
+    },
+    {
+      "id": 1111910,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "12/02/2026 19:50",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1098450,
+      "categoria": "Informes Periódicos",
+      "tipo": "Demonstrações Financeiras",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "31/12/2025",
+      "data_entrega": "30/01/2026 23:13",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1094865,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "27/01/2026 11:00",
+      "data_entrega": "28/01/2026 18:32",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/50988212000105/1094865_assembleia_assembleia_1094865_2026-01-27.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "pelo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo , apurada diariamente pelo Custodiante (exemplo: se…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "trimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo , apurada diariamente pelo Custodiante (exemplo: se Alocação Mínima de Investimento = 0,50, entã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "s descritos no Contrato de Cessão. 4.4. A Administradora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Af iliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, Liquidez e correta formalização, observados os termos do item (11.9.1) do Capítulo XI. 4.5. Observado o disposto no item ( 4.2) deste Capítulo e respeitada a Alo…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "ancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; - 51 - i) caso o Fundo deixe de atender à Reserva de Caixa, à Reserva de Liquidez, à Alo…",
+      "source_excerpt": "ancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; - 51 - i) caso o Fundo deixe de atender à Reserva de Caixa, à Reserva de Liquidez, à Alo…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "Patrimônio Líquido, não investido em Direitos Credit órios, em qualquer das seguintes modalidades de investimento: a) Títulos públicos; b) Certificados de depósito bancário (“CDB”); ou c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6. É vedado ao Fundo realizar operações nos mercados de deriva…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "de com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434 , bloco 07 , sala 20 2 , Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001 - 20 ; 9) “ Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios ; 10) “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "elo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do P atrimônio L íquido do Fundo , apurada diariamente pelo Custodiante (exemplo: se…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "imônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do P atrimônio L íquido do Fundo , apurada diariamente pelo Custodiante (exemplo: se Alocação Mínima de Investimento = 0,50, entã…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "scritos no Contrato de Cessão. 4.4. A Administradora , o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Af iliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, Liquidez e correta formalização, observados os termos do item ( 11.9.1 ) do Capítulo XI. 4.5. Observado o disposto no item ( 4.2 ) deste Capítulo e respeitada a Alo…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "stradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; DocuSign Envelope ID: C0D9A1A0-6CF1-4E00-8005-57089353FCAA - 51 - i) caso o Fundo deixe de a tender à Reserva de Caixa, à Reserva de Liquidez, à Al…",
+      "source_excerpt": "stradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; DocuSign Envelope ID: C0D9A1A0-6CF1-4E00-8005-57089353FCAA - 51 - i) caso o Fundo deixe de a tender à Reserva de Caixa, à Reserva de Liquidez, à Al…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "imônio L íquido, não investido em Direitos Credit órios, em qualquer das seguintes modalidades de investimento : a) Títulos públicos; b) Certificados de depósito bancário (“ CDB ”); ou c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do P atrimônio Líquido do fundo investido. 4.6. É vedado ao Fundo realizar operações nos mercados de deriv…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "99ED7F6-37EB-424F-A6F6-566104F51534 - 23 - 4.4. A Administradora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Afiliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, Liquidez e correta formalização, observados os termos do item (11.9.1) do Capítulo XI. 4.5. Observado o disposto no item (4.2) deste Capítulo e respeitada…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.955,
+      "threshold_unit": "ratio",
+      "threshold_display": "95,5%",
+      "comparison": ">=",
+      "formula_text": "e excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem CotasSeniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cent…",
+      "source_excerpt": "e excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem CotasSeniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cent…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "to de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Caixa, à Reserva de Liquid…",
+      "source_excerpt": "to de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Caixa, à Reserva de Liquid…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.1,
+      "threshold_unit": "ratio",
+      "threshold_display": "10%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "cessão de acordo com o prazo médio ponderado pelo valor de face truncado, em dias úteis, dos títulos ofertados. SpreadSen Conforme definido no item (16.1 abaixo ECT Excesso de Caixa Target de 10% Reserva de Despesas Equivalente a 0.4% a.a. DocuSign Envelope ID: A99ED7F6-37EB-424F-A6F6-566104F51534 - 22 - CAPÍTULO III DA NATUREZA DO FUNDO 3.1. O Fundo é uma comunhão de recursos destinados à aquisição preponderante de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "ntes, que atendam aos Critérios de Elegibilidade, observados todos os índices de composição e diversificação da carteira estabelecidos neste Regulamento. Em caráter complementar, o Fundo aplicará seus recursos em Outros Ativos. 4.2. O Fundo deverá ter alocado, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu patrimônio em Direitos Creditórios, observada, ainda, a alocação de recursos p…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Cai…",
+      "source_excerpt": "Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Cai…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "r ou aplicar a totalidade do saldo remanescente de seu Patrimônio Líquido, não investido em Direitos Creditórios, em qualquer das seguintes modalidades de investimento: a) Títulos públicos; b) CDB c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6. É vedado ao Fundo realizar operações nos mercad…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o e no Contrato de Cobrança 8) Agente de Controladoria: Oliveira Trust Servicer S.A., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) Agente de Financiamentointermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "os; 10) Alocação Mínima de Investimentocento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo, apurada diariamente pelo Custodiante (exempl…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo, apurada diariamente pelo Custodiante (exemplo: se Alocação Mínima de Investimento = 0,50,…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": ", nos termos descritos no Contrato de Cessão. 4.4. A Administradora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Afiliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, Liquidez e correta formalização, observados os termos do item (11.9.1) do Capítulo XI. 4.5. Observado o disposto no item (4.2) deste Capítulo e respeit…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.955,
+      "threshold_unit": "ratio",
+      "threshold_display": "95,5%",
+      "comparison": ">=",
+      "formula_text": "excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem Cotas Seniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cento…",
+      "source_excerpt": "excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem Cotas Seniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cento…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.95,
+      "threshold_unit": "ratio",
+      "threshold_display": "95%",
+      "comparison": ">=",
+      "formula_text": "e Garantiasomatório do valor atualizado das Cotas Seniores, deduzido o valor dos Outros Ativos, e o denominador é o valor do Patrimônio Líquido, deduzido o valor dos Outros Ativos, apurada diariamente pelo Custodiante (exemplo: se Razão de Garantia for 0,95, então Razão de Garantia = 95%); 104) Regulamento DocuSign Envelope ID: F57E30BA-D278-460C-83E2-B3F9ABB750F7 14 105) Reserva de Caixa20.3) do Capítulo XXIII; 106…",
+      "source_excerpt": "e Garantiasomatório do valor atualizado das Cotas Seniores, deduzido o valor dos Outros Ativos, e o denominador é o valor do Patrimônio Líquido, deduzido o valor dos Outros Ativos, apurada diariamente pelo Custodiante (exemplo: se Razão de Garantia for 0,95, então Razão de Garantia = 95%); 104) Regulamento DocuSign Envelope ID: F57E30BA-D278-460C-83E2-B3F9ABB750F7 14 105) Reserva de Caixa20.3) do Capítulo XXIII; 106…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "os índices de composição e diversificação da carteira estabelecidos neste Regulamento. Em caráter complementar, o Fundo aplicará seus recursos em Outros Ativos. DocuSign Envelope ID: F57E30BA-D278-460C-83E2-B3F9ABB750F7 16 4.2. O Fundo deverá ter alocado, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu patrimônio em Direitos Creditórios, observada, ainda, a alocação de recursos para a…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Cai…",
+      "source_excerpt": "Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i) caso o Fundo deixe de atender à Reserva de Cai…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "r ou aplicar a totalidade do saldo remanescente de seu Patrimônio Líquido, não investido em Direitos Creditórios, em qualquer das seguintes modalidades de investimento: a) Títulos públicos; b) CDB c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6. É vedado ao Fundo realizar operações nos mercad…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "t Servicer S.A., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9)Agente de FinanciamentoInstituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditório…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "menos, 50% (cinquenta por cento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo, apurada diariamente pelo Custodiante - 10 - (exemplo: se…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "o Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade do Fundo e o denominador equivalente ao valor do Patrimônio Líquido do Fundo, apurada diariamente pelo Custodiante - 10 - (exemplo: se Alocação Mínima de Investimento = 0,50, então…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "os descritos no Contrato de Cessão. - 24 - 4.4.A Administradora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Afiliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, Liquidez e correta formalização, observados os termos do item (11.9.1) do Capítulo XI. 4.5.Observado o disposto no item (4.2) deste Capítulo e respeitada a…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.955,
+      "threshold_unit": "ratio",
+      "threshold_display": "95,5%",
+      "comparison": ">=",
+      "formula_text": "e excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem CotasSeniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cent…",
+      "source_excerpt": "e excluído o direito de voto ou veto para essa classe de Cotas, com referência a qualquer outra matéria. Na hipótese de inexistirem Cotas Seniores em Circulação, as Cotas Subordinadas poderão votar em qualquer matéria nas Assembleias Gerais. 14.7. Enquanto existirem CotasSeniores em Circulação, a Razão de Garantia Sênior deverá ser equivalente a, no máximo, 95,5% (noventa e cinco inteiros e cinco centésimos por cent…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.95,
+      "threshold_unit": "ratio",
+      "threshold_display": "95%",
+      "comparison": ">=",
+      "formula_text": "reditórios Elegíveis ao Fundo, captando recursos para suas atividades; 103)Razão de Garantiavalor atualizado das Cotas Seniores, deduzido o valor dos Outros Ativos, e o denominador é o valor do Patrimônio Líquido, deduzido o valor dos Outros Ativos, apurada diariamente pelo Custodiante (exemplo: se Razão de Garantia for 0,95, então Razão de Garantia = 95%); 104)Regulamento 105)Reserva de Caixa20.3) do Capítulo XXIII…",
+      "source_excerpt": "reditórios Elegíveis ao Fundo, captando recursos para suas atividades; 103)Razão de Garantiavalor atualizado das Cotas Seniores, deduzido o valor dos Outros Ativos, e o denominador é o valor do Patrimônio Líquido, deduzido o valor dos Outros Ativos, apurada diariamente pelo Custodiante (exemplo: se Razão de Garantia for 0,95, então Razão de Garantia = 95%); 104)Regulamento 105)Reserva de Caixa20.3) do Capítulo XXIII…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "entes, que atendam aos Critérios de Elegibilidade, observados todos os índices de composição e diversificação da carteira estabelecidos neste Regulamento. Em caráter complementar, o Fundo aplicará seus recursos em Outros Ativos. 4.2.O Fundo deverá ter alocado, no mínimo, 50% (cinquenta por cento), e, no máximo, 100% (cem por cento) de seu patrimônio em Direitos Creditórios, observada, ainda, a alocação de recursos p…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "e Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h)renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i)caso o Fundo deixe de atender à Reserva de Cai…",
+      "source_excerpt": "e Cobrança e/ou no Contrato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h)renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Regulamento, ou sua não substituição, nos termos deste Regulamento; i)caso o Fundo deixe de atender à Reserva de Cai…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "anter ou aplicar a totalidade do saldo remanescente de seu Patrimônio Líquido, não investido em Direitos Creditórios, em qualquer das seguintes modalidades de investimento: a)Títulos públicos; b)CDB c)Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6.É vedado ao Fundo realizar operações nos mercad…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade da Classe Única e o denominador equivalente ao valor do Patrimônio Líquido d a Classe Única , apurada diariamente pelo Custodiante (exemplo: se…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "sse Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade da Classe Única e o denominador equivalente ao valor do Patrimônio Líquido d a Classe Única , apurada diariamente pelo Custodiante (exemplo: se Alocação Mínima de Investimento = 0,50, então…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "no Contrato de Cessão. 4.4. A Administradora, a Gestora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Afiliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, liquidez e correta formalização, observados os termos do item (12.6.) do Capítulo XII. 4.5. Observado o disposto no item ( 4.2) deste Capítulo e respeitada a Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "e de Investimento, nos termos da Resolução do Conselho Monetário 54 Nacional n º 5.111, de 21 de dezembro de 2023, não é possível garantir que estes ativos e, consequentemente, o Fundo recebam o tratamento tributário destinado ao Regime Específico dos Fundos N ão Sujeitos à Tributação Periódica, o que poder á afetar a tributa ção do Fundo e, consequentemente, a sua rentabilidade. Se mantido o enquadramento da Alocaç…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "Elegibilidade, observados todos os índices de composição e diversificação da carteira estabelecidos neste Anexo Descritivo . Em caráter complementar, a Classe Única aplicará seus recursos em Outros Ativos. 4.2. A Classe Única deverá ter alocado, no mínimo, 67% (sessenta e sete por cento) , e, no máximo, 100% (cem por cento) de seu patrimônio em Direitos Creditórios, observada, ainda, a alocação de recursos para a Re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "ato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Anexo Descritivo, ou sua não substituição, nos termos deste Anexo Descritivo; i) caso a Classe Única deixe de atender à Reserva de Caixa, à…",
+      "source_excerpt": "ato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Anexo Descritivo, ou sua não substituição, nos termos deste Anexo Descritivo; i) caso a Classe Única deixe de atender à Reserva de Caixa, à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "rimônio Líquido, não investido em Direitos Creditórios, em qualquer das seguintes modalidades de investimento: a) Títulos públicos; b) Certificados de depósito bancário (“CDB”); ou c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6. É vedado à Classe Única realizar operações nos mercados de deri…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade da Classe Única e o denominador equivalente ao valor do Patrimônio Líquido d a Classe Única , apurada diariamente pelo Custodiante (exemplo: se…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "sse Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valor presente contábil dos Direitos Creditórios Elegíveis de titularidade da Classe Única e o denominador equivalente ao valor do Patrimônio Líquido d a Classe Única , apurada diariamente pelo Custodiante (exemplo: se Alocação Mínima de Investimento = 0,50, então…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "no Contrato de Cessão. 4.4. A Administradora, a Gestora, o Custodiante, o(s) Distribuidor(es) e/ou qualquer de suas Afiliadas não respondem pela solvência dos Titulares, pelo pagamento dos Direitos Creditórios cedidos ou por sua existência, exigibilidade, liquidez e correta formalização, observados os termos do item (12.6.) do Capítulo XII. 4.5. Observado o disposto no item ( 4.2) deste Capítulo e respeitada a Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "e de Investimento, nos termos da Resolução do Conselho Monetário 54 Nacional n º 5.111, de 21 de dezembro de 2023, não é possível garantir que estes ativos e, consequentemente, o Fundo recebam o tratamento tributário destinado ao Regime Específico dos Fundos N ão Sujeitos à Tributação Periódica, o que poder á afetar a tributa ção do Fundo e, consequentemente, a sua rentabilidade. Se mantido o enquadramento da Alocaç…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "Elegibilidade, observados todos os índices de composição e diversificação da carteira estabelecidos neste Anexo Descritivo . Em caráter complementar, a Classe Única aplicará seus recursos em Outros Ativos. 4.2. A Classe Única deverá ter alocado, no mínimo, 67% (sessenta e sete por cento) , e, no máximo, 100% (cem por cento) de seu patrimônio em Direitos Creditórios, observada, ainda, a alocação de recursos para a Re…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Reserva ou caixa mínimo",
+      "canonical_key": "minimum_cash_ratio",
+      "event_type": "enquadramento",
+      "threshold_value": 0.15,
+      "threshold_unit": "ratio",
+      "threshold_display": "15%",
+      "comparison": ">=",
+      "formula_text": "ato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Anexo Descritivo, ou sua não substituição, nos termos deste Anexo Descritivo; i) caso a Classe Única deixe de atender à Reserva de Caixa, à…",
+      "source_excerpt": "ato de Cobrança Bancária, e tal evento possa, a critério exclusivo da Administradora, afetar a boa ordem legal, administrativa e operacional do Programa de Securitização; h) renúncia da Administradora, com a não assunção de suas funções por uma nova instituição, nos termos deste Anexo Descritivo, ou sua não substituição, nos termos deste Anexo Descritivo; i) caso a Classe Única deixe de atender à Reserva de Caixa, à…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Disponibilidades / PL ou Disponibilidades / amortização estimada",
+        "rationale": "O Informe Mensal traz caixa, mas cronogramas futuros e reservas regulatórias nem sempre são campos padronizados."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": 0.2,
+      "threshold_unit": "ratio",
+      "threshold_display": "20%",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "rimônio Líquido, não investido em Direitos Creditórios, em qualquer das seguintes modalidades de investimento: a) Títulos públicos; b) Certificados de depósito bancário (“CDB”); ou c) Fundos de investimento que investem em títulos públicos ou CDB, desde que a participação neste fundo não seja superior a 20% do Patrimônio Líquido do fundo investido. 4.6. É vedado à Classe Única realizar operações nos mercados de deri…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão , as informações necessárias para que o Custod…",
+      "source_excerpt": "dimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão , as informações necessárias para que o Custod…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "das e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aqu isição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, d o at…",
+      "source_excerpt": "das e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aqu isição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, d o at…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "rações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. - 20 - 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anterior, a alte…",
+      "source_excerpt": "rações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. - 20 - 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anterior, a alte…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ido expressamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com o Fundo e o Custodiante , cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança”: Significa o Cedente, a ser contratado pelo Administrador, em nome do Fundo, para ser respo…",
+      "source_excerpt": "ido expressamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com o Fundo e o Custodiante , cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança”: Significa o Cedente, a ser contratado pelo Administrador, em nome do Fundo, para ser respo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "4, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrim…",
+      "source_excerpt": "4, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrim…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valo…",
+      "source_excerpt": "pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao valo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 17) “Bacen”: Banco Central do Brasil; 18) “Base de Dados do Fundo”: base de dados, atualizada diariamente pelo Custodiante, contendo certas info…",
+      "source_excerpt": "Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 17) “Bacen”: Banco Central do Brasil; 18) “Base de Dados do Fundo”: base de dados, atualizada diariamente pelo Custodiante, contendo certas info…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "de crédito seguida pelos Cedentes, descrita resumidamente no Anexo II e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração dos Contratos de Cessão; 101) “Potencial de Cessão ”: o valor das disponibilidades, em moeda corrente nacional, de titularidade do Fundo, apurado em cada Data de Oferta, que, observadas as disposições do presente Regulamento, possa ser uti…",
+      "source_excerpt": "de crédito seguida pelos Cedentes, descrita resumidamente no Anexo II e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração dos Contratos de Cessão; 101) “Potencial de Cessão ”: o valor das disponibilidades, em moeda corrente nacional, de titularidade do Fundo, apurado em cada Data de Oferta, que, observadas as disposições do presente Regulamento, possa ser uti…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "os Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item ( 5.2 ) acima, ser á efetuad a pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pel o respectivo Cedente , no respectivo Layout de Cessão . 5 .2.1.1 Caberá ao respectivo Cedente encaminhar , no respectivo Layout de Cessão , as informações necessárias para que o Custod…",
+      "source_excerpt": "os Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item ( 5.2 ) acima, ser á efetuad a pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pel o respectivo Cedente , no respectivo Layout de Cessão . 5 .2.1.1 Caberá ao respectivo Cedente encaminhar , no respectivo Layout de Cessão , as informações necessárias para que o Custod…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "as e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade , após o pagamento de Preço de Aqu isição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, d o at…",
+      "source_excerpt": "as e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade , após o pagamento de Preço de Aqu isição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, d o at…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": ", contado do recebimento da notificação que o info rme sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item ( 11.6 ) deste Regulamento. DocuSign Envelope ID: C0D9A1A0-6CF1-4E00-8005-57089353FCAA - 20 - 5.7.1. Na hipótese d e o Custodiante requerer o término do Contrato de Custódia, nos termos do item ( 5.7 ) anterior, a alt…",
+      "source_excerpt": ", contado do recebimento da notificação que o info rme sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item ( 11.6 ) deste Regulamento. DocuSign Envelope ID: C0D9A1A0-6CF1-4E00-8005-57089353FCAA - 20 - 5.7.1. Na hipótese d e o Custodiante requerer o término do Contrato de Custódia, nos termos do item ( 5.7 ) anterior, a alt…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "expressamente autorizado a atuar em nome da referida Pessoa; 6) “ Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com o Fundo e o Custodiante , cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “ Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Administrador, em nome do Fundo, para ser respon…",
+      "source_excerpt": "expressamente autorizado a atuar em nome da referida Pessoa; 6) “ Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com o Fundo e o Custodiante , cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “ Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Administrador, em nome do Fundo, para ser respon…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "07 , sala 20 2 , Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001 - 20 ; 9) “ Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios ; 10) “ Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrim…",
+      "source_excerpt": "07 , sala 20 2 , Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001 - 20 ; 9) “ Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios ; 10) “ Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrim…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "elo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios ; 10) “ Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao val…",
+      "source_excerpt": "elo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios ; 10) “ Alocação Mínima de Investimento ”: Significa a alocação de, pelo menos, 50% (cinquenta por cent o) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao val…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "pread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30 , DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo , conforme previsto no item ( 22.1 ) do Capítulo XX II ; 16) “ B3 ”: B3 S.A. – Brasil, Bolsa, Balcão; 17) “ Bacen ”: Banco Central do Brasil; 18) “ Base de Dados do Fundo ”: base de dados, atualizada diariamente pelo Custodiante, contendo certas info…",
+      "source_excerpt": "pread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30 , DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo , conforme previsto no item ( 22.1 ) do Capítulo XX II ; 16) “ B3 ”: B3 S.A. – Brasil, Bolsa, Balcão; 17) “ Bacen ”: Banco Central do Brasil; 18) “ Base de Dados do Fundo ”: base de dados, atualizada diariamente pelo Custodiante, contendo certas info…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dito seguida pelos Cedente s, descrita resumidamente no Anexo I I e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração do s Contrato s de Cessão; 101) “ Potencial de Cessão ”: o valor das disponibilidades, em moeda corrente nacional, de titularidade do Fundo, apurado em cada Data de Oferta , que, observadas as disposições do presente Regulamento , possa ser ut…",
+      "source_excerpt": "dito seguida pelos Cedente s, descrita resumidamente no Anexo I I e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração do s Contrato s de Cessão; 101) “ Potencial de Cessão ”: o valor das disponibilidades, em moeda corrente nacional, de titularidade do Fundo, apurado em cada Data de Oferta , que, observadas as disposições do presente Regulamento , possa ser ut…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…",
+      "source_excerpt": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "sas controladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditó…",
+      "source_excerpt": "sas controladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditó…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "orde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…",
+      "source_excerpt": "orde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "PRÉXDI válida no dia da cessão de acordo com o prazo médio ponderado pelo valor de face truncado, em dias úteis, dos títulos ofertados. SpreadSen Conforme definido no item (16.1 abaixo ECT Excesso de Caixa Target de 10% Reserva de Despesas Equivalente a 0.4% a.a. DocuSign Envelope ID: A99ED7F6-37EB-424F-A6F6-566104F51534 - 22 - CAPÍTULO III DA NATUREZA DO FUNDO 3.1. O Fundo é uma comunhão de recursos destinados à aq…",
+      "source_excerpt": "PRÉXDI válida no dia da cessão de acordo com o prazo médio ponderado pelo valor de face truncado, em dias úteis, dos títulos ofertados. SpreadSen Conforme definido no item (16.1 abaixo ECT Excesso de Caixa Target de 10% Reserva de Despesas Equivalente a 0.4% a.a. DocuSign Envelope ID: A99ED7F6-37EB-424F-A6F6-566104F51534 - 22 - CAPÍTULO III DA NATUREZA DO FUNDO 3.1. O Fundo é uma comunhão de recursos destinados à aq…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "títulos ofertados. SpreadSen Conforme definido no item (16.1 abaixo ECT Excesso de Caixa Target de 10% Reserva de Despesas Equivalente a 0.4% a.a. DocuSign Envelope ID: A99ED7F6-37EB-424F-A6F6-566104F51534 - 22 - CAPÍTULO III DA NATUREZA DO FUNDO 3.1. O Fundo é uma comunhão de recursos destinados à aquisição preponderante de Direitos Creditórios Elegíveis de acordo com a política de investimento descrita no Capítulo…",
+      "source_excerpt": "títulos ofertados. SpreadSen Conforme definido no item (16.1 abaixo ECT Excesso de Caixa Target de 10% Reserva de Despesas Equivalente a 0.4% a.a. DocuSign Envelope ID: A99ED7F6-37EB-424F-A6F6-566104F51534 - 22 - CAPÍTULO III DA NATUREZA DO FUNDO 3.1. O Fundo é uma comunhão de recursos destinados à aquisição preponderante de Direitos Creditórios Elegíveis de acordo com a política de investimento descrita no Capítulo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "belece que o Fundo deve destinar-se, primordialmente, à aplicação em Direitos Creditórios. Nesse sentido, a continuidade do Fundo pode ser comprometida, independentemente de qualquer expectativa por parte de Cotistas quanto ao tempo de duração de seus investimentos no Fundo, em função da descontinuidade das operações regulares dos Cedentes, da Supplier, da capacidade dos Cedentes e/ou da Supplier, nos termos do Cont…",
+      "source_excerpt": "belece que o Fundo deve destinar-se, primordialmente, à aplicação em Direitos Creditórios. Nesse sentido, a continuidade do Fundo pode ser comprometida, independentemente de qualquer expectativa por parte de Cotistas quanto ao tempo de duração de seus investimentos no Fundo, em função da descontinuidade das operações regulares dos Cedentes, da Supplier, da capacidade dos Cedentes e/ou da Supplier, nos termos do Cont…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "s integrantes da carteira do Fundo, eventualmente recebidos pelos Cedentes, também poderão afetar negativamente os resultados do Fundo. p) Risco dos Cedentes. Qualquer um dos Cedentes, sem prejuízo das penalidades previstas no respectivo Contrato de Cessão, pode, a qualquer momento, deixar de ceder Direitos Creditórios ao Fundo. Assim, o Fundo poderá ser adversamente afetado na hipótese de descontinuidade das operaç…",
+      "source_excerpt": "s integrantes da carteira do Fundo, eventualmente recebidos pelos Cedentes, também poderão afetar negativamente os resultados do Fundo. p) Risco dos Cedentes. Qualquer um dos Cedentes, sem prejuízo das penalidades previstas no respectivo Contrato de Cessão, pode, a qualquer momento, deixar de ceder Direitos Creditórios ao Fundo. Assim, o Fundo poderá ser adversamente afetado na hipótese de descontinuidade das operaç…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ito atestada e receba os recursos referentes aos Direitos Creditórios cedidos. A rentabilidade do Fundo poderá ser afetada negativamente, seja pelos custos, seja pela demora no julgamento da ação. 12.4. Quanto aos riscos de Mercado, destacam-se, de forma não taxativa: a) Descasamento de Rentabilidade. A distribuição dos rendimentos da carteira do Fundo para as Cotas pode ter parâmetros diferentes daqueles utilizados…",
+      "source_excerpt": "ito atestada e receba os recursos referentes aos Direitos Creditórios cedidos. A rentabilidade do Fundo poderá ser afetada negativamente, seja pelos custos, seja pela demora no julgamento da ação. 12.4. Quanto aos riscos de Mercado, destacam-se, de forma não taxativa: a) Descasamento de Rentabilidade. A distribuição dos rendimentos da carteira do Fundo para as Cotas pode ter parâmetros diferentes daqueles utilizados…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…",
+      "source_excerpt": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "sas controladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditó…",
+      "source_excerpt": "sas controladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditó…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "orde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…",
+      "source_excerpt": "orde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1. Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ministradora, por conta e ordem do Fundo, responsável pela classificação de risco das Cotas Seniores; 5) Agentemandatário de qualquer Pessoa que tenha sido expressamente autorizado a atuar em nome da referida Pessoa; 6) Agente Cobrador BancárioFundo e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) Agente de CobrançaFundo, para ser…",
+      "source_excerpt": "ministradora, por conta e ordem do Fundo, responsável pela classificação de risco das Cotas Seniores; 5) Agentemandatário de qualquer Pessoa que tenha sido expressamente autorizado a atuar em nome da referida Pessoa; 6) Agente Cobrador BancárioFundo e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) Agente de CobrançaFundo, para ser…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ladoria: Oliveira Trust Servicer S.A., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) Agente de Financiamentointermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) Alocação Mínima de Investimentocento) do…",
+      "source_excerpt": "ladoria: Oliveira Trust Servicer S.A., sociedade com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) Agente de Financiamentointermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) Alocação Mínima de Investimentocento) do…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) Agente de Financiamentointermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) Alocação Mínima de Investimentocento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente…",
+      "source_excerpt": "ra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) Agente de Financiamentointermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) Alocação Mínima de Investimentocento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "haver a necessidade de reenquadramento da Razão de Garantia, da Alocação Mínima de Investimento, do valor mínimo de Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16) B3 Brasil, Bolsa, Balcão; 17) Bacen 18) Base de Dados do Fundocerta…",
+      "source_excerpt": "haver a necessidade de reenquadramento da Razão de Garantia, da Alocação Mínima de Investimento, do valor mínimo de Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16) B3 Brasil, Bolsa, Balcão; 17) Bacen 18) Base de Dados do Fundocerta…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ediante protocolo de recebimento, na data de celebração dos Contratos de Cobrança; 100) Política de Concessão de Créditodescrita resumidamente no Anexo II e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração dos Contratos de Cessão; 101) Potencial de Cessãodo Fundo, apurado em cada Data de Oferta, que, observadas as disposições do presente Regulamento, possa s…",
+      "source_excerpt": "ediante protocolo de recebimento, na data de celebração dos Contratos de Cobrança; 100) Política de Concessão de Créditodescrita resumidamente no Anexo II e contida em manual a ser entregue à Administradora, mediante protocolo de recebimento, na data de celebração dos Contratos de Cessão; 101) Potencial de Cessãodo Fundo, apurado em cada Data de Oferta, que, observadas as disposições do presente Regulamento, possa s…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…",
+      "source_excerpt": "do atendimento dos Direitos Creditórios aos Critérios de Elegibilidade previstos nas alíneas (c) e (d) do item (5.2) acima, será efetuada pelo Custodiante, mediante identificação do Titular e/ou do Estabelecimento, conforme o caso, informados pelo respectivo Cedente, no respectivo Layout de Cessão. 5.2.1.1 Caberá ao respectivo Cedente encaminhar, no respectivo Layout de Cessão, as informações necessárias para que o…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "resas controladas e controladoras do Titular. 5.3.Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4.A perda superveniente, por qualquer motivo, pelo Direito Creditó…",
+      "source_excerpt": "resas controladas e controladoras do Titular. 5.3.Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4.A perda superveniente, por qualquer motivo, pelo Direito Creditó…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "corde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1.Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…",
+      "source_excerpt": "corde com tais alterações, esse deverá requerer, no prazo de 15 (quinze) Dias Úteis, contado do recebimento da notificação que o informe sobre a referida alteração deste Regulamento, a resilição do Contrato de Custódia, sem prejuízo do exercício de suas atividades pelo prazo do item (11.6) deste Regulamento. 5.7.1.Na hipótese de o Custodiante requerer o término do Contrato de Custódia, nos termos do item (5.7) anter…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "administrador, empregado, prestador de serviços, preposto ou mandatário de qualquer Pessoa que tenha sido expressamente autorizado a atuar em nome da referida Pessoa; 6)Agente Cobrador Bancáriocelebrado contrato com o Fundo e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7)Agente de CobrançaAdministrador, em nome do Fundo, para ser…",
+      "source_excerpt": "administrador, empregado, prestador de serviços, preposto ou mandatário de qualquer Pessoa que tenha sido expressamente autorizado a atuar em nome da referida Pessoa; 6)Agente Cobrador Bancáriocelebrado contrato com o Fundo e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7)Agente de CobrançaAdministrador, em nome do Fundo, para ser…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "as Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9)Agente de FinanciamentoInstituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10)Alocação Mínima de InvestimentoSignifica a alocação de, pelo menos, 50% (cinquenta por cento) do…",
+      "source_excerpt": "as Américas, nº 3434, bloco 07, sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9)Agente de FinanciamentoInstituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10)Alocação Mínima de InvestimentoSignifica a alocação de, pelo menos, 50% (cinquenta por cento) do…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "te contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10)Alocação Mínima de InvestimentoSignifica a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente…",
+      "source_excerpt": "te contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10)Alocação Mínima de InvestimentoSignifica a alocação de, pelo menos, 50% (cinquenta por cento) do Patrimônio Líquido do Fundo em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "de reenquadramento da Razão de Garantia, da Alocação Mínima de Investimento, do valor mínimo de Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16)B3 Brasil, Bolsa, Balcão; 17)Bacen 18)Base de Dados do FundoCustodiante, contendo certas…",
+      "source_excerpt": "de reenquadramento da Razão de Garantia, da Alocação Mínima de Investimento, do valor mínimo de Excesso de Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item (22.1) do Capítulo XXII; 16)B3 Brasil, Bolsa, Balcão; 17)Bacen 18)Base de Dados do FundoCustodiante, contendo certas…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "de carteira de títulos e valores mobiliários por meio do Ato Declaratório CVM n.º 6.696, de 21 de fevereiro de 2002, com sede cidade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 46)CVMários; 47)Data de Amortizaçãoamortização das Cotas Seniores, conforme disposto em seu respectivo Suplemento; 48)…",
+      "source_excerpt": "de carteira de títulos e valores mobiliários por meio do Ato Declaratório CVM n.º 6.696, de 21 de fevereiro de 2002, com sede cidade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 46)CVMários; 47)Data de Amortizaçãoamortização das Cotas Seniores, conforme disposto em seu respectivo Suplemento; 48)…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, do at…",
+      "source_excerpt": "ladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, do at…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "essamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com a Classe Única e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Gestor, em nome d a Classe Única, para ser respo…",
+      "source_excerpt": "essamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com a Classe Única e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Gestor, em nome d a Classe Única, para ser respo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": ", sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Lí…",
+      "source_excerpt": ", sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Lí…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao va…",
+      "source_excerpt": "dor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao va…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item ( 23.1) do Capítulo XXIII; 17) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 18) “Bacen”: Banco Central do Brasil; 19) “Base de Dados da Classe Única”: base de dados, atualizada diariamente pelo Custodiante, contendo certas inform…",
+      "source_excerpt": "Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item ( 23.1) do Capítulo XXIII; 17) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 18) “Bacen”: Banco Central do Brasil; 19) “Base de Dados da Classe Única”: base de dados, atualizada diariamente pelo Custodiante, contendo certas inform…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 23 50) “CVM”: Comissão de Valores Mobiliários; 51) “Data de Amortização”: é a respectiva data de amortização das Cotas Seniores, conforme disposto em seu respectivo Apêndice; 52) “Data de Aquisição ”: data em que a Classe Única efetua o pagamento…",
+      "source_excerpt": "dade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 23 50) “CVM”: Comissão de Valores Mobiliários; 51) “Data de Amortização”: é a respectiva data de amortização das Cotas Seniores, conforme disposto em seu respectivo Apêndice; 52) “Data de Aquisição ”: data em que a Classe Única efetua o pagamento…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "a por qualquer um dos Cedentes de seus deveres e obrigações previstos nos Documentos da Securitização, desde que, notificada pela Administradora para regularizar ou justificar o descumprimento, o Cedente inadimplente não o faça no prazo de 30 (trinta) dias, contado do recebimento da referida notificação; 76 b) inobservância por qualquer um dos Cedentes da vedação quanto à cessão a Classe Única de Direitos Creditório…",
+      "source_excerpt": "a por qualquer um dos Cedentes de seus deveres e obrigações previstos nos Documentos da Securitização, desde que, notificada pela Administradora para regularizar ou justificar o descumprimento, o Cedente inadimplente não o faça no prazo de 30 (trinta) dias, contado do recebimento da referida notificação; 76 b) inobservância por qualquer um dos Cedentes da vedação quanto à cessão a Classe Única de Direitos Creditório…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, do at…",
+      "source_excerpt": "ladas e controladoras do Titular. 5.3. Observados os termos e as condições do Contrato de Cessão, a cessão de Direitos Creditórios será considerada realizada após a verificação e validação do atendimento pelos Direitos Creditórios aos Critérios de Elegibilidade, após o pagamento de Preço de Aquisição, como definitiva, perfeita e acabada. 5.4. A perda superveniente, por qualquer motivo, pelo Direito Creditório, do at…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "essamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com a Classe Única e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Gestor, em nome d a Classe Única, para ser respo…",
+      "source_excerpt": "essamente autorizado a atuar em nome da referida Pessoa; 6) “Agente Cobrador Bancário ”: qualquer Instituição Autorizada que tenha celebrado contrato com a Classe Única e o Custodiante, cujo objeto e atribuições sejam substancialmente equivalentes às avenças contidas no Contrato de Cobrança Bancária; 7) “Agente de Cobrança ”: Significa o Cedente, a ser contratado pelo Gestor, em nome d a Classe Única, para ser respo…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": ", sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Lí…",
+      "source_excerpt": ", sala 202, Barra da Tijuca, inscrita no CNPJ sob o nº 02.150.453/0001-20; 9) “Agente de Financiamento ”: Instituição financeira a ser eventualmente contratada pelo devedor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Lí…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao va…",
+      "source_excerpt": "dor por intermédio da Supplier para quitação do saldo devedor remanescente em caso de inadimplência dos Direitos Creditórios; 10) “Alocação Mínima de Investimento”: Significa a alocação de, pelo menos, 67% (sessenta e sete por cento) do Patrimônio Líquido da Classe Única em Direitos Creditórios Elegíveis. Para fins de entendimento, a presente alocação será controlada por uma fração cujo numerador é equivalente ao va…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item ( 23.1) do Capítulo XXIII; 17) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 18) “Bacen”: Banco Central do Brasil; 19) “Base de Dados da Classe Única”: base de dados, atualizada diariamente pelo Custodiante, contendo certas inform…",
+      "source_excerpt": "Spread, da Reserva de Caixa e/ou da Reserva de Liquidez, ou caso os índices DCV, DCV 30, DCV 120, DCV 180 atinjam valores superiores àqueles previstos no neste Capítulo, conforme previsto no item ( 23.1) do Capítulo XXIII; 17) “B3”: B3 S.A. – Brasil, Bolsa, Balcão; 18) “Bacen”: Banco Central do Brasil; 19) “Base de Dados da Classe Única”: base de dados, atualizada diariamente pelo Custodiante, contendo certas inform…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "dade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 23 50) “CVM”: Comissão de Valores Mobiliários; 51) “Data de Amortização”: é a respectiva data de amortização das Cotas Seniores, conforme disposto em seu respectivo Apêndice; 52) “Data de Aquisição ”: data em que a Classe Única efetua o pagamento…",
+      "source_excerpt": "dade do Rio de Janeiro, no estado do Rio de Janeiro, na Avenida das Américas, n.º 3.434, bloco 07, sala 201, Barra da Tijuca, inscrita no CNPJ sob o n.º 36.113.876/0001-91; 23 50) “CVM”: Comissão de Valores Mobiliários; 51) “Data de Amortização”: é a respectiva data de amortização das Cotas Seniores, conforme disposto em seu respectivo Apêndice; 52) “Data de Aquisição ”: data em que a Classe Única efetua o pagamento…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "a por qualquer um dos Cedentes de seus deveres e obrigações previstos nos Documentos da Securitização, desde que, notificada pela Administradora para regularizar ou justificar o descumprimento, o Cedente inadimplente não o faça no prazo de 30 (trinta) dias, contado do recebimento da referida notificação; 76 b) inobservância por qualquer um dos Cedentes da vedação quanto à cessão a Classe Única de Direitos Creditório…",
+      "source_excerpt": "a por qualquer um dos Cedentes de seus deveres e obrigações previstos nos Documentos da Securitização, desde que, notificada pela Administradora para regularizar ou justificar o descumprimento, o Cedente inadimplente não o faça no prazo de 30 (trinta) dias, contado do recebimento da referida notificação; 76 b) inobservância por qualquer um dos Cedentes da vedação quanto à cessão a Classe Única de Direitos Creditório…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas seniores e cotas subordinadas",
+      "amount": 1000.0,
+      "amount_display": "R$1.000,00",
+      "currency": "R$",
+      "remuneration": "O DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA ........... 20 CAPÍTULO VII – DOS CEDENTES E DOS DIREITOS CREDITÓRIOS .................. 21 CAPÍTULO VIII – DA ADMINISTRAÇÃO DO FUNDO ............................................ 22 CAPÍTULO IX – DA REMUNERAÇÃO DA ADMINISTRADORA .......................... 25 CAPÍTULO X – DA SUBSTITUIÇÃO E RENÚNCIA…",
+      "amortization_schedule": "........................ 38 CAPÍTULO XIV – DAS COTAS ................................................................................... 39 CAPÍTULO XV – DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS ............. 41 CAPÍTULO XVI – DA VALORIZAÇÃO DAS COTAS .............................................. 43 CAPÍTULO XVII – DA AMORTIZAÇÃO E DO RESGATE DAS COTAS ............... 45 CAPÍTULO XVIII – DA METODOLOGIA DE AVALIAÇÃO…",
+      "maturity": "Data de Verificação, (i) cujo numerador é igual ao somatório do valor de face dos Direitos Creditórios referentes às Operações de Financiamento e às Operações Comerciais de Cartão de Crédito integrantes da Base de Dados do Fundo, que contenham, na respectiva Data de Verificação, qualquer Direito Creditório com data de vencimento até o último Dia Útil do mês calendário imediatamente anterior à respe ctiva Data de Ver…",
+      "source_excerpt": "o exercício profissional de administração de carteiras de valores mobiliários e fundos de investimentos, nos termos do Ato Declaratório CVM nº 6.969, de 21 de fevereiro de 2002, neste ato devidamente representada na forma de seu estatuto social (“Administradora”), na qualidade de Administradora do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SUPPLIER, fundo de investimento em direitos creditórios, constituído sob a…",
+      "source_document": "525792_regulamento_regulamento_525792_2023-09-22.pdf",
+      "source_document_id": 525792
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA ........... 20 CAPÍTULO VII – DOS CEDENTES E DOS DIREITOS CREDITÓRIOS .................. 21 CAPÍTULO VIII – DA ADMINISTRAÇÃO DO FUNDO ................................ ............ 22 CAPÍTULO IX – DA REMUNERAÇÃO DA ADMINISTRADORA .......................... 25 CAPÍTULO X – DA SUBSTITUIÇÃO E RENÚNCIA…",
+      "amortization_schedule": "..................... 38 CAPÍTULO XIV – DAS COTAS ................................ ................................ ................... 39 CAPÍTULO XV – DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS ............. 41 CAPÍTULO XVI – DA VALORIZAÇÃO DAS COTAS ................................ .............. 43 CAPÍTULO XVII – DA AMORTIZAÇÃO E DO RESGATE DAS COTAS ............... 45 CAPÍTULO XVIII – DA METODOLOGIA DE AVALIAÇÃO…",
+      "maturity": "Data de Verificação, (i) cujo numerador é igual ao somatório do valor de face dos Direitos Creditórios referentes às Operações de Financiamento e às Operações Comerciais de Cartão de Crédito integrantes da Base de Dados do Fundo, que contenham, na respectiva Data de Verificação, qualquer Direito Creditório com data de vencimento até o último Dia Útil do mês calendário imediatamente anterior à respe ctiva Data de Ver…",
+      "source_excerpt": "CAPÍTULO II – DAS DEFINIÇÕES ................................ ................................ ............... 3 CAPÍTULO III – DA NATUREZA DO FUNDO ................................ .......................... 15 CAPÍTULO IV – DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA ................................ ................................ ................................ ..................... 15 CAPÍTULO V –…",
+      "source_document": "525794_regulamento_regulamento_525794_2023-09-22.pdf",
+      "source_document_id": 525794
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "classe sênior (“Cotas Seniores”) de emissão do FUNDO DE",
+      "amount": 400000000.0,
+      "amount_display": "R$400.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "ais aplicáveis, o BANCO ITAÚ BBA S.A., instituição financeira com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº 3.500, 1º, 2º, 3º (parte), 4º e 5º andares, Itaim Bibi, CEP 04538-132, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 17.298.092/0001-30, na qualidade de coordenador líder da Oferta (conforme abaixo definido) (“Coordenado…",
+      "source_document": "530370_emissao_emissao_530370_2023-09-29.pdf",
+      "source_document_id": 530370
+    },
+    {
+      "date": null,
+      "event": "emissão",
+      "series_or_class": "classe sênior (“ Cotas Seniores”) de emissão do",
+      "amount": 400000000.0,
+      "amount_display": "R$ 400.000.000,00",
+      "currency": "R$",
+      "remuneration": "ERRAMENTO FOI ELABORADO COM AS INFORMAÇÕES NECESSÁRIAS AO ATENDIMENTO ÀS NORMAS EMANADAS PELA CVM E PELA ANBIMA. A OFERTA NÃO CONTA COM GARANTIA DA ADMINISTRADORA, DA GESTORA OU DE QUALQU ER MECANISMO DE SEGURO, OU DO FUNDO GARANTIDOR DE CRÉDITOS - FGC. A PRESENTE OFERTA NÃO CONTARÁ COM CLASSIFICAÇÃO DE RISCO. QUALQUER RENTABILIDADE PREVISTA NOS DOCUMENTOS DA OFERTA NÃO REPRESENTA E NEM DEVERÁ SER CONSIDERADA, A QUA…",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "cáveis, a BANCO ITAÚ BBA S.A. , instituição financeira com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº 3.500, 1º, 2º, 3º (parte), 4º e 5º andares, Itaim Bibi, CEP 04538-132, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“ CNPJ”) sob o nº 17.298.092/0001-30, na qualidade de coordenador líder da Oferta (conforme abaixo definido) (“Coordenador Líde…",
+      "source_document": "532694_emissao_emissao_532694_2023-10-06.pdf",
+      "source_document_id": 532694
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores em Circulação",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "s: Cada Cota Subordinada possui como característica e confere a seu titular as seguintes vantagens, direitos e obrigações: (...) c) tem seu valor calculado conforme o disposto no item (15.13) do Capítulo XV deste Cada Cota Subordinada terá seu valor unitário calculado diariamente no fechamento, para fins de integralização, amortização ou resgate, sendo equivalente ao resultado da divisão do eventual saldo remanescen…",
+      "maturity": "",
+      "source_excerpt": "ta Subordinada possui como característica e confere a seu titular as seguintes vantagens, direitos e obrigações: (...) c) tem seu valor calculado conforme o disposto no item (15.13) do Capítulo XV deste Cada Cota Subordinada terá seu valor unitário calculado diariamente no fechamento, para fins de integralização, amortização ou resgate, sendo equivalente ao resultado da divisão do eventual saldo remanescente do Patr…",
+      "source_document": "560274_assembleia_assembleia_560274_2023-11-03.pdf",
+      "source_document_id": 560274
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "99ED7F6-37EB-424F-A6F6-566104F51534 - 16 - onde: =somatório do valor contábil dos rendimentos auferidos relativos aos Direitos Creditórios Adimplentes apropriados no mês calendário imediatamente = somatório do valor contábil dos rendimentos auferidos relativos aos Outros apuração do ES; = somatório do valor contábil da remuneração das Cotas Seniores em Circulação do ES; = somatório do valor contábil das despesas inc…",
+      "amortization_schedule": "suas Cotas a qualquer momento pelo Cotista. Adicionalmente, o presente Regulamento e a Instrução CVM 356/01 estabelecem restrições de negociação às Cotas do Fundo. Dessa maneira, o Cotista não terá liquidez em relação às Cotas do Fundo e dependerá da (i) negociação de suas Cotas no mercado secundário, se permitida; ou (ii) amortização ou resgate das Cotas Seniores de sua titularidade, conforme disposto no respectivo…",
+      "maturity": "Fundo somente poderá adquirir Direitos Creditórios cujas informações sejam transmitidas pelo Cedente ao Custodiante, por meio eletrônico ou magnético, de acordo com os procedimentos definidos no Contrato de Cessão e no Contrato de Custódia, e que atendam, cumulativamente, na Critérios de Elegibilidade a) não terem prazo de vencimento superior a 180 (cento e oitenta) dias corridos, contado da Data de Aquisição; b) de…",
+      "source_excerpt": "diversificação da carteira do Fundo indicados neste Capítulo serão observados diariamente, com base no Patrimônio Líquido do Fundo do Dia Útil imediatamente anterior. 4.9. A Administradora não poderá contratar quaisquer operações para a composição da carteira do Fundo em que figurem como contraparte(s) a própria Administradora, suas Afiliadas ou, ainda, quaisquer carteiras, clubes de investimento e/ou fundos de inve…",
+      "source_document": "560278_regulamento_regulamento_560278_2023-11-03.pdf",
+      "source_document_id": 560278
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas seniores da 2ª (segunda) série",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "e forma remota/digital. 2. CONVOCAÇÃO E PRESENÇA: A presente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3. MESA: Presidente Sr. Leandro Rodrigues Hosizawa e Secretário Sr. Alan Najman. Todos os termos e expressões iniciados em letra maiúscula, em sua forma singular ou pl…",
+      "source_document": "563739_assembleia_assembleia_563739_2023-11-27.pdf",
+      "source_document_id": 563739
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "15 CAPÍTULO V DOS CRITÉRIOS DE ELEGIBILIDADE 17 CAPÍTULO VI DOS PROCEDIMENTOS DE CESSÃO DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA 20 CAPÍTULO VII DOS CEDENTES E DOS DIREITOS CREDITÓRIOS 21 CAPÍTULO VIII DA ADMINISTRAÇÃO DO FUNDO 22 CAPÍTULO IX DA REMUNERAÇÃO DA ADMINISTRADORA 25 CAPÍTULO X DA SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA 26 CAP…",
+      "amortization_schedule": "ULO X DA SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA 26 CAPÍTULO XI DOS PRESTADORES DE SERVIÇOS CONTRATADOS 27 CAPÍTULO XII DOS FATORES DE RISCO 32 CAPÍTULO XIII DO PATRIMÔNIO LÍQUIDO 38 CAPÍTULO XIV DAS COTAS 38 CAPÍTULO XV DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS 41 CAPÍTULO XVI DA VALORIZAÇÃO DAS COTAS 43 CAPÍTULO XVII DA AMORTIZAÇÃO E DO RESGATE DAS COTAS 44 CAPÍTULO XVIII DA METODOLOGIA DE AVALIAÇÃO DOS ATIVOS DO…",
+      "maturity": "nto) Dia Útil de cada mês calendário; 53) DCVé igual ao somatório do valor de face dos Direitos Creditórios referentes às Operações de Financiamento e às Operações Comerciais de Cartão de Crédito integrantes da Base de Dados do Fundo, que contenham, na respectiva Data de Verificação, qualquer Direito Creditório com data de vencimento até o último Dia Útil do mês calendário imediatamente anterior à respectiva Data de…",
+      "source_excerpt": "- 2 - Regulamento do CARTÃO DE COMPRA SUPPLIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS II CNPJ nº 50.988.212/0001-05 Índice CAPÍTULO I DO FUNDO 3 CAPÍTULO II DAS DEFINIÇÕES 3 CAPÍTULO III DA NATUREZA DO FUNDO 15 CAPÍTULO IV DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 15 CAPÍTULO V DOS CRITÉRIOS DE ELEGIBILIDADE 17 CAPÍTULO VI DOS PROCEDIMENTOS DE CESSÃO DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VA…",
+      "source_document": "563742_regulamento_regulamento_563742_2023-11-27.pdf",
+      "source_document_id": 563742
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas seniores da 3ª (terceira) série",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "e forma remota/digital. 2. CONVOCAÇÃO E PRESENÇA: A presente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3. MESA: Presidente Sr. Leandro Rodrigues Hosizawa e Secretário Sr. Renan Dutra. Todos os termos e expressões iniciados em letra maiúscula, em sua forma singular ou pl…",
+      "source_document": "563748_assembleia_assembleia_563748_2023-12-01.pdf",
+      "source_document_id": 563748
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "23 CAPÍTULO V DOS CRITÉRIOS DE ELEGIBILIDADE 25 CAPÍTULO VI DOS PROCEDIMENTOS DE CESSÃO DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA 27 CAPÍTULO VII DOS CEDENTES E DOS DIREITOS CREDITÓRIOS 29 CAPÍTULO VIII DA ADMINISTRAÇÃO DO FUNDO 29 CAPÍTULO IX DA REMUNERAÇÃO DA ADMINISTRADORA 33 CAPÍTULO X DA SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA 34 CAP…",
+      "amortization_schedule": "ULO X DA SUBSTITUIÇÃO E RENÚNCIA DA ADMINISTRADORA 34 CAPÍTULO XI DOS PRESTADORES DE SERVIÇOS CONTRATADOS 35 CAPÍTULO XII DOS FATORES DE RISCO 40 CAPÍTULO XIII DO PATRIMÔNIO LÍQUIDO 46 CAPÍTULO XIV DAS COTAS 46 CAPÍTULO XV DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS 49 CAPÍTULO XVI DA VALORIZAÇÃO DAS COTAS 51 CAPÍTULO XVII DA AMORTIZAÇÃO E DO RESGATE DAS COTAS 52 CAPÍTULO XVIII DA METODOLOGIA DE AVALIAÇÃO DOS ATIVOS DO…",
+      "maturity": "ário; 53) DCVVerificação, (i) cujo numerador é igual ao somatório do valor de face dos Direitos Creditórios referentes às Operações de Financiamento e às Operações Comerciais de Cartão de Crédito integrantes da Base de Dados do Fundo, que contenham, na respectiva Data de Verificação, qualquer Direito Creditório com data de vencimento até o último Dia Útil do mês calendário imediatamente anterior à respectiva Data de…",
+      "source_excerpt": "- 6 - ANEXO II - REGULAMENTO CONSOLIDADO Regulamento do CARTÃO DE COMPRA SUPPLIER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS II CNPJ nº 50.988.212/0001-05 Índice CAPÍTULO I DO FUNDO 8 CAPÍTULO II DAS DEFINIÇÕES 8 CAPÍTULO III DA NATUREZA DO FUNDO 23 CAPÍTULO IV DA POLÍTICA DE INVESTIMENTO E DA COMPOSIÇÃO DA CARTEIRA 23 CAPÍTULO V DOS CRITÉRIOS DE ELEGIBILIDADE 25 CAPÍTULO VI DOS PROCEDIMENTOS DE CESSÃO DE DIREITO…",
+      "source_document": "563751_regulamento_regulamento_563751_2023-12-01.pdf",
+      "source_document_id": 563751
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Seniores",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "zawa e Secretário Sr. Renan Dutra. Todos os termos e expressões iniciados em letra maiúscula, em sua forma singular ou plural, utilizados na presente ata e nela não definidos de outra forma têm o mesmo significado que lhe são atribuídos no Regulamento do Fundo. 4. ORDEM DO DIA: (i) alterar o prazo de vencimento e a meta de rentabilidade da 1ª, 2ª e 3ª série de Cotas Seniores, com a consequente alteração da Data de R…",
+      "amortization_schedule": "em sua forma singular ou plural, utilizados na presente ata e nela não definidos de outra forma têm o mesmo significado que lhe são atribuídos no Regulamento do Fundo. 4. ORDEM DO DIA: (i) alterar o prazo de vencimento e a meta de rentabilidade da 1ª, 2ª e 3ª série de Cotas Seniores, com a consequente alteração da Data de Resgate das Cotas Seniores e o Índice Referencial das Cotas Seniores, conforme previstos nos re…",
+      "maturity": "Leandro Rodrigues Hosizawa e Secretário Sr. Renan Dutra. Todos os termos e expressões iniciados em letra maiúscula, em sua forma singular ou plural, utilizados na presente ata e nela não definidos de outra forma têm o mesmo significado que lhe são atribuídos no Regulamento do Fundo. 4. ORDEM DO DIA: (i) alterar o prazo de vencimento e a meta de rentabilidade da 1ª, 2ª e 3ª série de Cotas Seniores, com a consequente…",
+      "source_excerpt": "lusive) (ii) Aprovar a autorização à Administradora para que efetive todos e quaisquer procedimentos necessários para implementação do quanto deliberado nesta Assembleia Geral, inclusive a alteração e consolidação do Regulamento e dos Suplementos de Cotas Seniores, os quais passarão a vigorar de acordo com os Anexos I e II à presente ata, respectivamente. As deliberações e aprovações acima referidas estão restritas…",
+      "source_document": "572310_assembleia_assembleia_572310_2023-12-14.pdf",
+      "source_document_id": 572310
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "3ª série",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "nte Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas”). 3. MESA: Presidente Sr. Leandro Hosizawa e Secretário Sr. Alan Russo Najman. 4. ORDEM DO DIA: Deliberar sobre: (i) O resgate antecipado da 3ª série de Cotas Seniores do Fundo (“Cotas Seniores da 3ª Série”); (ii) A autoriza…",
+      "maturity": "",
+      "source_excerpt": ". MESA: Presidente Sr. Leandro Hosizawa e Secretário Sr. Alan Russo Najman. 4. ORDEM DO DIA: Deliberar sobre: (i) O resgate antecipado da 3ª série de Cotas Seniores do Fundo (“Cotas Seniores da 3ª Série”); (ii) A autorização à Administradora para que efetive todos e quaisquer procedimentos necessários para implementação da matéria, caso aprovada. 5. DELIBERAÇÕES: Após análise e discussão das matérias constantes da O…",
+      "source_document": "686900_assembleia_assembleia_686900_2024-05-17.pdf",
+      "source_document_id": 686900
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª série",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "Fundo (“Cotas Seniores da 3ª Série”) para ajustar suas Datas de Resgate das Cotas Seniores e seus Índices Referenciais das Cotas Seniores, na forma dos Anexos I e II da presente ata . Ambas as séries terão suas Datas de Resgate prorrogadas em 210 dias, contados a partir de 27 de maio de 2024, e seu spread ajustado para CDI + 1,48%; (iii) APROVAR o resgate antecipado da 1ª emissão de cotas seniores da 2ª série do Fun…",
+      "amortization_schedule": "tude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas”). 3. MESA: Presidente Sr. Leandro Hosizawa e Secretário Sr. Alan Russo Najman. 4. ORDEM DO DIA: Deliberar sobre: (i) As Demonstrações Financeiras do exercício social findo em 31 de dezembro de 2023; (ii) O resgate antecipado da 2ª série de Cotas Seniores do Fundo (“Cotas Seniores da 2ª Série”); (iii) A alteração…",
+      "maturity": "",
+      "source_excerpt": "em 31 de dezembro de 2023, na forma do Anexo III da presente ata; (ii) APROVAR a alteração dos Suplementos da 1ª série de Cotas Seniores do Fundo (“Cotas Seniores da 1ª Série”) e da 3ª série de Cotas Seniores do Fundo (“Cotas Seniores da 3ª Série”) para ajustar suas Datas de Resgate das Cotas Seniores e seus Índices Referenciais das Cotas Seniores, na forma dos Anexos I e II da presente ata . Ambas as séries terão s…",
+      "source_document": "668399_assembleia_assembleia_668399_2024-05-23.pdf",
+      "source_document_id": 668399
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª Série",
+      "amount": 100000000.0,
+      "amount_display": "R$100.000.000,00",
+      "currency": "R$",
+      "remuneration": "ie de Cotas Seniores do Fundo (“Cotas Seniores da 1ª Série) para ajustar sua Data de Resgate das Cotas Seniores e seu Índices Referencial das Cotas Seniores, na forma dos Anexos I da presente ata. As Cotas Seniores da 1ª Série terão sua Datas de Resgate prorrogada para 20 de fevereiro de 2025, e seu spread ajustado para CDI + 1,50%; (iii) AUTORIZAR a Administradora a efetivar todos e quaisquer procedimentos necessár…",
+      "amortization_schedule": "nte Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas”). 3. MESA: Presidente Sr. Leandro Hosizawa e Secretário Sr. Alan Russo Najman. 4. ORDEM DO DIA: Deliberar sobre: (i) A amortização extraordinária da 1ª série de C otas Seniores do Fundo (“Cotas Seniores da 1ª Série”), no imp…",
+      "maturity": "",
+      "source_excerpt": "Índices Referencial das Cotas Seniores, na forma dos Anexos I da presente ata. As Cotas Seniores da 1ª Série terão sua Datas de Resgate prorrogada para 20 de fevereiro de 2025, e seu spread ajustado para CDI + 1,50%; (iii) AUTORIZAR a Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada. As deliberações e aprovações acima referidas estão restritas apenas à Orde…",
+      "source_document": "703755_assembleia_assembleia_703755_2024-07-22.pdf",
+      "source_document_id": 703755
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "PROCEDIMENTOS DE CESSÃO DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA .......... 36 CAPÍTULO VII – DOS CEDENTES E DOS DIREITOS CREDITÓRIOS ................. 38 CAPÍTULO VIII – DA ADMINISTRAÇÃO E GESTÃO DA CLASSE ÚNICA ........ 38 CAPÍTULO IX – DA REMUNERAÇÃO DA ADMINISTRADORA E DA GESTORA ........................................................…",
+      "amortization_schedule": "........................... 59 CAPÍTULO XIV – DAS COTAS .................................................................................. 60 CAPÍTULO XV – DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS ............ 63 CAPÍTULO XVI – DA VALORIZAÇÃO DAS COTAS ............................................. 65 CAPÍTULO XVII – DA AMORTIZAÇÃO E DO RESGATE DAS COTAS .............. 67 CAPÍTULO XVIII – DA METODOLOGIA DE AVALIAÇÃO…",
+      "maturity": "rmações julgadas, pela Administradora, como indispensáveis para a interpretação das demonstrações financeiras. 6.3.2 O exercício social do Fundo tem duração de 1 (um) ano, encerrando-se em 31 de agosto de cada ano. 6.4 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "(v) a ocorrência de eventos subsequentes que tenham afetado ou possam afetar os critérios de composição e os limites de diversificação da carteira do Fundo, bem como o comportamento da carteira de Direitos Creditórios, no que se refere ao histórico de pagamentos; (vi) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vii) fusão, incorporação, cisão ou transformação da Classe Única; (viii…",
+      "source_document": "743214_regulamento_regulamento_743214_2024-09-19.pdf",
+      "source_document_id": 743214
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "PROCEDIMENTOS DE CESSÃO DE DIREITOS CREDITÓRIOS, DO RECEBIMENTO DE VALORES, DA EMISSÃO DOS DEMONSTRATIVOS DE PAGAMENTO E DA COBRANÇA ORDINÁRIA .......... 36 CAPÍTULO VII – DOS CEDENTES E DOS DIREITOS CREDITÓRIOS ................. 38 CAPÍTULO VIII – DA ADMINISTRAÇÃO E GESTÃO DA CLASSE ÚNICA ........ 38 CAPÍTULO IX – DA REMUNERAÇÃO DA ADMINISTRADORA E DA GESTORA ........................................................…",
+      "amortization_schedule": "........................... 59 CAPÍTULO XIV – DAS COTAS .................................................................................. 60 CAPÍTULO XV – DA EMISSÃO E DA INTEGRALIZAÇÃO DAS COTAS ............ 63 CAPÍTULO XVI – DA VALORIZAÇÃO DAS COTAS ............................................. 65 CAPÍTULO XVII – DA AMORTIZAÇÃO E DO RESGATE DAS COTAS .............. 67 CAPÍTULO XVIII – DA METODOLOGIA DE AVALIAÇÃO…",
+      "maturity": "ções julgadas, pela Administradora, como indispensáveis para a interpretação das demonstrações financeiras. 6.3.2 O exercício social do Fundo tem duração de 1 (um) ano, encerrando -se em 31 de dezembro de cada ano. 6.4 Todas as obrigações previstas neste Regulamento, inclusive obrigações de pagamento, cuja data de vencimento coincida com dia que não seja Dia Útil serão cumpridas no primeiro Dia Útil subsequente, não…",
+      "source_excerpt": "(v) a ocorrência de eventos subsequentes que tenham afetado ou possam afetar os critérios de composição e os limites de diversificação da carteira do Fundo, bem como o comportamento da carteira de Direitos Creditórios, no que se refere ao histórico de pagamentos; (vi) alteração da Administradora e/ou da Gestora, nos termos da Resolução CVM 175; (vii) fusão, incorporação, cisão ou transformação da Classe Única; (viii…",
+      "source_document": "1013021_regulamento_regulamento_1013021_2024-11-14.pdf",
+      "source_document_id": 1013021
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas subordinadas juniores",
+      "amount": 25000000.0,
+      "amount_display": "R$25.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "O E PRESENÇA: A presente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento)das Cotas emitidas pelo Fundo (\"Cotistas. 3.MESA: Presidente Sr. Leandro Hosizawa e Secretário Sr. Pedro Oliveira 4.ORDEM DO DIA: Deliberar sobre: (i)A amortização extraordinária das cotas subordinadas juniores, no importe de R$25.000.000,00 (vin…",
+      "maturity": "",
+      "source_excerpt": "e e sem ressalvas, por: (i)APROVAR a amortização extraordinária das cotas subordinadas juniores, no importe de R$25.000.000,00 (vinte e cinco milhões de reais), a ser efetivada em até 2 (dois) dias úteis após a assinatura desta ata; (ii)AUTORIZARa Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada.As deliberações e aprovações acima referidas estão restritas a…",
+      "source_document": "860470_assembleia_assembleia_860470_2025-03-17.pdf",
+      "source_document_id": 860470
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª Série",
+      "amount": 150000000.0,
+      "amount_display": "R$ 150.000.000,00",
+      "currency": "R$",
+      "remuneration": ".000.000,00 (ii) APROVAR da 1ª Série) para ajustar sua Data de Resgate das Cotas Seniores e seu Índices Referencial das Cotas Seniores, na forma dos Anexos I da presente ata. As Cotas Seniores da 1ª Série terão sua Datas de Resgate prorrogada em 210 dias, contados a partir de 23 de julho de 2025, e seu spread ajustado para CDI + 1,37% (um inteiro e trinta e sete centésimos por cento); (iii) APROVAR a das Cotas Senio…",
+      "amortization_schedule": "ente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3. MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. André Nogueira; 4. ORDEM DO DIA: Deliberar sobre: (i) A realização de amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 15…",
+      "maturity": "",
+      "source_excerpt": "s Cotas Seniores. As Cotas Seniores da 1ª Série terão sua Datas de Resgate prorrogada em 210 dias, contados a partir de 23 de julho de 2025, e seu spread ajustado para CDI + 1,37% (um inteiro e trinta e sete centésimos por cento); (iv) AUTORIZAR a Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada. As deliberações e aprovações acima referidas estão restritas…",
+      "source_document": "950312_assembleia_assembleia_950312_2025-07-21.pdf",
+      "source_document_id": 950312
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 69133892.75,
+      "amount_display": "R$ 69.133.892,75",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "ente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3. MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. André Nogueira; 4. ORDEM DO DIA: Deliberar sobre: (i) A realização de amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 70…",
+      "maturity": "",
+      "source_excerpt": "ão pagos até o dia 31 de julho de 2025, serão os seguintes: Docusign Envelope ID: 0290A9FC-3DA9-4A7A-8138-92B078E74760 -2 - Amortização Extraordinária 31/07/2025PrincipalR$ 69.133.892,75RendimentosR$ 866.107,25Total R$ 70.000.000,00 (ii)AUTORIZARa Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada.As deliberações e aprovações acima referidas estão restritas a…",
+      "source_document": "955275_assembleia_assembleia_955275_2025-07-28.pdf",
+      "source_document_id": 955275
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 49385369.25,
+      "amount_display": "R$ 49.385.369,25",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "resente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3.MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. André Nogueira; 4.ORDEM DO DIA: Deliberar sobre: (i)A realização de amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 50…",
+      "maturity": "",
+      "source_excerpt": "de principal e pagamento de rendimentos. Os valores, que serão pagos até o dia 08 de agosto de 2025, serão os seguintes: Amortização Extraordinária - 08/08/2025PrincipalR$ 49.385.369,25 RendimentosR$ 614.630,75 TotalR$ 50.000.000,00 (ii)AUTORIZARa Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada.As deliberações e aprovações acima referidas estão restritas a…",
+      "source_document": "961955_assembleia_assembleia_961955_2025-08-06.pdf",
+      "source_document_id": 961955
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "1ª Série",
+      "amount": 50000000.0,
+      "amount_display": "R$ 50.000.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "sente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3.MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. André Nogueira; 4.ORDEM DO DIA: Deliberar sobre: (i)O cancelamento da amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 50…",
+      "maturity": "",
+      "source_excerpt": "das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 50.000.000,00 (cinquenta milhões de reais), aprovada em Assembleia Geral de Cotistas realizada no dia 06 de agosto de 2025, que seria paga no dia 08 de agosto de 2025;(ii)AUTORIZARa Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada.As deliberações e aprovações acima referidas estão restritas ap…",
+      "source_document": "963870_assembleia_assembleia_963870_2025-08-08.pdf",
+      "source_document_id": 963870
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 7700000.0,
+      "amount_display": "R$ 7.700.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "resente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3.MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. André Nogueira; 4.ORDEM DO DIA: Deliberar sobre: (i)A realização de amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 60…",
+      "maturity": "",
+      "source_excerpt": "cipal e pagamento de rendimentos. Os valores, que serão pagos até o dia 22 de agosto de 2025, serão os seguintes: Amortização Extraordinária - 22/08/2025 Principal R$ 7.700.000,00 Rendimentos R$ 3.300.000,00 Total R$ 11.000.000,00 (iii)AUTORIZAR a Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada. As deliberações e aprovações acima referidas estão restritas…",
+      "source_document": "975860_assembleia_assembleia_975860_2025-08-21.pdf",
+      "source_document_id": 975860
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 59261223.86,
+      "amount_display": "R$ 59.261.223,86",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "presente Assembleia foi dispensada de convocação, na forma da regulamentação aplicável, em virtude da presença dos cotistas titulares de 100% (cem por cento) das Cotas emitidas pelo Fundo (\"Cotistas. 3.MESA: Presidente Sra. Luciene Ferreira e Secretário Sr. Lucas Mattos; 4.ORDEM DO DIA: Deliberar sobre: (i)A realização de amortização extraordinária das Cotas Seniores da 1ª Série do Fundo, no montante total de R$ 60.…",
+      "maturity": "",
+      "source_excerpt": "o de principal e pagamento de rendimentos. Os valores, que serão pagos no dia 08 de setembro de 2025, serão os seguintes: Amortização Extraordinária - 08/09/2025PrincipalR$ 59.261.223,86 RendimentoR$ 738.776,14 TOTALR$ 60.000.000,00 (ii)AUTORIZARa Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada.As deliberações e aprovações acima referidas estão restritas a…",
+      "source_document": "986754_assembleia_assembleia_986754_2025-09-05.pdf",
+      "source_document_id": 986754
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "cotas subordinadas juniores",
+      "amount": 10000000.0,
+      "amount_display": "R$ 10.000.000,00",
+      "currency": "R$",
+      "remuneration": ": (i) APROVAR Seniores da 1ª Série) para ajustar sua Data de Resgate das Cotas Seniores e seu Índices Referencial das Cotas Seniores, na forma dos Anexos I da presente ata. As Cotas Seniores da 1ª Série terão sua Datas de Resgate prorrogada em 180 dias, contados a partir de 30 de janeiro de 2026, e seu spread ajustado para CDI + 1,28% (um inteiro e vinte e oito centésimos por cento); (ii) APROVAR Índices Referenciai…",
+      "amortization_schedule": "obre: (i) A alteração do Suplemento da 1ª Série de Cotas da Subclasse Sênior do Fundo, para alterar a Data de Resgate das Cotas Seniores e o Índice Referencial das Cotas Seniores; (ii) A alteração do Suplemento da 4ª Série de Cotas da Subclasse Sênior do Fundo, para alterar a Data de Resgate das Cotas Seniores, as Datas de Amortização e o Índice Referencial das Cotas Seniores; (iii) A amortização extraordinária de c…",
+      "maturity": "",
+      "source_excerpt": "zação extraordinária de cotas subordinadas juniores, no valor bruto de até R$ 10.000.000,00 (dez milhões de reais), observada a Razão de Garantia Sênior pro-forma, a ser pago em até 3 (três) dias úteis da assinatura da Assembleia. (iv) AUTORIZAR a Administradora a efetivar todos e quaisquer procedimentos necessários para implementação da matéria aprovada. As deliberações e aprovações acima referidas estão restritas…",
+      "source_document": "1094865_assembleia_assembleia_1094865_2026-01-27.pdf",
+      "source_document_id": 1094865
+    }
+  ],
+  "extraction_count": 26,
+  "extraction_errors": [
+    {
+      "document_id": 743210,
+      "source_file": "data/raw/50988212000105/743210_assembleia_assembleia_743210_2024-09-19.pdf",
+      "error": "RuntimeError: PDF sem texto extraível: 743210_assembleia_assembleia_743210_2024-09-19.pdf"
+    }
+  ]
+}

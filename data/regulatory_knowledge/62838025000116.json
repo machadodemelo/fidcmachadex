@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "fund_name": "ENDURANCE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+  "fund_cnpj": "62.838.025/0001-16",
+  "generated_at": "2026-05-10T03:15:08Z",
+  "documents": [
+    {
+      "id": 1056017,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Constituição/Encerramento do Fundo",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "22/09/2025",
+      "data_entrega": "08/12/2025 11:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1056017_assembleia_assembleia_1056017_2025-09-22.pdf"
+    },
+    {
+      "id": 1056018,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "22/09/2025",
+      "data_entrega": "08/12/2025 11:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1056018_regulamento_regulamento_1056018_2025-09-22.pdf"
+    },
+    {
+      "id": 1032846,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Emissão de Cotas",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "10/11/2025",
+      "data_entrega": "10/11/2025 18:06",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1032846_assembleia_assembleia_1032846_2025-11-10.pdf"
+    },
+    {
+      "id": 1108442,
+      "categoria": "Informes Periódicos",
+      "tipo": "Informe Trimestral",
+      "especie": "",
+      "classification": "outro",
+      "data_referencia": "12/2025",
+      "data_entrega": "11/02/2026 15:45",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": false,
+      "download_error": "",
+      "source_file": ""
+    },
+    {
+      "id": 1052452,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Emissão de Cotas",
+      "especie": "",
+      "classification": "assembleia",
+      "data_referencia": "02/12/2025",
+      "data_entrega": "02/12/2025 18:17",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1052452_assembleia_assembleia_1052452_2025-12-02.pdf"
+    },
+    {
+      "id": 1054472,
+      "categoria": "Atos de Deliberação do Administrador",
+      "tipo": "Instrumento Particular de Alteração do Regulamento",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "04/12/2025",
+      "data_entrega": "04/12/2025 18:17",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1054472_regulamento_regulamento_1054472_2025-12-04.pdf"
+    },
+    {
+      "id": 1058233,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "10/12/2025 11:00",
+      "data_entrega": "10/12/2025 18:43",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1058233_assembleia_assembleia_1058233_2025-12-10.pdf"
+    },
+    {
+      "id": 1058234,
+      "categoria": "Regulamento",
+      "tipo": "",
+      "especie": "",
+      "classification": "regulamento",
+      "data_referencia": "10/12/2025",
+      "data_entrega": "10/12/2025 18:44",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1058234_regulamento_regulamento_1058234_2025-12-10.pdf"
+    },
+    {
+      "id": 1066149,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "17/12/2025 11:00",
+      "data_entrega": "18/12/2025 18:24",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1066149_assembleia_assembleia_1066149_2025-12-17.pdf"
+    },
+    {
+      "id": 1171493,
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Ata da Assembleia",
+      "classification": "assembleia",
+      "data_referencia": "06/02/2026 14:00",
+      "data_entrega": "28/04/2026 16:37",
+      "nome_arquivo": null,
+      "status": "AC",
+      "downloaded": true,
+      "download_error": "",
+      "source_file": "data/raw/62838025000116/1171493_assembleia_assembleia_1171493_2026-02-06.pdf"
+    }
+  ],
+  "criteria": [
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "astro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "source_excerpt": "astro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "ia Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "source_excerpt": "ia Lima, nº 3.500, 4º andar, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério d a Fazenda (“CNPJ”) sob o nº 62.418.140/0001-31, habilitada para a administração de fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.67,
+      "threshold_unit": "ratio",
+      "threshold_display": "67%",
+      "comparison": ">=",
+      "formula_text": "fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "source_excerpt": "fundos de investimento conforme Ato Declaratório expedido pela Comissão de Valores Mobiliários (“CVM”) nº 2.528, de 29 de julho de 1993. “Agente de Cobrança Extraordinária” é o prestador de serviços contratado pelo Gestor para a cobrança dos Direitos Creditórios vencidos e não pagos. “Alocação Mínima”: é o percentual mínimo de 67% (sessenta e sete por cento) do patrimônio líquido da Classe que deverá ser alocado em…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "referidos neste item em virtude da execução de garantias, o Gestor deverá tomar as medida s necessárias para alienar tais ativos dentro do prazo que julgar mais adequado para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de d…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "texto",
+      "formula_text": "",
+      "source_excerpt": "o para os melhores interesses do Fundo e dos Cotistas. 5.13. O Fundo não poderá realizar: I. aquisição de ativos ou aplicação de recursos em modalidades de investimento de renda variável ou atrelados à variação cambial; e II. operações em mercado de derivativos, exceto para fins de proteção da carteira; 5.13.1. Para fins do previsto no inciso “II” do item 5.14 acima, o Fundo poderá realizar operações em mercados de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "entos para registro e avaliação de títulos, valores mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "mobiliário s e demais operações estabelecidas na regulamentação em vigor. Referidos critérios de avaliação de ativos, tais como os de marcação a mercado ( mark-to-market), poderão ocasionar variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Hedges/derivativos permitidos",
+      "canonical_key": "permitted_hedges",
+      "event_type": "enquadramento",
+      "threshold_value": null,
+      "threshold_unit": "texto",
+      "threshold_display": "",
+      "comparison": "<=",
+      "formula_text": "variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "source_excerpt": "variações nos valores dos Direitos Creditórios e Ativos Financeiros integrante s da carteira do Fundo, resultando em aumento ou redução no valor das Cotas. (iv) Riscos do Uso de Derivativos. O Fundo poderá contratar instrumentos derivativos para fins de proteção patrimonial, desde que a exposição seja sempre, no máximo, o valor do Patrimônio Líquido do Fundo. A contratação, pelo Fundo, dos referidos instrumentos de…",
+      "confidence": "baixa",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018,
+      "monitoring_mapping": {
+        "status": "parcial",
+        "ime_metric": "Posições mantidas em derivativos",
+        "rationale": "O IME mostra posições agregadas em derivativos, mas não valida integralmente elegibilidade contratual da proteção."
+      }
+    },
+    {
+      "name": "Subordinação mínima",
+      "canonical_key": "subordination_ratio_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.0,
+      "threshold_unit": "ratio",
+      "threshold_display": "0%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "inidos neste Anexo e no Apêndice B; e (iv) direito de votar em matérias objeto de deliberação nas Assembleias de Cotistas, sendo que a cada Cota Subordinada Júnior corresponderá 1 (um) voto. 16.5 As Cotas Subordinadas Júnior deverão ser subscritas e integralizadas pel os Cedentes, seus controladores diretos, indiretos e seus quotistas, em moeda corrente nacional e em montante que garanta, no mínimo, o atendimento do…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Cotas Sub / PL %, Cotas MZ / PL % e Cotas SR / PL %",
+        "rationale": "O Informe Mensal traz PL e classes/cotas; a subordinação pode ser recalculada por classe quando as cotas reconciliam."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "tratada pelo Gestor, em nome da Classe, para prestar os serviços de classificação de risco das Cotas, quando aplicável. “Agentes de Cobrança” significam, em conjunto, os Cedentes, enquanto prestadores de serviços contratados pelo Gestor em nome da Classe , para cobrar e receber Direitos Creditórios vencidos e não pagos pelos Devedores, conforme os termos e condições do Contrato de Prestação de Serviços de Cobrança.…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "sejam selecionados pelo Gestor, que atendam, cumulativamente aos Critérios de Elegibilidade e Condições de Cessão previstos no item 7 deste Anexo, abaixo, juntamente com todos os direitos, privilégios, preferências, prerrogativas e ações assegurados aos titulares de tais Direitos Creditórios, inclusive quanto às garantias outorgadas, nos termos dos Documentos Comprobatórios; e/ou (ii) de Ativos Financeiros. 25 Aloca…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "de 29 de julho de 1993. “Agência de Classificação de Risco ” significa a agência classificadora de risco, devidamente registrada na CVM, contratada pelo Gestor, em nome da Classe, para prestar os serviços de classificação de risco das Cotas, quando aplicável. “Agentes de Cobrança” significam, em conjunto, os Cedentes, enquanto prestadores de serviços contratados pelo Gestor em nome da Classe , para cobrar e receber…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Alocação mínima em direitos creditórios",
+      "canonical_key": "credit_rights_allocation_min",
+      "event_type": "enquadramento",
+      "threshold_value": 0.5,
+      "threshold_unit": "ratio",
+      "threshold_display": "50%",
+      "comparison": ">=",
+      "formula_text": "",
+      "source_excerpt": "edentes, enquanto prestadores de serviços contratados pelo Gestor em nome da Classe , para cobrar e receber Direitos Creditórios vencidos e não pagos pelos Devedores, conforme os termos e condições do Contrato de Prestação de Serviços de Cobrança. “Alocação Mínima” significa o montante que a Classe deverá alocar, para fins regulatórios, de no mínimo, 50% (cinquenta por cento) de seu Patrimônio Líquido na aquisição d…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "monitoravel",
+        "ime_metric": "Dir Cred / PL",
+        "rationale": "O Informe Mensal traz direitos creditórios e PL."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "ios finais, mediante o uso de Instrumentos de Pagamento emitidos por Emissores de Cartões. 6.5 Considerando que a Classe é destinada exclusivamente a Investidores Profissionais, a Classe poderá adquirir Direitos Creditórios de um único Devedor ou de empresas pertencentes ao mesmo grupo econômico, conforme facultado pelo art. 52, I, do Anexo Normativo II da Resolução CVM nº 175 , devendo observar o seguinte limite de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "o de Instrumentos de Pagamento emitidos por Emissores de Cartões. 6.5 Considerando que a Classe é destinada exclusivamente a Investidores Profissionais, a Classe poderá adquirir Direitos Creditórios de um único Devedor ou de empresas pertencentes ao mesmo grupo econômico, conforme facultado pelo art. 52, I, do Anexo Normativo II da Resolução CVM nº 175 , devendo observar o seguinte limite de concentração (“Limites d…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "tórios de um único Devedor ou de empresas pertencentes ao mesmo grupo econômico, conforme facultado pelo art. 52, I, do Anexo Normativo II da Resolução CVM nº 175 , devendo observar o seguinte limite de concentração (“Limites de Concentração”): (i) No máximo, 60% (sessenta por cento) do Patrimônio Líquido da Classe deverá ser compost o por Direitos Creditórios de um único Devedor. Em caráter excepcional, o Limite de…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    },
+    {
+      "name": "Limite de concentração",
+      "canonical_key": "concentration_limits",
+      "event_type": "elegibilidade",
+      "threshold_value": 0.6,
+      "threshold_unit": "ratio",
+      "threshold_display": "60%",
+      "comparison": "<=",
+      "formula_text": "",
+      "source_excerpt": "52, I, do Anexo Normativo II da Resolução CVM nº 175 , devendo observar o seguinte limite de concentração (“Limites de Concentração”): (i) No máximo, 60% (sessenta por cento) do Patrimônio Líquido da Classe deverá ser compost o por Direitos Creditórios de um único Devedor. Em caráter excepcional, o Limite de Concentração previsto n este item 6.5(i) não se aplicará quando o Devedor for a R edecard, hipótese em que a…",
+      "confidence": "média",
+      "notes": "Extração local heurística; validar manualmente antes de ativar alerta.",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234,
+      "monitoring_mapping": {
+        "status": "nao_monitoravel",
+        "ime_metric": "",
+        "rationale": "Limites por sacado, cedente ou grupo econômico exigem granularidade não disponível no IME público."
+      }
+    }
+  ],
+  "eligibility_criteria": [
+    {
+      "name": "Critério de elegibilidade",
+      "description": "a alteração de seus dados cadastrais. 10.9 Para o cálculo do número de Cotas a que tem direito o investidor quando da aplicação, não serão deduzidas do valor entregue ao Administrador quaisquer taxas ou despesas. 33 10.10 A integralização das Cotas será efetuada em moeda corrente nacional, por meio de (i) crédito do respectivo valor em recursos disponíveis na Conta Corrente da Classe a ser indicada pelo Administrado…",
+      "source_excerpt": "a alteração de seus dados cadastrais. 10.9 Para o cálculo do número de Cotas a que tem direito o investidor quando da aplicação, não serão deduzidas do valor entregue ao Administrador quaisquer taxas ou despesas. 33 10.10 A integralização das Cotas será efetuada em moeda corrente nacional, por meio de (i) crédito do respectivo valor em recursos disponíveis na Conta Corrente da Classe a ser indicada pelo Administrado…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "lasse” significa a classe única de Cotas do Fundo. “CMN” significa o Conselho Monetário Nacional. “CNPJ” significa o Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda. “Cobrança Judicial e/ou Extrajudicial” é a cobrança judicial e/ou extrajudicial, conforme o caso, dos Direitos Creditórios vencidos e não pagos que será realizada pelo s Agentes de Cobrança e/ou outro s terceiros contratados pelo Gestor, c…",
+      "source_excerpt": "lasse” significa a classe única de Cotas do Fundo. “CMN” significa o Conselho Monetário Nacional. “CNPJ” significa o Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda. “Cobrança Judicial e/ou Extrajudicial” é a cobrança judicial e/ou extrajudicial, conforme o caso, dos Direitos Creditórios vencidos e não pagos que será realizada pelo s Agentes de Cobrança e/ou outro s terceiros contratados pelo Gestor, c…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "ministração de carteiras de valores mobiliários; (ii) executar a política de investimentos, sendo responsável pela aquisição dos Direitos Creditórios e Ativos Financeiros para a carteira da Classe, nos termos do Anexo, o que inclui, no mínimo: 15 (a) verificar o enquadramento dos Direitos Creditórios à política de investimento da Classe, compreendendo, no mínimo, a validação dos Direitos Creditórios quanto aos Crité…",
+      "source_excerpt": "ministração de carteiras de valores mobiliários; (ii) executar a política de investimentos, sendo responsável pela aquisição dos Direitos Creditórios e Ativos Financeiros para a carteira da Classe, nos termos do Anexo, o que inclui, no mínimo: 15 (a) verificar o enquadramento dos Direitos Creditórios à política de investimento da Classe, compreendendo, no mínimo, a validação dos Direitos Creditórios quanto aos Crité…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "AÇÃO DA CARTEIRA Objetivo 6.1 O objetivo da Classe é proporcionar a seus Cotistas, observada a política de investimento da Classe, de composição e de diversificação da carteira definida neste item 6, bem como na regulamentação e/ou legislação vigente, a valorização de suas Cotas por meio da aquisição, pel a Classe , (i) de Direitos Creditórios que sejam selecionados pelo Gestor, que atendam, cumulativamente aos Crit…",
+      "source_excerpt": "AÇÃO DA CARTEIRA Objetivo 6.1 O objetivo da Classe é proporcionar a seus Cotistas, observada a política de investimento da Classe, de composição e de diversificação da carteira definida neste item 6, bem como na regulamentação e/ou legislação vigente, a valorização de suas Cotas por meio da aquisição, pel a Classe , (i) de Direitos Creditórios que sejam selecionados pelo Gestor, que atendam, cumulativamente aos Crit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "comunicação prévia ao Gestor, ou, alternativamente, revisto pelo Gestor e comunicado aos Cedentes sempre que for constatado qualquer desenquadramento do Índice de Subordinação . 7.6 Quaisquer contratos e/ou documentos relativos às operações da carteira d a Classe poderão ser celebrados pelo Gestor, devendo ser encaminhados para o Administrador e para o Custodiante ou as Entidades Registradoras, conforme o caso. Crit…",
+      "source_excerpt": "comunicação prévia ao Gestor, ou, alternativamente, revisto pelo Gestor e comunicado aos Cedentes sempre que for constatado qualquer desenquadramento do Índice de Subordinação . 7.6 Quaisquer contratos e/ou documentos relativos às operações da carteira d a Classe poderão ser celebrados pelo Gestor, devendo ser encaminhados para o Administrador e para o Custodiante ou as Entidades Registradoras, conforme o caso. Crit…"
+    },
+    {
+      "name": "Critério de elegibilidade",
+      "description": "encontrar-se qualificado, perante à Classe, como Devedor Inadimplente - Classe; (x) os Direitos Creditórios devem ser de legítima e exclusiva titularidade do Cedente, inclusive perante a Entidade Registradora; e (xi) a UR deve estar devidamente registrada na Entidade Registradora. 7.9 Adicionalmente aos Critérios de Elegibilidade, os Direitos Creditórios que poderão ser adquiridos pela Classe deverão atender, cumula…",
+      "source_excerpt": "encontrar-se qualificado, perante à Classe, como Devedor Inadimplente - Classe; (x) os Direitos Creditórios devem ser de legítima e exclusiva titularidade do Cedente, inclusive perante a Entidade Registradora; e (xi) a UR deve estar devidamente registrada na Entidade Registradora. 7.9 Adicionalmente aos Critérios de Elegibilidade, os Direitos Creditórios que poderão ser adquiridos pela Classe deverão atender, cumula…"
+    }
+  ],
+  "emissions": [
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "e local para que seja feita a entrega dos ativos, ou (ii) não tenha sido eleito um administrador para o condomínio, nos termos 32 solicitados pelo Administrador na notificação referida no item 1 8.4.1, o Administrador poderá promover a consignação dos ativos, na forma do Artigo 334 do Código Civil Brasileiro. 19. REMUNERAÇÃO E ENCARGOS DO FUNDO 19.1. Pela administração do Fundo, nela compreendida as atividades do Ad…",
+      "amortization_schedule": "egulamentação aplicável; (vii) elaborar e divulgar as informações periódicas e eventuais do Fundo; (viii) manter atualizada junto à CVM a lista de todos os prestadores de serviços contratados pelo FUNDO, inclusive os prestadores de serviços essenciais, bem como as demais informações cadastrais do Fundo; (ix) efetuar a amortização das Cotas; (x) monitorar, na esfera de sua competência, as hipóteses de liquidação ante…",
+      "maturity": "er; e (b) indicação do caráter definitivo, ou não, da cessão de direitos creditórios; (v) impacto dos eventos de pré -pagamento no valor do patrimônio líquido e na rentabilidade da carteira; (vi) condições de alienação, a qualquer título, de direitos creditórios, incluindo: (a) momento da alienação (antes ou depois do vencimento); e (b) motivação da alienação; 12 Corporativo | Interno (vii) impacto no valor do patri…",
+      "source_excerpt": "1 Corporativo | Interno REGULAMENTO DO TOP 2025 J FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA Datado de 22 de setembro de 2025. 2 Corporativo | Interno REGULAMENTO DO TOP 2025 J FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA PARTE GERAL 1. Definições “1ª Data de Emissão de Cotas ” é a data em que os recursos decorrentes da primeira integralização de Cotas, em moed…",
+      "source_document": "1056018_regulamento_regulamento_1056018_2025-09-22.pdf",
+      "source_document_id": 1056018
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1000.0,
+      "amount_display": "R$ 1.000,00",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "1 ATO DO ADMINISTRADOR PARA APROVAÇÃO DA OFERTA PRIVADA DE COTAS DA 2ª EMISSÃO DA CLASSE ÚNICA DO TOP 2025 J FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ 62.838.025/0001-16 Pelo presente Instrumento Particular , a INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., com sede na Cidade de São Paulo, no Estado de São Paulo, na Av. Brigadeiro Faria Lima, nº 3.500, 4º andar, Itaim…",
+      "source_document": "1032846_assembleia_assembleia_1032846_2025-11-10.pdf",
+      "source_document_id": 1032846
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "Corporativo | Externo INSTRUMENTO PARTICULAR DE RETIFICAÇÃO E RATIFICAÇÃO DO ATO DO ADMINISTRADOR PARA APROVAÇÃO DA OFERTA PRIVADA DE COTAS DA 2ª EMISSÃO DA CLASSE ÚNICA DO TOP 2025 J FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ 62.838.025/0001-16 Pelo presente Instrumento Particular, a INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., com sede na Cidade de São Paulo, no Es…",
+      "source_document": "1052452_assembleia_assembleia_1052452_2025-12-02.pdf",
+      "source_document_id": 1052452
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "",
+      "amount": 1999999837.84,
+      "amount_display": "R$ 1.999.999.837,84",
+      "currency": "R$",
+      "remuneration": "",
+      "amortization_schedule": "",
+      "maturity": "",
+      "source_excerpt": "uído nos termos do Anexo Normativo II da Resolução da CVM nº 175, de 23 de dezembro de 2022, conforme alterada (respectivamente, “FIDC NC 2025” e “Resolução CVM 175 ”), inscrito no CNPJ sob o nº 61.285.603/0001-71, a partir de deliberação em assembleia geral de cotistas realizada, aprovou a realização da cisão parcial de seu patrimônio líquido (“Cisão”); e (ii) o Fundo foi constituído através do “Instrumento Particu…",
+      "source_document": "1054472_regulamento_regulamento_1054472_2025-12-04.pdf",
+      "source_document_id": 1054472
+    },
+    {
+      "date": null,
+      "event": "evento de cota",
+      "series_or_class": "Cotas Subordinadas Júnior",
+      "amount": null,
+      "amount_display": "",
+      "currency": null,
+      "remuneration": "a de Gestão; (xvi) Taxa Máxima de Distribuição; (xvii) Taxa Máxima de Custódia; (xviii) despesas relacionadas ao serviço de formação de mercado; (xix) contratação da Agência de Classificação de Risco; (xx) despesas com o registro de Direitos Creditórios; (xxi) despesas com a contratação do Agente de Cobrança; (xxii) remuneração do Custodiante dos Direitos Creditórios; e (xxiii) despesas com prestador(es) de serviços…",
+      "amortization_schedule": "para fins regulatórios, de no mínimo, 50% (cinquenta por cento) de seu Patrimônio Líquido na aquisição de Direitos Creditórios. Adicionalmente, o Gestor buscará manter, no mínimo, 67% (sessenta e sete por cento) do Patrimônio Líquido da Classe em direitos creditórios, conforme definido pela Resolução CMN nº 5.111/23. “Amortização Extraordinária” tem o significado que lhe é atribuído no item 11.2 do Anexo. “Amortizaç…",
+      "maturity": "jeções de Fluxo de Caixa dos Direitos Creditório s: com relação a uma Data de Aquisição e um índice de mês “N”, significa o valor presente agregado das projeções de fluxo de caixa dos Direitos Creditórios adquiridos pela Classe , descontados de Provisão para Devedores Duvidosos (PDD), considerando os fluxos de caixa com vencimento até à N-ésima Data de Pagamento contada da respectiva Data de Aquisição em questão. Pa…",
+      "source_excerpt": "e A” significa o apêndice que descreve as características da subclasse de Cotas Sênior. “Apêndice B” significa o apêndice que descreve as características da subclasse de Cotas Subordinadas Júnior. “Apêndices” significam, quando referidos indistintamente e em conjunto, o Apêndice A e o Apêndice B. “Arranjo de Pagamentos” significa o conjunto de regras e procedimentos estabelecidos por um instituidor de arranjo de pag…",
+      "source_document": "1058234_regulamento_regulamento_1058234_2025-12-10.pdf",
+      "source_document_id": 1058234
+    }
+  ],
+  "extraction_count": 9,
+  "extraction_errors": []
+}
